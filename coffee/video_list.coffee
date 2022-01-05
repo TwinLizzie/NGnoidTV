@@ -319,6 +319,7 @@ class video_lister
       queried_string = $("#search_bar").val()      
       globalTimeout = setTimeout ->
         $("#video_list").html ""
+        $("#more_videos").html "<div class='spinner'><div class='bounce1'></div></div>"
         queried_string = $("#search_bar").val()      
         get_the_query(queried_string)
       , 1000

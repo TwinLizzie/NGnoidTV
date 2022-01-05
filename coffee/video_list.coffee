@@ -104,7 +104,12 @@ class video_lister
       video_thumbnail = $("<a></a>")
       video_thumbnail.attr "id", video_thumbnail_id
       video_thumbnail.attr "class", "video_thumbnail"
-      video_thumbnail.css "background-image", "url('"+video_image+"')"
+      
+      vimCheckHttp = video_image.substring(0, 4)
+      if vimCheckHttp == 'http'
+        video_thumbnail.css "background-image", "url('img/video_empty.png')"      
+      else
+        video_thumbnail.css "background-image", "url('"+video_image+"')"
       video_thumbnail.attr "href", "?Video=" + video_string 
 
       video_info_id = "info_" + @counter

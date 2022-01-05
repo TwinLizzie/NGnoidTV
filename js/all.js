@@ -1766,7 +1766,7 @@
     }
 
     print_row(item) {
-      var elementExists, file_is_downloading, file_name, file_peer, file_seed, file_seed_no_null, flush_page, full_channel_name, optional_inner_path, optional_size, seed_button_display, seed_click, size_display, update_page, user_info, user_info_id, video_brief, video_channel_name, video_date_added, video_description, video_image, video_info, video_info_id, video_link, video_link_id, video_name, video_peers, video_peers_id, video_peers_info, video_row, video_row_id, video_seed_button, video_seed_button_id, video_size, video_string, video_thumbnail, video_thumbnail_id, video_title, video_user_address;
+      var elementExists, file_is_downloading, file_name, file_peer, file_seed, file_seed_no_null, flush_page, full_channel_name, optional_inner_path, optional_size, seed_button_display, seed_click, size_display, update_page, user_info, user_info_id, video_brief, video_channel_name, video_date_added, video_description, video_image, video_info, video_info_id, video_link, video_link_id, video_name, video_peers, video_peers_id, video_peers_info, video_row, video_row_id, video_seed_button, video_seed_button_id, video_size, video_string, video_thumbnail, video_thumbnail_id, video_title, video_user_address, vimCheckHttp;
       optional_inner_path = "data/users/" + item.directory + "/" + item.file_name;
       file_name = item.file_name;
       file_seed = 0;
@@ -1815,7 +1815,12 @@
         video_thumbnail = $("<a></a>");
         video_thumbnail.attr("id", video_thumbnail_id);
         video_thumbnail.attr("class", "video_thumbnail");
-        video_thumbnail.css("background-image", "url('" + video_image + "')");
+        vimCheckHttp = video_image.substring(0, 4);
+        if (vimCheckHttp === 'http') {
+          video_thumbnail.css("background-image", "url('img/video_empty.png')");
+        } else {
+          video_thumbnail.css("background-image", "url('" + video_image + "')");
+        }
         video_thumbnail.attr("href", "?Video=" + video_string);
         video_info_id = "info_" + this.counter;
         video_info = $("<div></div>");

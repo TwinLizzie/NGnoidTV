@@ -5,8 +5,10 @@ class video_lister
     @max_videos=50
     #@last_max_videos=0
     @query_string=""
+    @previous_query_string=""
     @counter=1
     @order_by=""
+    @global_timeout
 
   more_videos_yes: =>
     @max_videos+=50
@@ -20,11 +22,12 @@ class video_lister
     else
       @counter=1
 
-  get_query: =>
-    query_value = $("#search_bar").val()
-    @query_string=query_value
-    @flush("all")
-    @update()
+  get_query: (gotten_query) =>
+    @query_string=gotten_query
+    if @query_string != @previous_query_string
+      @flush("all")
+      @update()
+      @previous_query_string = @query_string
 
   linkify: (to, display, tag_class = "", tag_id = "", tag_style = "") =>
     link = "<a id='"+tag_id+"' href='?Video="+to+"'"
@@ -47,7 +50,6 @@ class video_lister
     return false
 
   print_row: (item) =>
-    #optional_inner_path = item.inner_path
     optional_inner_path = "data/users/" + item.directory + "/" + item.file_name
     file_name = item.file_name
     file_seed = 0
@@ -162,19 +164,22 @@ class video_lister
       flush_page = @flush
       update_page = @update
       $("#" + video_seed_button_id).on "click", ->
-        console.log("Seeding: " + this.value)
+        console.log("[NGnoidTV: Seeding - " + this.value + "]")
         seed_click(this.value)
         flush_page()
         update_page()
 
     @counter = @counter + 1
 
-  query_database: (query, file_limit, order_actual) =>
+  query_database: (query, file_limit, order_actual, query_peer) =>
 
     query_full = "SELECT * FROM file LEFT JOIN json USING (json_id) "+query+" ORDER BY date_added DESC" + file_limit
-    #console.log(query_full)
+
+    #if @query_string != ""
+    #  if @order_by == "peer"      
+    #    query_peer = false
     
-    if @order_by is "peer"
+    if query_peer == true
       Page.cmd "optionalFileList", order_actual, (res1) =>
         #if @max_videos > 50
           #$("#video_list").html ""
@@ -212,7 +217,6 @@ class video_lister
           stats = {}
           if res2.length > 0
             for row2, i in res2
-              console.log(stats[row2.inner_path])
               stats[row2.inner_path] = row2            
          
             for row1, j in res1
@@ -235,7 +239,7 @@ class video_lister
             $("#video_list").html "<p style='color: white; margin-left: 10px'>No peers available yet. Stats will show after first download...</p>"
             for row3, k in res1
               if @counter < @max_videos
-                @print_row(row3)         
+                @print_row(row3)          
           
   update: =>
     console.log "[KopyKate: Updating video list]"
@@ -249,16 +253,20 @@ class video_lister
 
     if @order_by is "peer"
       order_actual = {orderby: "peer DESC", filter: "bigfile", address: "18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh", limit: max_videos}
-      query_string_no_space = @query_string.replace /\s/g, "%"
-      query = "WHERE file.title LIKE '%" +query_string_no_space+ "%'"
-      query_database query, file_limit, order_actual
+      if @query_string != ""
+        query_string_no_space = @query_string.replace /\s/g, "%"
+        query = "WHERE file.title LIKE '%" +query_string_no_space+ "%'"
+        query_database query, file_limit, order_actual, false        
+      else
+        query = ""
+        query_database query, file_limit, order_actual, true
     else if @order_by is "channel"
       init_url = Page.history_state["url"]
       channel_name = init_url.split("Channel=")[1]
       order_actual = {filter: "", address: "18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh", limit: max_videos}
       query_string_no_space = @query_string.replace /\s/g, "%"
       query = "WHERE cert_user_id='" + channel_name + "' AND file.title LIKE '%" +query_string_no_space+ "%'"
-      query_database query, file_limit, order_actual      
+      query_database query, file_limit, order_actual, false      
     else if @order_by is "subbed"
       query_string_no_space = @query_string.replace /\s/g, "%"
       query_timeout = setTimeout ->      
@@ -276,13 +284,16 @@ class video_lister
                   query += " OR directory='" + row0.user_address + "'"    
               if i == res0.length
                 order_actual = {filter: "", address: "18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh", limit: max_videos}
-                query_database query, file_limit, order_actual       
+                query_database query, file_limit, order_actual, false    
       , 1000      
     else
       order_actual = {filter: "", address: "18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh", limit: max_videos}
-      query_string_no_space = @query_string.replace /\s/g, "%"
-      query = "WHERE file.title LIKE '%" +query_string_no_space+ "%'"
-      query_database query, file_limit, order_actual
+      if @query_string != ""
+        query_string_no_space = @query_string.replace /\s/g, "%"
+        query = "WHERE file.title LIKE '%" +query_string_no_space+ "%'"
+      else
+        query = ""
+      query_database query, file_limit, order_actual, false       
 
   render: =>
     query_value = $("#search_bar").val()
@@ -291,11 +302,26 @@ class video_lister
     video_list.attr "id", "video_list"
     video_list.attr "class", "video_list"
     #video_list.html "<div class='spinner'><div class='bounce1'></div></div>"
+    
+    page_update = @update
+    ordering_by = @order_by
 
     footer = $("<div></div>")
     footer.attr "id", "footer"
     footer.attr "class", "footer"
 
+    get_the_query = @get_query
+    ordering_by = @order_by    
+    queried_string = @query_string
+    globalTimeout = @globalTimeout
+    $("#search_bar").on "keyup", ->
+      clearTimeout(globalTimeout)
+      queried_string = $("#search_bar").val()      
+      globalTimeout = setTimeout ->
+        $("#video_list").html ""
+        queried_string = $("#search_bar").val()      
+        get_the_query(queried_string)
+      , 1000
     more_videos = $("<a></a>")
     more_videos.attr "id", "more_videos"
     more_videos.attr "class", "more_videos"

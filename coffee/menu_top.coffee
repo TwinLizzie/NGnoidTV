@@ -87,13 +87,13 @@ class top_menuify
     $("#search_wrap").append search_bar
     $("#search_bar").change ->
       if Page.history_state["url"]
-        if Page.history_state["url"].indexOf("Home") > -1
-          video_lister.get_query()
-        else if Page.history_state["url"].indexOf("Latest") > -1
-          video_lister.get_query()
-        else if Page.history_state["url"].indexOf("Channel") > -1
-          video_lister.get_query()
-        else if Page.history_state["url"].indexOf("Box") > -1
+        #if Page.history_state["url"].indexOf("Home") > -1
+        #  video_lister.get_query()
+        #else if Page.history_state["url"].indexOf("Latest") > -1
+        #  video_lister.get_query()
+        #else if Page.history_state["url"].indexOf("Channel") > -1
+        #  video_lister.get_query()
+        if Page.history_state["url"].indexOf("Box") > -1
           videobox.get_query()
         else if Page.history_state["url"].indexOf("Seed") > -1
           seedbox.get_query()
@@ -107,7 +107,7 @@ class top_menuify
     $("#upload_link").on "click", ->
       Page.nav(this.href)
     $("#site_logo").on "click", ->
-      Page.nav(this.href)
+      Page.nav(this.href)    
     $("#main_menu").on "click", ->
       $("#nav").toggle()
     $("#search_toggle").on "click", (e) ->

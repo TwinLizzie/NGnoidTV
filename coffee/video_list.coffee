@@ -49,7 +49,7 @@ class video_lister
       console.log(res)
     return false
 
-  print_row: (item) =>
+  print_row: (item, peer_mode=false) =>
     optional_inner_path = "data/users/" + item.directory + "/" + item.file_name
     file_name = item.file_name
     file_seed = 0
@@ -144,8 +144,11 @@ class video_lister
       video_description.attr "id", "video_brief"
       video_description.attr "class", "video_brief"
       video_description.text video_brief
-
-      $("#video_list").append video_row
+ 
+      if peer_mode is true
+        $("#video_list_peer").append video_row
+      else
+        $("#video_list").append video_row      
       $("#" + video_row_id).append video_thumbnail
       $("#" + video_row_id).append video_info
       $("#" + video_info_id).append video_link
@@ -171,23 +174,20 @@ class video_lister
       $("#" + video_seed_button_id).on "click", ->
         console.log("[NGnoidTV: Seeding - " + this.value + "]")
         seed_click(this.value)
-        flush_page()
-        update_page()
+        $("#" + video_peers_id).html "<div class='spinner_seed'><div class='bounce1'></div></div>"
+        $("#" + video_peers_id).append $("<span class='video_brief_seed'>Seeding...</span>")
+        #flush_page()
+        #update_page()
 
     @counter = @counter + 1
 
-  query_database: (query, file_limit, order_actual, query_peer) =>
+  query_database: (query_full, file_limit, order_actual, query_peer) =>
 
-    query_full = "SELECT * FROM file LEFT JOIN json USING (json_id) "+query+" ORDER BY date_added DESC" + file_limit
-
-    #if @query_string != ""
-    #  if @order_by == "peer"      
-    #    query_peer = false
-    
+    #console.log(query_full)   
     if query_peer == true
+      $("#video_list").hide()
+      $("#video_list_peer").show()      
       Page.cmd "optionalFileList", order_actual, (res1) =>
-        #if @max_videos > 50
-          #$("#video_list").html ""
         $("#more_videos").html "<div class='more_videos text'>More videos!</div>"
         
         stats = {}
@@ -197,7 +197,7 @@ class video_lister
             stats[row1.inner_path] = row1
             row1.stats = stats[row1.inner_path]
             row1.file_name = optional_name
-            
+
             Page.cmd "dbQuery", "SELECT * FROM file LEFT JOIN json USING (json_id) WHERE file.file_name='" + optional_name + "'", (res2) =>
               if res2.length > 0           
                 row1.title = res2[0].title
@@ -208,16 +208,21 @@ class video_lister
                 row1.directory = res2[0].directory
                 row1.cert_user_id = res2[0].cert_user_id 
               
-                @print_row(row1)
+                @print_row(row1, true)
         else
-          $("#video_list").html "<p style='color: white; margin-left: 10px'>No peers available yet. Stats will show after first download (See 'Airing Now')...</p>"        
+          $("#video_list_peer").html "<p style='color: white; margin-left: 10px'>No peers available yet. Stats will show after first download (See 'Airing Now')...</p>"        
           
     else
+      $("#video_list").show()
+      $("#video_list_peer").hide()      
+      if @max_videos is 50
+        $("#video_list").html ""
+        $("#video_list_peer").html ""                      
       Page.cmd "dbQuery", [query_full], (res1) =>
         Page.cmd "optionalFileList", order_actual, (res2) =>
           if @max_videos > 50
             $("#video_list").html ""
-          $("#more_videos").html "<div class='more_videos text'>More videos!</div>"
+          $("#more_videos").html "<div class='more_videos text'>More videos!</div>"  
         
           stats = {}
           if res2.length > 0
@@ -260,44 +265,45 @@ class video_lister
       order_actual = {orderby: "peer DESC", filter: "bigfile", address: "18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh", limit: max_videos}
       if @query_string != ""
         query_string_no_space = @query_string.replace /\s/g, "%"
-        query = "WHERE file.title LIKE '%" +query_string_no_space+ "%'"
+        query = "SELECT * FROM file LEFT JOIN json USING (json_id) WHERE file.title LIKE '%" +query_string_no_space+ "%' ORDER BY date_added DESC" + file_limit
         query_database query, file_limit, order_actual, false        
       else
-        query = ""
+        query = "SELECT * FROM file LEFT JOIN json USING (json_id) ORDER BY date_added DESC" + file_limit
         query_database query, file_limit, order_actual, true
     else if @order_by is "channel"
       init_url = Page.history_state["url"]
       channel_name = init_url.split("Channel=")[1]
       order_actual = {filter: "", address: "18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh", limit: max_videos}
       query_string_no_space = @query_string.replace /\s/g, "%"
-      query = "WHERE cert_user_id='" + channel_name + "' AND file.title LIKE '%" +query_string_no_space+ "%'"
+      query = "SELECT * FROM file LEFT JOIN json USING (json_id) WHERE cert_user_id='" + channel_name + "' AND file.title LIKE '%" +query_string_no_space+ "%' ORDER BY date_added DESC" + file_limit
       query_database query, file_limit, order_actual, false      
     else if @order_by is "subbed"
       query_string_no_space = @query_string.replace /\s/g, "%"
       query_timeout = setTimeout ->      
         if Page.site_info
           if Page.site_info.auth_address
-            clearTimeout(query_timeout) 
-            #query_database = @query_database   
+            clearTimeout(query_timeout)  
             Page.cmd "dbQuery", ["SELECT * FROM subscription LEFT JOIN json USING (json_id) WHERE directory='" + Page.site_info.auth_address + "'"], (res0) =>
-              query = "WHERE "
+              query_mid = "WHERE ("
               i = 0
               for row0, i in res0
                 if i < 1
-                  query += "directory='" + row0.user_address + "'"
+                  query_mid += "directory='" + row0.user_address + "'"
                 else
-                  query += " OR directory='" + row0.user_address + "'"    
+                  query_mid += " OR directory='" + row0.user_address + "'"    
               if i == res0.length
+                query_mid += ") AND file.title LIKE '%" + query_string_no_space + "%'" 
+                query_complete = "SELECT * FROM file LEFT JOIN json USING (json_id) "+query_mid+" ORDER BY date_added DESC" + file_limit
                 order_actual = {filter: "", address: "18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh", limit: max_videos}
-                query_database query, file_limit, order_actual, false    
+                query_database query_complete, file_limit, order_actual, false    
       , 1000      
     else
       order_actual = {filter: "", address: "18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh", limit: max_videos}
       if @query_string != ""
         query_string_no_space = @query_string.replace /\s/g, "%"
-        query = "WHERE file.title LIKE '%" +query_string_no_space+ "%'"
+        query = "SELECT * FROM file LEFT JOIN json USING (json_id) WHERE file.title LIKE '%" +query_string_no_space+ "%' ORDER BY date_added DESC" + file_limit
       else
-        query = ""
+        query = "SELECT * FROM file LEFT JOIN json USING (json_id) ORDER BY date_added DESC" + file_limit
       query_database query, file_limit, order_actual, false       
 
   render: =>
@@ -306,7 +312,10 @@ class video_lister
     video_list = $("<div></div>")
     video_list.attr "id", "video_list"
     video_list.attr "class", "video_list"
-    #video_list.html "<div class='spinner'><div class='bounce1'></div></div>"
+ 
+    video_list_peer = $("<div></div>")
+    video_list_peer.attr "id", "video_list_peer"
+    video_list_peer.attr "class", "video_list"
     
     page_update = @update
     ordering_by = @order_by
@@ -324,6 +333,7 @@ class video_lister
       queried_string = $("#search_bar").val()      
       globalTimeout = setTimeout ->
         $("#video_list").html ""
+        $("#video_list_peer").html ""        
         $("#more_videos").html "<div class='spinner'><div class='bounce1'></div></div>"
         queried_string = $("#search_bar").val()      
         get_the_query(queried_string)
@@ -339,6 +349,7 @@ class video_lister
     #$("#main").attr "style", "width: calc(100% - 236.25px); margin-left: 236.25px"
     #$("#nav").show()
     $("#main").append video_list
+    $("#main").append video_list_peer    
 
     $("#main").append footer
     $("#footer").append more_videos

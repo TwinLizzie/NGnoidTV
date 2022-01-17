@@ -13,7 +13,7 @@ class left_menuify
     item_head_version = $("<li></li>")
     item_head_version.attr "id", "item_head_version"
     item_head_version.attr "class", "list_item li_head"
-    item_head_version.text "BETA v0.3.01"
+    item_head_version.text "BETA v0.3.05"
 
     item_home = $("<li></li>")
     item_home.attr "id", "item_home"
@@ -72,7 +72,10 @@ class left_menuify
     item_source_link = $("<a></a>")
     item_source_link.attr "id", "item_source_link"
     item_source_link.attr "class", "item_link"
-    item_source_link.attr "href", "http://127.0.0.1:43110/12NptcFqnsxiydK4W8VLK6EwjpbZS3bTHS"
+    if window.location.origin is "https://portal.ngnoid.tv"
+      item_source_link.attr "href", "https://github.com/TwinLizzie/ngnoidtv"
+    else
+      item_source_link.attr "href", "http://127.0.0.1:43110/12NptcFqnsxiydK4W8VLK6EwjpbZS3bTHS"
     item_source_link.text "Source Code"
 
     $("#nav").html ""

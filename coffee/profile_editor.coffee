@@ -5,9 +5,18 @@ class profile_editor
     @render_timeout
 
   render_box: =>
-    $("#profile_editor").text "Welcome to KopyKate BIG!"
-    $("#profile_editor_title").text "You are logged in as:"     
-    $("#profile_editor_user").text Page.site_info.cert_user_id    
+    current_account = Page.site_info.cert_user_id        
+    anon_accounts = Page.site_info.content.settings.anon_accounts
+    if anon_accounts.includes(current_account) == true
+      $("#profile_editor").text "Welcome to KopyKate BIG!" 
+      $("#profile_editor_title").html ""      
+      $("#profile_editor_title").text "You are anonymous. You are legion. We expect you"            
+    else
+      $("#profile_editor").text "Welcome to KopyKate BIG!"
+      $("#profile_editor_title").html ""      
+      $("#profile_editor_title").text "You are logged in as:"     
+      $("#profile_editor_user").text current_account        
+        
 
   render: =>
     console.log("[KopyKate: Rendering profile editor.]")  
@@ -38,22 +47,24 @@ class profile_editor
     $("#container_editorbox").append user_peditorbox  
     
     $("#profile_editor").text "Loading user info..." 
+    if window.location.origin is "https://portal.ngnoid.tv"
+      $("#profile_editor_title").html "New to ZeroNet? Check out the <a href='https://zeronet.dev'>PC/Mobile apps</a> or my <a href='https://github.com/TwinLizzie/ZeroNet'>Github fork.</a>" 
     
     render_box = @render_box
-    render_user = @render_user
+    #render_user = @render_user
     
     @render_timeout = setTimeout ->   
       if Page.site_info  
         if Page.site_info.cert_user_id
           clearTimeout(@render_timeout)
           render_box()
-          render_user()
+          #render_user()
         else
           Page.cmd "certSelect", [["zeroid.bit"]], (res) =>
             console.log "This isn't right."
             clearTimeout(@render_timeout)
             render_box()
-            render_user()
+            #render_user()
     , 1000 
     
 profile_editor = new profile_editor()

@@ -76,9 +76,13 @@ class editor
         video_size = my_row['size']
 
         user_directory = my_row['directory']
+        user_cert_id = my_row['cert_user_id']
      
-        if user_directory is Page.site_info.auth_address
-
+        current_account = Page.site_info.cert_user_id
+        anon_accounts = Page.site_info.content.settings.anon_accounts
+     
+        if user_directory is Page.site_info.auth_address && anon_accounts.includes(current_account) is false 
+        
           editor_container = $("<div></div>")
           editor_container.attr "id", "editor_container"
           editor_container.attr "class", "editor_container"

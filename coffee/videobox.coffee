@@ -68,75 +68,106 @@ class videobox
             this_flush("all")
             this_update()
 
+  display_proxy_warn: =>
+    if window.location.origin is "https://portal.ngnoid.tv"
+      $("#videobox").html "<p style='color: white; margin-left: 10px'>Your video list is empty.</p><p style='color: white; margin-left: 10px'>New to ZeroNet? Check out the PC and mobile client at <a href='https://zeronet.dev'>ZeroNet.dev</a></p><p style='color: white; margin-left: 10px'>If you're on Linux, simply clone my <a href='https://github.com/TwinLizzie/ZeroNet'>Github repository</a> and run python3 zeronet.py</p>" 
+
   update: =>
     console.log "[KopyKate: Retrieving videobox]"
     query_string_no_space = @query_string.replace /\s/g, "%"
     query = "WHERE file.title LIKE '%" +query_string_no_space+ "%'"
+
+    this_flush = @flush
+    this_update = @update
     
-    Page.cmd "dbQuery", ["SELECT * FROM file LEFT JOIN json USING (json_id) "+query+" ORDER BY date_added DESC"], (res1) =>
-      Page.cmd "optionalFileList", {filter: "", limit: 1000}, (res2) =>
+    if Page.site_info
+      if Page.site_info.cert_user_id
+        Page.cmd "dbQuery", ["SELECT * FROM file LEFT JOIN json USING (json_id) "+query+" AND cert_user_id='"+Page.site_info.cert_user_id+"' ORDER BY date_added DESC"], (res1) =>
 
-        $("#videobox").html ""
-        $("#more_videos").html "<div class='more_videos text'>More videos!</div>"
+          $("#videobox").html ""
+          $("#more_videos").html "<div class='more_videos text'>More videos!</div>"
 
-        for row1, i in res1
-          for row2, j in res2
-            optional_path = row2['inner_path']
-            file_name = row2['inner_path'].replace /.*\//, ""
-            file_seed = row2['peer_seed']
-            file_peer = row2['peer']
-            video_name = row1['file_name']
-            video_title = row1['title']
-            video_brief = row1['description']
-            video_image = row1['image_link']
-            video_date_added = row1['date_added']
-            video_user_address = row1['directory']
+          current_account = Page.site_info.cert_user_id
+          anon_accounts = Page.site_info.content.settings.anon_accounts
 
-            if video_name is file_name and video_user_address is Page.site_info.auth_address and @counter < @max_videos
-              file_seed_no_null = file_seed || 0
+          if res1.length > 0 && anon_accounts.includes(current_account) is false 
 
-              video_string = video_date_added + "_" + video_user_address
-              video_row_id = "boxrow_" + @counter
-              video_link_id = video_string
+            for row1, i in res1
+              optional_path = "data/users/" + row1['directory'] + "/" + row1['file_name']
+              file_name = row1['file_name']
+              #optional_path = row2['inner_path']
+              #file_name = row2['inner_path'].replace /.*\//, ""
+              #file_seed = row2['peer_seed']
+              #file_peer = row2['peer']
+              video_name = row1['file_name']
+              video_title = row1['title']
+              video_brief = row1['description']
+              video_image = row1['image_link']
+              video_date_added = row1['date_added']
+              video_user_address = row1['directory']
 
-              video_row = $("<div></div>")
-              video_row.attr "id", video_row_id
-              video_row.attr "class", "videobox_row"
+              if @counter < @max_videos
+              #file_seed_no_null = file_seed || 0
 
-              video_edit_link_id = "edit_" + @counter
-              video_edit_link = $("<a></a>")
-              video_edit_link.attr "id", video_edit_link_id
-              video_edit_link.attr "class", "editor_button"
-              video_edit_link.attr "href", "?Editor=" + video_string
+                video_string = video_date_added + "_" + video_user_address
+                video_row_id = "boxrow_" + @counter
+                video_link_id = video_string
 
-              video_delete_link_id = "delete_" + @counter
-              video_delete_link = $("<button></button>")
-              video_delete_link.attr "id", video_delete_link_id
-              video_delete_link.attr "class", "delete_button"
-              video_delete_link.attr "value", optional_path
+                video_row = $("<div></div>")
+                video_row.attr "id", video_row_id
+                video_row.attr "class", "videobox_row"
 
-              video_link_id = "vlink_" + video_string
-              video_link = $("<a></a>")
-              video_link.attr "id", video_link_id
-              video_link.attr "class", "video_link edit_link_alt"
-              video_link.attr "href", "?Video=" + video_string
-              video_link.text video_title
+                video_edit_link_id = "edit_" + @counter
+                video_edit_link = $("<a></a>")
+                video_edit_link.attr "id", video_edit_link_id
+                video_edit_link.attr "class", "editor_button"
+                video_edit_link.attr "href", "?Editor=" + video_string
 
-              $("#videobox").append video_row
-              $("#" + video_row_id).append video_delete_link
-              $("#" + video_row_id).append video_edit_link
-              $("#" + video_row_id).append video_link
+                video_delete_link_id = "delete_" + @counter
+                video_delete_link = $("<button></button>")
+                video_delete_link.attr "id", video_delete_link_id
+                video_delete_link.attr "class", "delete_button"
+                video_delete_link.attr "value", optional_path
 
-              delete_video = @delete_video
-              $("#" + video_delete_link_id).on "click", ->
-                delete_video(this.value)
-              $("#" + video_edit_link_id).on "click", ->
-                Page.nav(this.href)
-              $("#" + video_link_id).on "click", ->
-                Page.nav(this.href)
+                video_link_id = "vlink_" + video_string
+                video_link = $("<a></a>")
+                video_link.attr "id", video_link_id
+                video_link.attr "class", "video_link edit_link_alt"
+                video_link.attr "href", "?Video=" + video_string
+                video_link.text video_title
 
-              @counter = @counter + 1
+                $("#videobox").append video_row
+                $("#" + video_row_id).append video_delete_link
+                $("#" + video_row_id).append video_edit_link
+                $("#" + video_row_id).append video_link
 
+                delete_video = @delete_video
+                $("#" + video_delete_link_id).on "click", ->
+                  delete_video(this.value)
+                $("#" + video_edit_link_id).on "click", ->
+                  Page.nav(this.href)
+                $("#" + video_link_id).on "click", ->
+                  Page.nav(this.href)
+
+                @counter = @counter + 1
+          else 
+            if window.location.origin is "https://portal.ngnoid.tv"
+              $("#videobox").html "<p style='color: white; margin-left: 10px'>Your video list is empty.</p><p style='color: white; margin-left: 10px'>New to ZeroNet? Check out the PC and mobile client at <a href='https://zeronet.dev'>ZeroNet.dev</a></p><p style='color: white; margin-left: 10px'>If you're on Linux, simply clone my <a href='https://github.com/TwinLizzie/ZeroNet'>Github repository</a> and run python3 zeronet.py</p>"            
+            else
+              $("#videobox").html "<p style='color: white; margin-left: 10px'>Oops! Nothing to see here... (Yet?)</p>"
+      else     
+        @display_proxy_warn()
+
+        Page.cmd "certSelect", [["zeroid.bit"]], (res) =>  
+          this_flush("all")
+          this_update()            
+    else     
+      @display_proxy_warn()
+
+      Page.cmd "certSelect", [["zeroid.bit"]], (res) =>  
+        this_flush("all")
+        this_update()
+                      
   render: =>
     query_value = $("#search_bar").val()
     @query_string=query_value

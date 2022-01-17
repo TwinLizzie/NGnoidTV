@@ -103,12 +103,17 @@ class video_playing
 
     this_load_comments = @load_comments
 
-    Page.cmd "wrapperConfirm", ["Delete comment?", "Delete"], =>
-      delete_from_data_json file_uri, cid, body, date_added, (res) ->
-        if res == "ok"
-          Page.cmd "sitePublish", {"inner_path": content_inner_path} 
-          console.log("[KopyKate: Deleted comment]")
-          this_load_comments()
+    current_account = Page.site_info.cert_user_id        
+    anon_accounts = Page.site_info.content.settings.anon_accounts    
+    if anon_accounts.includes(current_account) == false   
+      Page.cmd "wrapperConfirm", ["Delete comment?", "Delete"], =>
+        delete_from_data_json file_uri, cid, body, date_added, (res) ->
+          if res == "ok"
+            Page.cmd "sitePublish", {"inner_path": content_inner_path} 
+            console.log("[KopyKate: Deleted comment]")
+            this_load_comments()
+    else
+      Page.cmd("wrapperNotification", ["info", "Not allowed in proxy using anon account!"]) 
 
   register_subscription: (file_directory, cb) =>
     inner_path = "data/users/" + Page.site_info.auth_address + "/data.json"
@@ -188,32 +193,47 @@ class video_playing
   subscribe: (file_directory) =>
     register_subscription = @register_subscription
     load_subs = @load_subs
-    editor.check_content_json (res) =>
-      register_subscription file_directory, (res) =>
-        load_subs()
-        Page.cmd "siteSign", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json"}, (res) ->
-          Page.cmd "sitePublish", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json", "sign": false}           
-  
+    
+    current_account = Page.site_info.cert_user_id        
+    anon_accounts = Page.site_info.content.settings.anon_accounts    
+    if anon_accounts.includes(current_account) == false      
+      editor.check_content_json (res) =>
+        register_subscription file_directory, (res) =>
+          load_subs()
+          Page.cmd "siteSign", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json"}, (res) ->
+            Page.cmd "sitePublish", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json", "sign": false}           
+    else
+      Page.cmd("wrapperNotification", ["info", "Not allowed in proxy using anon account!"])  
   add_vote: (file_date_added, file_directory) =>
     file_uri = file_date_added + "_" + file_directory
     register_vote = @register_vote
     load_likes = @load_likes
-    editor.check_content_json (res) =>
-      register_vote file_uri, (res) =>
-        load_likes()
-        Page.cmd "siteSign", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json"}, (res) ->
-          Page.cmd "sitePublish", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json", "sign": false} 
-
+    
+    current_account = Page.site_info.cert_user_id        
+    anon_accounts = Page.site_info.content.settings.anon_accounts    
+    if anon_accounts.includes(current_account) == false    
+      editor.check_content_json (res) =>
+        register_vote file_uri, (res) =>
+          load_likes()
+          Page.cmd "siteSign", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json"}, (res) ->
+            Page.cmd "sitePublish", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json", "sign": false} 
+    else
+      Page.cmd("wrapperNotification", ["info", "Not allowed in proxy using anon account!"])
   add_report: (file_date_added, file_directory) =>
     file_uri = file_date_added + "_" + file_directory
     register_report = @register_report
     load_report = @load_report
-    editor.check_content_json (res) =>
-      register_report file_uri, (res) =>
-        load_report()
-        Page.cmd "siteSign", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json"}, (res) ->
-          Page.cmd "sitePublish", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json", "sign": false}
 
+    current_account = Page.site_info.cert_user_id        
+    anon_accounts = Page.site_info.content.settings.anon_accounts
+    if anon_accounts.includes(current_account) == false
+      editor.check_content_json (res) =>
+        register_report file_uri, (res) =>
+          load_report()
+          Page.cmd "siteSign", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json"}, (res) ->
+            Page.cmd "sitePublish", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json", "sign": false}
+    else
+      Page.cmd("wrapperNotification", ["info", "Not allowed in proxy using anon account!"])
   write_comment: (file_date_added, file_directory, comment_body) =>    
     register_comment = @register_comment
     load_comments = @load_comments
@@ -613,90 +633,69 @@ class video_playing
     query = "SELECT * FROM file LEFT JOIN json USING (json_id) WHERE date_added='" + date_added + "' AND directory='" + user_address + "'"
     Page.cmd "dbQuery", [query], (res1) =>
       Page.cmd "optionalFileList", {filter: "", limit: 1000}, (res2) =>
-        my_row = res1[0]
-        file_name = my_row['file_name']
-        video_title = my_row['title']
-        video_channel = my_row['cert_user_id'].split("@")[0]
-        video_description = my_row['description']
-        video_date_added = my_row['date_added']
-        user_directory = my_row['directory']
+        if res1.length > 0
+          my_row = res1[0]
+          file_name = my_row['file_name']
+          video_title = my_row['title']
+          video_channel = my_row['cert_user_id'].split("@")[0]
+          video_description = my_row['description']
+          video_date_added = my_row['date_added']
+          user_directory = my_row['directory']
 
-        stats_loaded = false
+          stats_loaded = false
 
-        i = 0
-        for my_file, i in res2
-          optional_name = my_file['inner_path'].replace /.*\//, ""
-          optional_peer = my_file['peer']
-          optional_seed = my_file['peer_seed'] 
+          i = 0
+          for my_file, i in res2
+            optional_name = my_file['inner_path'].replace /.*\//, ""
+            optional_peer = my_file['peer']
+            optional_seed = my_file['peer_seed'] 
+
+            if optional_name is file_name
+              stats_loaded = true
+              $("#player_info").append "<span class='video_player_title'>" + video_title + "</span>"
+              $("#player_info").append "<div id='player_stats' class='video_player_stats'><span>" + optional_seed + " / " + optional_peer + " Peers &middot; </span></div>"           
+              $("#player_info").append "<span class='video_player_username'>" + video_channel.charAt(0).toUpperCase() + video_channel.slice(1) + "</span>"
+              $("#player_info").append "<span class='video_player_userdate'>Published " + Time.since(video_date_added) + "</span><br>"
+              $("#player_info").append "<span class='video_player_brief'>" + video_description + "</span>"
+              $("#player_info").append "<div class='player_icon'></div>"
+
+          if i is res2.length
+            if stats_loaded is false
+              $("#player_info").append "<span class='video_player_title'>" + video_title + "</span>"
+              $("#player_info").append "<div id='player_stats' class='video_player_stats'><span>0 / 0 Peers &middot; </span></div><br>"
+              $("#player_info").append "<span class='video_player_username'>" + video_channel.charAt(0).toUpperCase() + video_channel.slice(1) + "</span>"
+              $("#player_info").append "<span class='video_player_userdate'>Published " + Time.since(video_date_added) + "</span><br>"
+              $("#player_info").append "<span class='video_player_brief'>" + video_description + "</span>"
+              $("#player_info").append "<div class='player_icon'></div>"   
+        
+          video_actual = "data/users/" + user_directory + "/" + file_name
+        
+          @render_video(video_actual)
+        
+          word_array = video_title.split(" ")
           
-          #video_likes = 1
-
-          if optional_name is file_name
-            stats_loaded = true
-            $("#player_info").append "<span class='video_player_title'>" + video_title + "</span>"
-            $("#player_info").append "<div id='player_stats' class='video_player_stats'><span>" + optional_seed + " / " + optional_peer + " Peers &middot; </span></div>"
-            #$("#player_info").append "<span class='video_player_likes'>" + video_likes + " likes</span>"            
-            $("#player_info").append "<span class='video_player_username'>" + video_channel.charAt(0).toUpperCase() + video_channel.slice(1) + "</span>"
-            $("#player_info").append "<span class='video_player_userdate'>Published " + Time.since(video_date_added) + "</span><br>"
-            $("#player_info").append "<span class='video_player_brief'>" + video_description + "</span>"
-            $("#player_info").append "<div class='player_icon'></div>"
-
-        if i is res2.length
-          if stats_loaded is false
-            $("#player_info").append "<span class='video_player_title'>" + video_title + "</span>"
-            $("#player_info").append "<div id='player_stats' class='video_player_stats'><span>0 / 0 Peers &middot; </span></div><br>"
-            #$("#player_info").append "<span class='video_player_likes'>0 likes</span>"
-            $("#player_info").append "<span class='video_player_username'>" + video_channel.charAt(0).toUpperCase() + video_channel.slice(1) + "</span>"
-            $("#player_info").append "<span class='video_player_userdate'>Published " + Time.since(video_date_added) + "</span><br>"
-            $("#player_info").append "<span class='video_player_brief'>" + video_description + "</span>"
-            $("#player_info").append "<div class='player_icon'></div>"   
+          @load_related(word_array[0])
         
-        video_actual = "data/users/" + user_directory + "/" + file_name
+          $("#player_stats").append "<span id='likes_total'></span>"
+          $("#player_stats").append "<span id='like_button'></span>"
+          $("#player_stats").append "<span id='subscribers'></span>"        
+          $("#player_stats").append "<span id='subscribe_button'></span>"
+          $("#player_stats").append "<span id='report_button'></span>"
         
-        @render_video(video_actual)
-        
-        word_array = video_title.split(" ")
-          
-        @load_related(word_array[0])
-        
-        #like_button = $("<a></a>")
-        #like_button.attr "id", "like_button"
-        #like_button.attr "class", "like_icon"
-        #like_button.attr "href", "javascript:void(0)"
+          @load_likes()
+          @load_subs()
+          @load_report()             
 
-        #report_button = $("<a></a>")
-        #report_button.attr "id", "report_button"
-        #report_button.attr "class", "report_icon"
-        #report_button.attr "href", "javascript:void(0)"
-
-        #subscribe_button = $("<a></a>")
-        #subscribe_button.attr "id", "subscribe_button"
-        #subscribe_button.attr "class", "subscribe_icon"
-        #subscribe_button.attr "href", "javascript:void(0)"
-        
-        #$("#video_likes").text "? likes"
-        #$("#player_stats").append like_button
-        $("#player_stats").append "<span id='likes_total'></span>"
-        $("#player_stats").append "<span id='like_button'></span>"
-        $("#player_stats").append "<span id='subscribers'></span>"        
-        $("#player_stats").append "<span id='subscribe_button'></span>"
-        $("#player_stats").append "<span id='report_button'></span>"
-        #$("#player_stats").append "<span>&middot; Report</span>"
-        #$("#player_stats").append report_button        
-        #$("#player_stats").append subscribe_button
-        
-        @load_likes()
-        @load_subs()
-        @load_report()             
-
-        add_report = @add_report
-        $("#report_button").on "click", ->
-          if Page.site_info.cert_user_id
-            add_report date_added, user_address
-          else
-            Page.cmd "certSelect", [["zeroid.bit"]], (res) =>
-              add_report date_added, user_address    
-
+          add_report = @add_report
+          $("#report_button").on "click", ->
+            if Page.site_info.cert_user_id
+              add_report date_added, user_address
+            else
+              Page.cmd "certSelect", [["zeroid.bit"]], (res) =>
+                add_report date_added, user_address    
+        else
+          $("#video_box").html ""
+          $("#video_box").html "<p style='color: white; margin-left: 10px'>Error: Unable to play video!</p><p style='color: white; margin-left: 10px'>If you're sure it exists, try:</p><p style='color: white; margin-left: 10px'>1. Clearing your cache</p><p style='color: white; margin-left: 10px'>2. Waiting for ZeroNet to fully download the site.</p>"
   render: =>
     video_player = $("<div></div>")
     video_player.attr "id", "video_player"

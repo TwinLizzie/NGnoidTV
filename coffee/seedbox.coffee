@@ -51,73 +51,80 @@ class seedbox
         $("#seedbox_actual_list").html ""
         $("#more_videos").html "<div class='more_videos text'>More videos!</div>"
 
-        for row1, i in res1
-          for row2, j in res2
-            optional_path = row2['inner_path']
-            file_name = row2['inner_path'].replace /.*\//, ""
-            file_seed = row2['peer_seed']
-            file_peer = row2['peer']
-            file_size = row2['bytes_downloaded']
-            video_name = row1['file_name']
-            video_title = row1['title']
-            video_brief = row1['description']
-            video_image = row1['image_link']
-            video_date_added = row1['date_added']
-            video_user_address = row1['directory']
-            video_size = row1['size']
+        current_account = Page.site_info.cert_user_id
+        anon_accounts = Page.site_info.content.settings.anon_accounts
 
-            if video_name is file_name and @counter < @max_videos
-              file_seed_no_null = file_seed || 0
+        if res2.length > 0 && anon_accounts.includes(current_account) is false 
+
+          for row1, i in res1
+            for row2, j in res2
+              optional_path = row2['inner_path']
+              file_name = row2['inner_path'].replace /.*\//, ""
+              file_seed = row2['peer_seed']
+              file_peer = row2['peer']
+              file_size = row2['bytes_downloaded']
+              video_name = row1['file_name']
+              video_title = row1['title']
+              video_brief = row1['description']
+              video_image = row1['image_link']
+              video_date_added = row1['date_added']
+              video_user_address = row1['directory']
+              video_size = row1['size']
+
+              if video_name is file_name and @counter < @max_videos
+                file_seed_no_null = file_seed || 0
               
-              if file_size >= video_size
-                text_display = "DONE " + Text.formatSize(video_size)
-              else
-                text_display = Text.formatSize(file_size) + " / " + Text.formatSize(video_size)
+                if file_size >= video_size
+                  text_display = "DONE " + Text.formatSize(video_size)
+                else
+                  text_display = Text.formatSize(file_size) + " / " + Text.formatSize(video_size)
 
-              video_string = video_date_added + "_" + video_user_address
-              video_row_id = "seedrow_" + @counter
-              video_link_id = video_string
+                video_string = video_date_added + "_" + video_user_address
+                video_row_id = "seedrow_" + @counter
+                video_link_id = video_string
 
-              video_row = $("<div></div>")
-              video_row.attr "id", video_row_id
-              video_row.attr "class", "seedbox_row"
+                video_row = $("<div></div>")
+                video_row.attr "id", video_row_id
+                video_row.attr "class", "seedbox_row"
               
-              video_checkbox_id = "vcheck_" + @counter
-              video_checkbox = $("<input>")
-              video_checkbox.attr "id", video_checkbox_id
-              video_checkbox.attr "type", "checkbox"
-              video_checkbox.attr "name", "bigfile"
-              video_checkbox.attr "value", optional_path
-              video_checkbox.attr "style", "display: none"
+                video_checkbox_id = "vcheck_" + @counter
+                video_checkbox = $("<input>")
+                video_checkbox.attr "id", video_checkbox_id
+                video_checkbox.attr "type", "checkbox"
+                video_checkbox.attr "name", "bigfile"
+                video_checkbox.attr "value", optional_path
+                video_checkbox.attr "style", "display: none"
 
-              checkbox_label_id = "vcheck_label_" + @counter
-              checkbox_label = $("<label></label>")
-              checkbox_label.attr "id", checkbox_label_id
-              checkbox_label.attr "class", "checkbox_container"
+                checkbox_label_id = "vcheck_label_" + @counter
+                checkbox_label = $("<label></label>")
+                checkbox_label.attr "id", checkbox_label_id
+                checkbox_label.attr "class", "checkbox_container"
 
-              checkmark_span = $("<span></span>")
-              checkmark_span.attr "class", "checkmark"
+                checkmark_span = $("<span></span>")
+                checkmark_span.attr "class", "checkmark"
               
-              megabytes = $("<span></span>")
-              megabytes.attr "class", "video_link seedbox_bytes"
-              megabytes.text text_display
+                megabytes = $("<span></span>")
+                megabytes.attr "class", "video_link seedbox_bytes"
+                megabytes.text text_display
 
-              video_link_id = "link_" + video_string
-              video_link = $("<a></a>")
-              video_link.attr "id", video_link_id
-              video_link.attr "class", "video_link edit_link"
-              video_link.attr "href", "?Video=" + video_string
-              video_link.text video_title
+                video_link_id = "link_" + video_string
+                video_link = $("<a></a>")
+                video_link.attr "id", video_link_id
+                video_link.attr "class", "video_link edit_link"
+                video_link.attr "href", "?Video=" + video_string
+                video_link.text video_title
 
-              $("#seedbox_actual_list").append video_row
-              $("#" + video_row_id).append checkbox_label
-              $("#" + checkbox_label_id).append video_checkbox
-              $("#" + checkbox_label_id).append checkmark_span
-              $("#" + video_row_id).append megabytes
-              $("#" + video_row_id).append video_link
-              $("#" + video_link_id).on "click", ->
-                Page.nav(this.href)
-              @counter = @counter + 1
+                $("#seedbox_actual_list").append video_row
+                $("#" + video_row_id).append checkbox_label
+                $("#" + checkbox_label_id).append video_checkbox
+                $("#" + checkbox_label_id).append checkmark_span
+                $("#" + video_row_id).append megabytes
+                $("#" + video_row_id).append video_link
+                $("#" + video_link_id).on "click", ->
+                  Page.nav(this.href)
+                @counter = @counter + 1
+        else 
+          $("#seedbox_actual_list").html "<p style='color: white; margin-left: 10px'>Oops! Nothing to see here... (Yet?)</p>"  
 
   render: =>
     query_value = $("#search_bar").val()

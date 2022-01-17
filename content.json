@@ -1,0 +1,116 @@
+{
+ "address": "18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh",
+ "address_index": 31279125,
+ "background-color": "#F5F5F5",
+ "clone_root": "",
+ "cloneable": true,
+ "description": "Videos for DIY, 3d printing, robotics, tech and left-leaning post-scarcity economics",
+ "domain": "big.kopykate.bit",
+ "files": {
+  "css/all.css": {
+   "sha512": "90caabddf15b55e463bde98c8f3ce9651a8c8cdcdc626df1bbbb1b41d47414bc",
+   "size": 91565
+  },
+  "css/fonts.css": {
+   "sha512": "9a5f37750e9bafcd2af7435ccb60a270fa3b1e93a1ad3188c2250f67c1ba19f5",
+   "size": 137912
+  },
+  "css/ngnoid-dark.css": {
+   "sha512": "99bee5fa0c7c00b226d63614ba16bb08a85d05c8d7d3c82782c0d860a4435887",
+   "size": 71455
+  },
+  "data-default/users/content-default.json": {
+   "sha512": "52f632c24dc1fa7b96740263fd89922f8dc28b8d09909f482142cb208ca94520",
+   "size": 833
+  },
+  "dbschema.json": {
+   "sha512": "907b238c298710b76b861fc18b52c43e69009009561dce1760e6b5d15f02f59b",
+   "size": 3493
+  },
+  "img/clock.svg": {
+   "sha512": "ceadfaaedbcc54a3c75a652ba47cf4e47dc4eb3ca66ff3a989c4f4901744fe1a",
+   "size": 697
+  },
+  "img/code.svg": {
+   "sha512": "be42694257b358455b0ace486030ad5d3cb811b57b3a080f6c22b8fa944d0be7",
+   "size": 1586
+  },
+  "img/home.svg": {
+   "sha512": "3e8abd96f92a7d8e0852c30356ef1229646417d5964b1685cd38ef020daa9493",
+   "size": 1079
+  },
+  "img/media.svg": {
+   "sha512": "30c5b8cdee1aa9291aaf90a2a021ad3240f17cfde9d04c48121b76de95e58a80",
+   "size": 2145
+  },
+  "img/menu.png": {
+   "sha512": "f1a9ec18b271474e93adee6866c764b77cea0c336e80ded14d07a77f2a4d766d",
+   "size": 688
+  },
+  "img/peer.svg": {
+   "sha512": "0dcb1812058e04a7a9ebede83e59bab5e83e18564ddc23d1783df2505d891efa",
+   "size": 2652
+  },
+  "img/search.svg": {
+   "sha512": "08705725c074caeed1b12344459e99677aa9882f64e6039f6b9a203fd7ebffb3",
+   "size": 929
+  },
+  "img/upload-arrow-with-bar.svg": {
+   "sha512": "2d1d61406933879576da9253149fd3826db75b7186120fc2d123d9fb4a0f3701",
+   "size": 709
+  },
+  "img/user.svg": {
+   "sha512": "0f9d5ceb94f615f47c2103784d8d2066e9d5e16b04983dfe51a055c92d0e6c81",
+   "size": 1283
+  },
+  "img/user_comment.png": {
+   "sha512": "998a8f51a58ed0162c73171608b2a7626d4e047e5ec23b3f9632fd4ec0232e42",
+   "size": 20272
+  },
+  "img/video.svg": {
+   "sha512": "b459e325b39b31d7ce792546575b7e6803aaf86ae05e2b3d52354871ebf3c473",
+   "size": 1761
+  },
+  "img/video_empty.png": {
+   "sha512": "1cc44f6ce15f11070a71e91622f3f3c0592c702a4822e6e368fb12d8d979f95e",
+   "size": 40407
+  },
+  "index.html": {
+   "sha512": "3387b0d8e60dff8e78d87d4b2491f159e84426e7e86f75c5fff5d7bc0efda9f3",
+   "size": 1642
+  },
+  "js/all.js": {
+   "sha512": "941e9b47828ea11eabef83d12f54b68f86cf227b187e409f89f1ed47b5f788db",
+   "size": 142047
+  },
+  "js/base64.js": {
+   "sha512": "f7ffa0bec423e9f643db773224600cd7d426b7a4455f2571128a5c6ff58c01c5",
+   "size": 16745
+  },
+  "js/jquery-3.2.1.min.js": {
+   "sha512": "dcff2b5c2b8625d3593a7531ff4ddcd633939cc9f7acfeb79c18a9e6038fdaa9",
+   "size": 86659
+  }
+ },
+ "ignore": "(data/users/.*db|data/users/.*/.*|.*.py)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "modified": 1642412693,
+ "postmessage_nonce_security": true,
+ "settings": {
+  "admin": "quantumkitty",
+  "admin_href": "http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=quantumkitty",
+  "anon_accounts": ["ngnuityanon01@zeroid.bit"]
+ },
+ "signers_sign": "G7EekUkcs3o1VbIQQOfnsIoa/9nGjRfV56v03dBWHOL5QKcPu1A03HmsaJkEdfZVPzgBhEgxVoSIifKMJNihEmU=",
+ "signs": {"18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh": "G/Tqkp3+IRtQFdtsZpixuZeTE3tAmKUizg3yhMwQGSmcRI2wmeZAEah1DdELtWP5TOPAix6gWXjj/T8RGxNsNfw="},
+ "signs_required": 1,
+ "title": "NGnoid TV Official",
+ "viewport": "width=device-width, initial-scale=0.8",
+ "zeronet_version": "0.7.6"
+}

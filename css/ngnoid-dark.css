@@ -708,6 +708,17 @@ body {
   min-height: 100px;
 }
 
+.related_header {
+  display: flex;
+  flex-direction: row;
+  padding: 2.5px 15px 2.5px 15px;
+  min-height: 25px;
+  background-color: #222;
+  text-align: center;
+  justify-content: center;
+  color: #999;
+}
+
 .related_thumb {
   display: block;
   width: 160px;

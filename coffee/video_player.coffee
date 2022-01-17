@@ -260,7 +260,7 @@ class video_playing
         related_counter = 0
         
         $("#related_column").html ""
-        $("#related_column").append "<span class='related_link'>Up next</span>"
+        $("#related_column").append "<div class='related_header'>Up next</div>"
         
         for row1, i in res1
           #for row2, j in res2

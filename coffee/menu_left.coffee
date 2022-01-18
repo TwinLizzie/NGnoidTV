@@ -13,7 +13,7 @@ class left_menuify
     item_head_version = $("<li></li>")
     item_head_version.attr "id", "item_head_version"
     item_head_version.attr "class", "list_item li_head"
-    item_head_version.text "BETA v0.3.05"
+    item_head_version.text "BETA v0.3.07"
 
     item_home = $("<li></li>")
     item_home.attr "id", "item_home"
@@ -58,7 +58,7 @@ class left_menuify
     item_seedbox = $("<li></li>")
     item_seedbox.attr "id", "item_seedbox"
     item_seedbox.attr "class", "list_item li_seedbox"
-    
+
     item_seedbox_link = $("<a></a>")
     item_seedbox_link.attr "id", "item_seedbox_link"
     item_seedbox_link.attr "class", "item_link"
@@ -87,7 +87,7 @@ class left_menuify
     $("#menu_left_items").append item_latest
     $("#item_latest").append item_latest_link
     $("#menu_left_items").append item_subbed
-    $("#item_subbed").append item_subbed_link    
+    $("#item_subbed").append item_subbed_link
     $("#menu_left_items").append item_videobox
     $("#item_videobox").append item_videobox_link
     $("#menu_left_items").append item_seedbox
@@ -104,5 +104,5 @@ class left_menuify
       Page.nav(this.href)
     $("#item_subbed_link").on "click", ->
       Page.nav(this.href)
-    
+
 left_menuify = new left_menuify()

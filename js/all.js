@@ -882,7 +882,7 @@
       item_head_version = $("<li></li>");
       item_head_version.attr("id", "item_head_version");
       item_head_version.attr("class", "list_item li_head");
-      item_head_version.text("BETA v0.3.05");
+      item_head_version.text("BETA v0.3.07");
       item_home = $("<li></li>");
       item_home.attr("id", "item_home");
       item_home.attr("class", "list_item li_home");
@@ -2346,7 +2346,6 @@
       this.load_subs = this.load_subs.bind(this);
       this.load_report = this.load_report.bind(this);
       this.load_likes = this.load_likes.bind(this);
-      
       //$("#video_likes").text like_counter + " Like"
       //console.log "Like counter: " + like_counter
       this.load_comments = this.load_comments.bind(this);
@@ -3103,13 +3102,11 @@
       query = "SELECT * FROM file LEFT JOIN json USING (json_id) WHERE date_added='" + date_added + "' AND directory='" + user_address + "'";
       return Page.cmd("dbQuery", [query], (res1) => {
         var optional_file_path, optional_path;
-        console.log("This is a changed file");
         if (res1.length > 0) {
           optional_file_path = optional_path = "data/users/" + res1[0]['directory'] + "/" + res1[0]['file_name'];
         }
         return Page.cmd("optionalFileInfo", optional_file_path, (res2) => {
           var add_report, file_name, my_file, my_row, optional_name, optional_peer, optional_seed, stats_loaded, user_directory, video_actual, video_channel, video_date_added, video_description, video_title, word_array;
-          console.log(res2);
           if (res1.length > 0) {
             my_row = res1[0];
             file_name = my_row['file_name'];
@@ -3134,7 +3131,6 @@
                 $("#player_info").append("<div class='player_icon'></div>");
               }
             } else {
-              console.log("Res is ZERO");
               stats_loaded = false;
               $("#player_info").append("<span class='video_player_title'>" + video_title + "</span>");
               $("#player_info").append("<div id='player_stats' class='video_player_stats'><span>0 / 0 Peers &middot; </span></div><br>");

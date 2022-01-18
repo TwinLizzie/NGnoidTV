@@ -40,14 +40,18 @@ class uploader
       res.file[file_name] = {title: title, type: type, description: description, image_link: image_link, size: file_size, date_added: date_added}
       Page.cmd "fileWrite", [inner_path, Text.fileEncode(res)], cb
 
-  upload_done: (files, date_added, user_address) =>
+  upload_done: (files, date_added, user_address, default_title=false) =>
     current_account = Page.site_info.cert_user_id        
     anon_accounts = Page.site_info.content.settings.anon_accounts
     if anon_accounts.includes(current_account) == true
       Page.nav("?Latest")      
     else
-      Page.set_url("?Editor=" + date_added + "_" + user_address)
-      console.log("Upload done!", files)
+      if default_title is true
+        Page.set_url("?Editor=" + date_added + "_" + user_address)
+      else
+        Page.set_url("?Latest")
+        console.log("Default title is false!")
+    console.log("Upload done!", files)
 
   upload_file: (files, upload_title, upload_brief, upload_image) =>
     time_stamp = Math.floor(new Date() / 1000)
@@ -83,6 +87,12 @@ class uploader
     file_info = @file_info = {}
     register_upload = @register_upload
     upload_done = @upload_done
+    
+    default_type = "standard"
+    if upload_title is "Write your video title here"
+      upload_title = files.name
+      default_title = true     
+    
     @check_content_json (res) =>
       file_name = time_stamp + "-" + files.name
       Page.cmd "bigfileUploadInit", ["data/users/" + Page.site_info.auth_address + "/" + file_name, files.size], (init_res) ->
@@ -90,27 +100,31 @@ class uploader
         formdata.append(file_name, files)
         req = new XMLHttpRequest()
         @req = req
-        file_info = {size: files.size, name: file_name, type: files.type, url: init_res.url}
+        file_info = {size: files.size, name: file_name, type: files.type, url: init_res.url}       
+        
         req.upload.addEventListener "loadstart", (progress) ->
           console.log "loadstart", arguments
           file_info.started = progress.timeStamp
 
         req.upload.addEventListener "loadend", ->
-          default_type = "standard"
-          #default_image = "img/video_empty.png"
-          #default_description = "Write description here!"
           console.log("loadend", arguments)
           file_info.status = "done"
 
           register_upload upload_title, default_type, upload_brief, upload_image, init_res.file_relative_path, files.size, time_stamp, (res) ->
             Page.cmd "siteSign", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json"}, (res) ->
               Page.cmd "sitePublish", {inner_path: "data/users/" + Page.site_info.auth_address + "/content.json", "sign": false}, (res) ->
-                upload_done(files, time_stamp, Page.site_info.auth_address)
+                upload_done(files, time_stamp, Page.site_info.auth_address, default_title)
+                
         req.upload.addEventListener "progress", (progress) ->
           file_info.speed = 1000 * progress.loaded / (progress.timeStamp - file_info.started)
           file_info.percent = progress.loaded / progress.total
           file_info.loaded = progress.loaded
           file_info.updated = progress.timeStamp
+          
+          file_upload_percent = Math.round(file_info.percent * 1000) / 10
+          
+          $("#editor_container").html $("<p style='color: white; text-align: center; font-size: 2.5em'>" + file_upload_percent + " %</p>")
+          $("#thumbnail_preview").hide()
 
         req.addEventListener "load", ->
           console.log "load", arguments
@@ -254,19 +268,35 @@ class uploader
       
     $(document).on "change", ".uploader_input", ->
       editor_title_value = $("#editor_title").val()
-      
-      if editor_title_value == "Write your video title here"
-        Page.cmd "wrapperNotification", ["info", "Add your video title first!"]   
-      else     
-        if Page.site_info.cert_user_id
-          $("#uploader_title").html "<div class='spinner'><div class='bounce1'></div></div>" 
-          console.log("[KopyKate: Uploading file.]")
-          upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val())
-        else
-          Page.cmd "certSelect", [["zeroid.bit"]], (res) =>
+           
+      if Page.site_info.cert_user_id
+        current_account = Page.site_info.cert_user_id        
+        anon_accounts = Page.site_info.content.settings.anon_accounts
+        if anon_accounts.includes(current_account) == true      
+          if $("#editor_title").val() is "Write your video title here"
+            Page.cmd "wrapperNotification", ["info", "Note: Write your title and info first! You can't edit as Anon."]
+            return false
+          else
             $("#uploader_title").html "<div class='spinner'><div class='bounce1'></div></div>" 
-            console.log("KopyKate: Uploading file.")
+            upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val())          
+        else  
+          $("#uploader_title").html "<div class='spinner'><div class='bounce1'></div></div>" 
+          upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val())
+          
+      else
+        Page.cmd "certSelect", [["zeroid.bit"]], (res) =>
+          current_account = Page.site_info.cert_user_id        
+          anon_accounts = Page.site_info.content.settings.anon_accounts
+          if anon_accounts.includes(current_account) == true  
+            if $("#editor_title").val() is "Write your video title here"
+              Page.cmd "wrapperNotification", ["info", "Note: Write your title and info first! You can't edit as Anon."]
+              return false             
+            else
+              $("#uploader_title").html "<div class='spinner'><div class='bounce1'></div></div>" 
+              upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val())      
+          else                  
+            $("#uploader_title").html "<div class='spinner'><div class='bounce1'></div></div>" 
             upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val())
-        return false
+      return false
 
 uploader = new uploader()

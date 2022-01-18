@@ -1363,20 +1363,25 @@
       });
     }
 
-    upload_done(files, date_added, user_address) {
+    upload_done(files, date_added, user_address, default_title = false) {
       var anon_accounts, current_account;
       current_account = Page.site_info.cert_user_id;
       anon_accounts = Page.site_info.content.settings.anon_accounts;
       if (anon_accounts.includes(current_account) === true) {
-        return Page.nav("?Latest");
+        Page.nav("?Latest");
       } else {
-        Page.set_url("?Editor=" + date_added + "_" + user_address);
-        return console.log("Upload done!", files);
+        if (default_title === true) {
+          Page.set_url("?Editor=" + date_added + "_" + user_address);
+        } else {
+          Page.set_url("?Latest");
+          console.log("Default title is false!");
+        }
       }
+      return console.log("Upload done!", files);
     }
 
     upload_file(files, upload_title, upload_brief, upload_image) {
-      var anon_accounts, current_account, file_info, ref2, register_upload, time_stamp, upload_done;
+      var anon_accounts, current_account, default_title, default_type, file_info, ref2, register_upload, time_stamp, upload_done;
       time_stamp = Math.floor(new Date() / 1000);
       console.log("Uploading: " + files.name);
       if (files.size > 50 * 1024 * 1024) {
@@ -1414,6 +1419,11 @@
       file_info = this.file_info = {};
       register_upload = this.register_upload;
       upload_done = this.upload_done;
+      default_type = "standard";
+      if (upload_title === "Write your video title here") {
+        upload_title = files.name;
+        default_title = true;
+      }
       return this.check_content_json((res) => {
         var file_name;
         file_name = time_stamp + "-" + files.name;
@@ -1434,10 +1444,6 @@
             return file_info.started = progress.timeStamp;
           });
           req.upload.addEventListener("loadend", function() {
-            var default_type;
-            default_type = "standard";
-            //default_image = "img/video_empty.png"
-            //default_description = "Write description here!"
             console.log("loadend", arguments);
             file_info.status = "done";
             return register_upload(upload_title, default_type, upload_brief, upload_image, init_res.file_relative_path, files.size, time_stamp, function(res) {
@@ -1448,16 +1454,20 @@
                   inner_path: "data/users/" + Page.site_info.auth_address + "/content.json",
                   "sign": false
                 }, function(res) {
-                  return upload_done(files, time_stamp, Page.site_info.auth_address);
+                  return upload_done(files, time_stamp, Page.site_info.auth_address, default_title);
                 });
               });
             });
           });
           req.upload.addEventListener("progress", function(progress) {
+            var file_upload_percent;
             file_info.speed = 1000 * progress.loaded / (progress.timeStamp - file_info.started);
             file_info.percent = progress.loaded / progress.total;
             file_info.loaded = progress.loaded;
-            return file_info.updated = progress.timeStamp;
+            file_info.updated = progress.timeStamp;
+            file_upload_percent = Math.round(file_info.percent * 1000) / 10;
+            $("#editor_container").html($("<p style='color: white; text-align: center; font-size: 2.5em'>" + file_upload_percent + " %</p>"));
+            return $("#thumbnail_preview").hide();
           });
           req.addEventListener("load", function() {
             return console.log("load", arguments);
@@ -1587,24 +1597,42 @@
         return convert_base64();
       });
       return $(document).on("change", ".uploader_input", function() {
-        var editor_title_value;
+        var anon_accounts, current_account, editor_title_value;
         editor_title_value = $("#editor_title").val();
-        if (editor_title_value === "Write your video title here") {
-          return Page.cmd("wrapperNotification", ["info", "Add your video title first!"]);
-        } else {
-          if (Page.site_info.cert_user_id) {
-            $("#uploader_title").html("<div class='spinner'><div class='bounce1'></div></div>");
-            console.log("[KopyKate: Uploading file.]");
-            upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val());
-          } else {
-            Page.cmd("certSelect", [["zeroid.bit"]], (res) => {
+        if (Page.site_info.cert_user_id) {
+          current_account = Page.site_info.cert_user_id;
+          anon_accounts = Page.site_info.content.settings.anon_accounts;
+          if (anon_accounts.includes(current_account) === true) {
+            if ($("#editor_title").val() === "Write your video title here") {
+              Page.cmd("wrapperNotification", ["info", "Note: Write your title and info first! You can't edit as Anon."]);
+              return false;
+            } else {
               $("#uploader_title").html("<div class='spinner'><div class='bounce1'></div></div>");
-              console.log("KopyKate: Uploading file.");
-              return upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val());
-            });
+              upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val());
+            }
+          } else {
+            $("#uploader_title").html("<div class='spinner'><div class='bounce1'></div></div>");
+            upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val());
           }
-          return false;
+        } else {
+          Page.cmd("certSelect", [["zeroid.bit"]], (res) => {
+            current_account = Page.site_info.cert_user_id;
+            anon_accounts = Page.site_info.content.settings.anon_accounts;
+            if (anon_accounts.includes(current_account) === true) {
+              if ($("#editor_title").val() === "Write your video title here") {
+                Page.cmd("wrapperNotification", ["info", "Note: Write your title and info first! You can't edit as Anon."]);
+                return false;
+              } else {
+                $("#uploader_title").html("<div class='spinner'><div class='bounce1'></div></div>");
+                return upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val());
+              }
+            } else {
+              $("#uploader_title").html("<div class='spinner'><div class='bounce1'></div></div>");
+              return upload_file(this.files[0], $("#editor_title").val(), $("#editor_brief").val(), $("#thumbnail_input").val());
+            }
+          });
         }
+        return false;
       });
     }
 

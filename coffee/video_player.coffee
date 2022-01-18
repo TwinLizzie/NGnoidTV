@@ -632,7 +632,11 @@ class video_playing
   
     query = "SELECT * FROM file LEFT JOIN json USING (json_id) WHERE date_added='" + date_added + "' AND directory='" + user_address + "'"
     Page.cmd "dbQuery", [query], (res1) =>
-      Page.cmd "optionalFileList", {filter: "", limit: 1000}, (res2) =>
+      console.log("This is a changed file")
+      if res1.length > 0
+        optional_file_path = optional_path = "data/users/" + res1[0]['directory'] + "/" + res1[0]['file_name']
+      Page.cmd "optionalFileInfo", optional_file_path, (res2) =>
+        console.log(res2)
         if res1.length > 0
           my_row = res1[0]
           file_name = my_row['file_name']
@@ -644,8 +648,8 @@ class video_playing
 
           stats_loaded = false
 
-          i = 0
-          for my_file, i in res2
+          my_file = res2
+          if res2
             optional_name = my_file['inner_path'].replace /.*\//, ""
             optional_peer = my_file['peer']
             optional_seed = my_file['peer_seed'] 
@@ -659,14 +663,15 @@ class video_playing
               $("#player_info").append "<span class='video_player_brief'>" + video_description + "</span>"
               $("#player_info").append "<div class='player_icon'></div>"
 
-          if i is res2.length
-            if stats_loaded is false
-              $("#player_info").append "<span class='video_player_title'>" + video_title + "</span>"
-              $("#player_info").append "<div id='player_stats' class='video_player_stats'><span>0 / 0 Peers &middot; </span></div><br>"
-              $("#player_info").append "<span class='video_player_username'>" + video_channel.charAt(0).toUpperCase() + video_channel.slice(1) + "</span>"
-              $("#player_info").append "<span class='video_player_userdate'>Published " + Time.since(video_date_added) + "</span><br>"
-              $("#player_info").append "<span class='video_player_brief'>" + video_description + "</span>"
-              $("#player_info").append "<div class='player_icon'></div>"   
+          else
+            console.log("Res is ZERO")
+            stats_loaded = false
+            $("#player_info").append "<span class='video_player_title'>" + video_title + "</span>"
+            $("#player_info").append "<div id='player_stats' class='video_player_stats'><span>0 / 0 Peers &middot; </span></div><br>"
+            $("#player_info").append "<span class='video_player_username'>" + video_channel.charAt(0).toUpperCase() + video_channel.slice(1) + "</span>"
+            $("#player_info").append "<span class='video_player_userdate'>Published " + Time.since(video_date_added) + "</span><br>"
+            $("#player_info").append "<span class='video_player_brief'>" + video_description + "</span>"
+            $("#player_info").append "<div class='player_icon'></div>"   
         
           video_actual = "data/users/" + user_directory + "/" + file_name
         

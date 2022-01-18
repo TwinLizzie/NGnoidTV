@@ -2054,9 +2054,6 @@
     }
 
     query_database(query_full, file_limit, order_actual, query_peer) {
-      var page_history_state;
-      console.log("Page history state: " + Page.history_state["url"]);
-      page_history_state = Page.history_state["url"];
       //console.log(query_full)   
       if (query_peer === true) {
         $("#video_list").hide();
@@ -2249,7 +2246,6 @@
       video_list = $("<div></div>");
       video_list.attr("id", "video_list");
       video_list.attr("class", "video_list");
-      //video_list.html "<div class='spinner'><div class='bounce1'></div></div>"
       video_list_peer = $("<div></div>");
       video_list_peer.attr("id", "video_list_peer");
       video_list_peer.attr("class", "video_list");
@@ -2694,7 +2690,7 @@
           //Page.cmd "optionalFileList", order_actual, (res2) =>
           related_counter = 0;
           $("#related_column").html("");
-          $("#related_column").append("<span class='related_link'>Up next</span>");
+          $("#related_column").append("<div class='related_header'>Up next</div>");
           results = [];
           for (i = l = 0, len = res1.length; l < len; i = ++l) {
             row1 = res1[i];

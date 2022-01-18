@@ -50,7 +50,7 @@ class videobox
 
   delete_video: (video) =>
     delete_from_data_json = @delete_from_data_json
-    delete_from_content_json = @delete_from_content_json    
+    delete_from_content_json = @delete_from_content_json
     video_directory = video.split("/")[2]
     content_inner_path = "data/users/" + video_directory + "/content.json";
 
@@ -63,14 +63,14 @@ class videobox
           return cb(false)
         delete_from_data_json video, (res) ->
           if res == "ok"
-            Page.cmd "sitePublish", {"inner_path": content_inner_path} 
+            Page.cmd "sitePublish", {"inner_path": content_inner_path}
             console.log("[KopyKate: Deleted video " + video + "]")
             this_flush("all")
             this_update()
 
   display_proxy_warn: =>
     if window.location.origin is "https://portal.ngnoid.tv"
-      $("#videobox").html "<p style='color: white; margin-left: 10px'>Your video list is empty.</p><p style='color: white; margin-left: 10px'>New to ZeroNet? Check out the PC and mobile client at <a href='https://zeronet.dev'>ZeroNet.dev</a></p><p style='color: white; margin-left: 10px'>If you're on Linux, simply clone my <a href='https://github.com/TwinLizzie/ZeroNet'>Github repository</a> and run python3 zeronet.py</p>" 
+      $("#videobox").html "<p style='color: white; margin-left: 10px'>Your video list is empty.</p><p style='color: white; margin-left: 10px'>New to ZeroNet? Check out the PC and mobile client at <a href='https://zeronet.dev'>ZeroNet.dev</a></p><p style='color: white; margin-left: 10px'>If you're on Linux, simply clone my <a href='https://github.com/TwinLizzie/ZeroNet'>Github repository</a> and:</p><p style='color: white; margin-left: 10px'>chmod +x install.sh && ./install.sh</p>"
 
   update: =>
     console.log "[KopyKate: Retrieving videobox]"
@@ -79,7 +79,7 @@ class videobox
 
     this_flush = @flush
     this_update = @update
-    
+
     if Page.site_info
       if Page.site_info.cert_user_id
         Page.cmd "dbQuery", ["SELECT * FROM file LEFT JOIN json USING (json_id) "+query+" AND cert_user_id='"+Page.site_info.cert_user_id+"' ORDER BY date_added DESC"], (res1) =>
@@ -90,7 +90,7 @@ class videobox
           current_account = Page.site_info.cert_user_id
           anon_accounts = Page.site_info.content.settings.anon_accounts
 
-          if res1.length > 0 && anon_accounts.includes(current_account) is false 
+          if res1.length > 0 && anon_accounts.includes(current_account) is false
 
             for row1, i in res1
               optional_path = "data/users/" + row1['directory'] + "/" + row1['file_name']
@@ -150,24 +150,24 @@ class videobox
                   Page.nav(this.href)
 
                 @counter = @counter + 1
-          else 
+          else
             if window.location.origin is "https://portal.ngnoid.tv"
-              $("#videobox").html "<p style='color: white; margin-left: 10px'>Your video list is empty.</p><p style='color: white; margin-left: 10px'>New to ZeroNet? Check out the PC and mobile client at <a href='https://zeronet.dev'>ZeroNet.dev</a></p><p style='color: white; margin-left: 10px'>If you're on Linux, simply clone my <a href='https://github.com/TwinLizzie/ZeroNet'>Github repository</a> and run python3 zeronet.py</p>"            
+              $("#videobox").html "<p style='color: white; margin-left: 10px'>Your video list is empty.</p><p style='color: white; margin-left: 10px'>New to ZeroNet? Check out the PC and mobile client at <a href='https://zeronet.dev'>ZeroNet.dev</a></p><p style='color: white; margin-left: 10px'>If you're on Linux, simply clone my <a href='https://github.com/TwinLizzie/ZeroNet'>Github repository</a> and:</p><p style='color: white; margin-left: 10px'>chmod +x install.sh && ./install.sh</p>"
             else
               $("#videobox").html "<p style='color: white; margin-left: 10px'>Oops! Nothing to see here... (Yet?)</p>"
-      else     
+      else
         @display_proxy_warn()
 
-        Page.cmd "certSelect", [["zeroid.bit"]], (res) =>  
+        Page.cmd "certSelect", [["zeroid.bit"]], (res) =>
           this_flush("all")
-          this_update()            
-    else     
+          this_update()
+    else
       @display_proxy_warn()
 
-      Page.cmd "certSelect", [["zeroid.bit"]], (res) =>  
+      Page.cmd "certSelect", [["zeroid.bit"]], (res) =>
         this_flush("all")
         this_update()
-                      
+
   render: =>
     query_value = $("#search_bar").val()
     @query_string=query_value
@@ -197,7 +197,7 @@ class videobox
 
     more_videos_yes = @more_videos_yes
     $("#more_videos").on "click", ->
-      $("#more_videos").html "<div class='spinner'><div class='bounce1'></div></div>" 
+      $("#more_videos").html "<div class='spinner'><div class='bounce1'></div></div>"
       more_videos_yes()
 
     #delete_videos = @delete_videos

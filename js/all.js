@@ -1743,7 +1743,7 @@
 
     display_proxy_warn() {
       if (window.location.origin === "https://portal.ngnoid.tv") {
-        return $("#videobox").html("<p style='color: white; margin-left: 10px'>Your video list is empty.</p><p style='color: white; margin-left: 10px'>New to ZeroNet? Check out the PC and mobile client at <a href='https://zeronet.dev'>ZeroNet.dev</a></p><p style='color: white; margin-left: 10px'>If you're on Linux, simply clone my <a href='https://github.com/TwinLizzie/ZeroNet'>Github repository</a> and run python3 zeronet.py</p>");
+        return $("#videobox").html("<p style='color: white; margin-left: 10px'>Your video list is empty.</p><p style='color: white; margin-left: 10px'>New to ZeroNet? Check out the PC and mobile client at <a href='https://zeronet.dev'>ZeroNet.dev</a></p><p style='color: white; margin-left: 10px'>If you're on Linux, simply clone my <a href='https://github.com/TwinLizzie/ZeroNet'>Github repository</a> and:</p><p style='color: white; margin-left: 10px'>chmod +x install.sh && ./install.sh</p>");
       }
     }
 
@@ -1824,7 +1824,7 @@
               return results;
             } else {
               if (window.location.origin === "https://portal.ngnoid.tv") {
-                return $("#videobox").html("<p style='color: white; margin-left: 10px'>Your video list is empty.</p><p style='color: white; margin-left: 10px'>New to ZeroNet? Check out the PC and mobile client at <a href='https://zeronet.dev'>ZeroNet.dev</a></p><p style='color: white; margin-left: 10px'>If you're on Linux, simply clone my <a href='https://github.com/TwinLizzie/ZeroNet'>Github repository</a> and run python3 zeronet.py</p>");
+                return $("#videobox").html("<p style='color: white; margin-left: 10px'>Your video list is empty.</p><p style='color: white; margin-left: 10px'>New to ZeroNet? Check out the PC and mobile client at <a href='https://zeronet.dev'>ZeroNet.dev</a></p><p style='color: white; margin-left: 10px'>If you're on Linux, simply clone my <a href='https://github.com/TwinLizzie/ZeroNet'>Github repository</a> and:</p><p style='color: white; margin-left: 10px'>chmod +x install.sh && ./install.sh</p>");
               } else {
                 return $("#videobox").html("<p style='color: white; margin-left: 10px'>Oops! Nothing to see here... (Yet?)</p>");
               }

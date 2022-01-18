@@ -104,9 +104,10 @@ html {
   text-align: center;
   cursor: pointer;
   font-size: 0.9rem;
-  background-color: #444;
+  background-color: #333;
   padding: 5px;
   margin: 5px 2.5px 5px 5px;
+  border-radius: 15px;
 }
 
 .spinner {
@@ -333,6 +334,8 @@ body {
   background-position: center;
   background-size: 2em;
   background-repeat: no-repeat;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);  
 }
 
 .comment_icon {
@@ -348,6 +351,8 @@ body {
   background-position: center;
   background-size: 2em;
   background-repeat: no-repeat;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);  
 }
 
 .comment_single {
@@ -852,6 +857,7 @@ body {
   background-color: #333;
   padding: 7.5px;
   margin: 5px 15px 5px 15px;
+  border-radius: 15px;
 }
 
 .thumbnail_preview {

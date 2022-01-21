@@ -2713,7 +2713,7 @@
           limit: 1000
         };
         return Page.cmd("dbQuery", ["SELECT * FROM file LEFT JOIN json USING (json_id) " + query + " ORDER BY date_added DESC LIMIT 15"], (res1) => {
-          var full_channel_name, i, l, len, related_counter, results, row1, thumbnail, thumbnail_id, video_channel, video_channel_id, video_channel_name, video_info, video_info_id, video_link, video_link_id, video_row, video_row_id, video_string;
+          var full_channel_name, i, l, len, related_counter, results, row1, thumbnail, thumbnail_id, video_channel, video_channel_id, video_channel_name, video_date_added_row, video_info, video_info_id, video_link, video_link_id, video_row, video_row_id, video_string;
           //Page.cmd "optionalFileList", order_actual, (res2) =>
           related_counter = 0;
           $("#related_column").html("");
@@ -2742,6 +2742,7 @@
             video_link.attr("class", "related_link");
             video_link.attr("href", "?Video=" + video_string);
             video_link.text(row1.title);
+            video_date_added_row = $("<span id='video_date_added_row' class='related_channel'>Added " + Time.since(row1.date_added) + "</span>");
             video_channel_id = "related_channel" + related_counter;
             video_channel = $("<a></a>");
             video_channel.attr("id", video_channel_id);
@@ -2758,6 +2759,7 @@
             $("#" + video_row_id).append(thumbnail);
             $("#" + video_row_id).append(video_info);
             $("#" + video_info_id).append(video_link);
+            $("#" + video_info_id).append(video_date_added_row);
             $("#" + video_info_id).append(video_channel);
             $("#" + thumbnail_id).on("click", function() {
               return Page.nav(this.href);

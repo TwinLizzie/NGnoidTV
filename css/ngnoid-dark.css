@@ -277,7 +277,7 @@ body {
   background-color: #171717;
   font-size-adjust: none;
   text-size-adjust: none;
-  -webkit-text-size-adjust: none;  
+  -webkit-text-size-adjust: none;
 }
 
 @-moz-document url-prefix() {
@@ -335,7 +335,7 @@ body {
   background-size: 2em;
   background-repeat: no-repeat;
     -webkit-filter: invert(100%);
-    filter: invert(100%);  
+    filter: invert(100%);
 }
 
 .comment_icon {
@@ -352,7 +352,7 @@ body {
   background-size: 2em;
   background-repeat: no-repeat;
     -webkit-filter: invert(100%);
-    filter: invert(100%);  
+    filter: invert(100%);
 }
 
 .comment_single {
@@ -1179,9 +1179,9 @@ body {
   .upload_link {
     margin-right: 0px;
   }
-  
+
   .usr_channel_link {
-    margin-right: 100px;  
+    margin-right: 100px;
   }
 
   .video_box {
@@ -1253,7 +1253,15 @@ body {
     display: flex;
     flex-direction: column;
     margin: auto;
-    width: 300px;
+    width: 320px;
+    padding: 7.5px 0 7.5px 0;
+  }
+
+  .related_row {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 320px;
     padding: 7.5px 0 7.5px 0;
   }
 
@@ -1268,9 +1276,29 @@ body {
   }
 
   .video_thumbnail {
+    width: 320px;
+    height: 180px;
+    background-size: 320px 180px;    
     float: none;
     margin: auto;
   }
+
+  .related_column {
+    padding: 0px 0px 0px 0px;
+  }
+
+  .related_thumb {
+    width: 320px;
+    height: 180px;
+    background-size: 320px 180px;
+    float: none;
+    margin: auto;
+  }
+
+  .related_info {
+    width: 320px;
+  }
+
 
   .video_info {
     float: none;
@@ -1304,9 +1332,9 @@ body {
 
   .search_toggle {
     display: block;
-    background-color: rgba(0,0,0,0.9); 
+    background-color: rgba(0,0,0,0.9);
   }
-  
+
   .search_toggle_icon {
       -webkit-filter: invert(100%);
       filter: invert(100%);

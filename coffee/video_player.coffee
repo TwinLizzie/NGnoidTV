@@ -288,6 +288,8 @@ class video_playing
           video_link.attr "href", "?Video=" + video_string
           video_link.text row1.title
 
+          video_date_added_row = $("<span id='video_date_added_row' class='related_channel'>Added "+Time.since(row1.date_added)+"</span>")
+
           video_channel_id = "related_channel" + related_counter
           video_channel = $("<a></a>")
           video_channel.attr "id", video_channel_id
@@ -306,6 +308,7 @@ class video_playing
           $("#" + video_row_id).append thumbnail
           $("#" + video_row_id).append video_info
           $("#" + video_info_id).append video_link
+          $("#" + video_info_id).append video_date_added_row          
           $("#" + video_info_id).append video_channel
           $("#" + thumbnail_id).on "click", ->
             Page.nav(this.href)

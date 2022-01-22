@@ -1,5 +1,7 @@
 ## Manifesto for the NGnuity: Renaissance
 
+<img width="200" alt="ngnuity icon" src="https://github.com/TwinLizzie/Sylvie-2021/blob/master/images/web_photos/cat_space_symbol.png">
+
 ### Introduction
 
 The NGnuity: Renaissance aims to create an ecosystem of open source software and blueprints for modular, repairable, patent-free and reverse-engineered technologies that will enable a moneyless and post-scarcity economy to come about.
@@ -35,11 +37,13 @@ Eventually - you'll be able to learn how to Learn using online tutorials. And th
 
 Until technological progress becomes unstoppable and grows at such a fast and exponential rate that you end up with God-like superpowers at your fingertips; capable of curing cancer, extending your lifespan and building your own nuclear fusion reactor in your garage if you want to. Power: Overwhelming!
 
+Where we go from there, is a choice I leave to you.
+
 ### How do you differentiate yourself from Big Tech?
 
 Well first of all, we're not rich. Not even close to middle class. None of our work is patented or copyrighted. We are not afraid to infringe upon intellectual property rights and give it away for free, either.
 
-Simply put - no one can own anything that we give away for free - and once the Singularity goes exponential, no single individual will be able to reign it in or have any sort of control over it. Not even us.
+No one can own anything that we give away for free - and once the Singularity goes exponential, no single individual will be able to reign it in or have any sort of control over it. Not even us.
 
 However, if Big Tech achieve Superintelligence before we do, then we are practically screwed because they will obviously use it for their own gain.
 

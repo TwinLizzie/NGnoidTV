@@ -47,6 +47,8 @@ No one can own anything that we give away for free - and once the Singularity go
 
 However, if Big Tech achieve Superintelligence before we do, then we are practically screwed because they will obviously use it for their own gain.
 
+The Big Tech motto is: You will own Nothing, and you will be Happy. Our motto is: You will be able to own Everything you can possible imagine, and it'll be up to you to use that power responsibly.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d).

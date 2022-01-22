@@ -12,7 +12,7 @@ Think the Venus Project or the Zeitgeist Movement. Some also like to call it Ful
 
 A post-scarcity economy is entirely resource-based. The blueprints for the full automation of the means of production are freely accessible to anyone; as long as you have land and raw materials, everything else will be free. 
 
-Unlike real estate and raw energy (the air that you breathe) which will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
+This is unlike real estate and raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink) which will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
 
 ### Our Philosophy for Automation
 

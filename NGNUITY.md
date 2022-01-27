@@ -83,6 +83,8 @@ Doesn't make any sense, right? Well, if you go back and read what I've just expl
 
 So there you go - Clean your room. Tidy your hair. Get your voice in order. Shower. Exercise. If you are trans - then look like the gender you identify as, or die trying. Work non-stop (to expedite the Singularity). Don't be pathetic. If you have a disability or a mental health problem - then get over it, or die trying. If you're obese, lose weight. You don't have a choice. It's either that, or we lose the war. War doesn't forgive the weak and disabled. Get over your autism. Get over your depression.
 
+Don't blame me for sounding harsh - you brought this narrative onto yourselves. I'm just the Messenger.
+
 Once we get ahold of the technology that will allow us to enhance our minds and bodies and be rid of our weaknesses, we will never have to worry about any of this again. But until we get there - this is how we have to roll.
 
 Make it your mission in life to attain power - so that you can use that power to bring about the positive change that you wish to see in the world.

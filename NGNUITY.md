@@ -43,9 +43,11 @@ Where we go from there, is a choice I leave to you.
 
 The Big Tech motto is: You will own Nothing, and you will be Happy. Our motto is: You will be able to own Everything you can possible imagine, and it'll be up to you to use that power responsibly.
 
-Some people believe that mainstream 3D printing (especially metal 3d printing) is going to become too dangerous if left unregulated, as anybody will be able to print themselves e.g. a firearm if they wanted to. 
+Some people believe that mainstream 3D printing (especially metal 3d printing) is going to become too dangerous if left unregulated, as anybody will be able to print themselves e.g. a firearm, if they wanted to. 
 
-We think this is a good thing. That which isn't dangerous, is useless. 3D printing shouldn't be an expensive toy that bored silicon valley hipsters play around with in their spare time. In order for it to truly transform the world, it [absolutely has to] dare to be dangerous. It should become so dangerous that anybody could build themselves an ICBM in their garage and shoot down the international space station if they wanted to. Or land a small rover on the moon and kickstart an era of DIY space exploration.
+We think this is a good thing. That which isn't dangerous, is useless. 3D printing shouldn't be an expensive toy that bored silicon valley hipsters play around with in their spare time. In order for it to truly transform the world, it [absolutely has to] dare to be dangerous. 
+
+It should become so dangerous that anybody could build themselves an ICBM in their garage and shoot down the international space station, if they wanted to. Or land a small rover on the moon and kickstart an era of DIY space exploration.
 
 ### Why we still need to be Workaholics, not Slackers
 

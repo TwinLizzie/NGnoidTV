@@ -97,7 +97,7 @@ The world needs Strongmen; at least, in order to keep the other Strongmen at bay
 
 Anarchists will always fail. r/WorkReform will fail, too.
 
-### Why do we need Technology? Why not work toward Reform? Why not live in the woods and hunt Baboons?
+### Why Technology? Why not work toward Reform? Why not live in the woods and hunt Baboons?
 
 The primitivist, baboon-hunting lifestyle would only work for a small population of people and also assumes that you don't have health conditions that require medication and pharmaceuticals in order to correct.
 

@@ -123,7 +123,7 @@ It was already hard enough to fight for revolution and reform when half a countr
 
 The average Millennial and Gen Z will never have the military training and discipline required to overthrow a government and install a new one.
 
-But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity form home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
+But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity from home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
 
 ### How to contribute
 

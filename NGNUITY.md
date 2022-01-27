@@ -97,6 +97,26 @@ The world needs Strongmen; at least, in order to keep the other Strongmen at bay
 
 Anarchists will always fail. r/WorkReform will fail, too.
 
+### Why do we need Technology? Why not work toward Reform? Why not live in the woods and hunt Baboons?
+
+The primitivist, baboon-hunting lifestyle would only work for a small population of people and also assumes that you don't have health conditions that require medication and pharmaceuticals in order to correct.
+
+It almost certainly wouldn't be a practical way to live on a planet of 8 billion people. Without farming and agriculture, wild prey would be driven to extinction almost overnight. Feces, urine and unsanitary conditions would accumulate globally from lack of plumbing and waste water management.
+
+Primitivists are stupid and it's perfectly fine to call them that. They usually reply to the above arguments by making exception after exception, as well as excuses - revealing the holes in their ideology as they babble on.
+
+The only real valid point they have is that modernity does not satisfy our innate desires for curiosity, exploration and play. Society and civilization is a non-stop process of self-domestication and suppression of natural instincts. Nobody comes out of the womb ready to grow crops and work at an office to enrich corporations - that takes years of training and conditioning.
+
+A human being who comes fresh out of the womb is practically an ape. It is the repeated training, conditioning and scooby-snacks that society and civilization instill upon them that turns them into 'modern men'.
+
+Civilization is a separate organism in and of itself. 'The Machine', if you will. It even evolves and mutates over time, just like living creatures - assimilating herds of minions as it expands.
+
+But that's not the fault of technology and civilization per se. The real problem is the 'bad' use of technology, as well as bad political systems. Capitalism is the problem - Period.
+
+Reform has already been tried. Communism has already been tried. It doesn't work. Early 21st century culture seems to have an obsession with nostalgia, revival and 'reboots' - something that seems to permeate not just the entertainment industry, but even politics itself.
+
+Stop it. We need new ideas.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.

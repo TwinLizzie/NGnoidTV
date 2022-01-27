@@ -141,7 +141,7 @@ We no longer live in this world. Not even close. Anybody who tells you otherwise
 
 Birth rates are plummetting, costs of living keep rising, costs of housing keep rising. People sit on their phones at lunch break instead of talking to each other. Co-workers hate each other. Asking someone out for a coffee in your workplace is now Sexual Harrassment.
 
-Bosses were always jackasses, but having those nice little moments inbetween are what made work Tolerable. We no longer have any of those nice moments at work - it's all just grim, existential Endurance at this point. The average person works just to come home and eat themsevles into a coma while watching Netflix and scrolling social media. No purpose, no soul, no humanity.
+Bosses were always jackasses, but having those nice little moments inbetween are what made work Tolerable. We no longer have any of those nice moments at work - it's all just grim, existential Endurance at this point. The average person works just to come home and eat themselves into a coma while watching Netflix and scrolling social media. No purpose, no soul, no humanity.
 
 The modern workplace has become an extremely toxic environment, and quite frankly, there is no going back. You can dream on all you want about your nostalgic revival of the Glory days. They're not coming back.
 

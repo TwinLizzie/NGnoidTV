@@ -77,6 +77,8 @@ Just a few days ago, there was an interview on Fox News with Jesse Watters, a tr
 
 Another criticism levied against Jesse Watters was that she is a dog walkers who works no more than 20 hours a week, and therefore doesn't have a right to represent the movement. Wasn't she at least practicing what she preaches? Why should the spokesperson for a movement that names itself Anti-Work [have to be] a self-crucifying and burned out workaholic? Weren't these people opposed to the Protestant work ethic?
 
+### The 21st Century doesn't forgive the Weak. Nor did Human History as we know it
+
 So there you go - Clean your room. Tidy your hair. Get your voice in order. Shower. Exercise. Work non-stop. Don't be pathetic. If you have a disability or a mental health problem - then get over it, or die trying. You don't have a choice. It's either that, or we lose the war. War doesn't forgive the weak and disabled. Get over your autism. Get over your depression.
 
 Doesn't make any sense, right? Well, if you go back and read what I've just explained: 1. that Might Makes Right, 2. that history is written by the Victors, and 3. that nobody respects the Weak and Frail, even the Weak and Frail themselves - you'll begin to understand why she got the criticism that she received.

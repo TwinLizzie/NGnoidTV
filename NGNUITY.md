@@ -10,7 +10,7 @@ The NGnuity: Renaissance aims to create an ecosystem of open source software and
 
 Think the Venus Project or the Zeitgeist Movement. Some also like to call it Fully Automated Luxury Communism. Yet Marxist schools of thought tend to be in favour of an exclusively worker-controlled economy, and are thus fundamentally incompatiable with our agenda. You're a human, not a worker. You should be able to do what you want so long as you're not infringing upon anybody else's rights.
 
-A post-scarcity economy is entirely resource-based. The blueprints for the full automation of the means of production are freely accessible to anyone; as long as you have land and raw materials, everything else will be free. 
+A post-scarcity economy is entirely resource-based. The blueprints for the full automation of the means of production are freely accessible to anyone; as long as you have land and raw materials, everything else will be free.
 
 This is unlike real estate and raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink) which will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
 
@@ -22,14 +22,16 @@ This is unlike real estate and raw energy (e.g. the air that you breathe, the la
 - Automation must not come at the cost of human fitness. E.g. Using a mobility scooter instead of walking when you are not disabled. We must build a thriving culture centered around the pursuit of physical fitness and aesthetics, as well as the arts, crafts, scientific innovation and creative endeavours.
 - Automation must be used to regain our humanity, not to dehumanize us. We were hunter-gatherers before we became agricultural drones. We shall use our free time to explore the stars, conquer distant solar systems, find alien life, etc.
 - We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to. Period.
+- To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again become Hunter-gatherers.
+- This is why Marxism is incompatible with our movement. Marxists are Agricultural Drones. We seek to live like Hunter Gatherers.
 
 ### How a Singularity will actually come about
 
-If you've ever looked up `how to brew your own Beer` or `grow your own food` on YouTube, then you've already had a glimpse of what a post-scarcity economy will be like. 
+If you've ever looked up `how to brew your own Beer` or `grow your own food` on YouTube, then you've already had a glimpse of what a post-scarcity economy will be like.
 
 Artificial Intelligence, peer-to-peer file sharing and decentralized (non cryptocurrency) technology will be able to fulfill the vast majority of our needs and answer most of our questions at the click of a button. Every household will be able to own their own NGnuity 3D Printer Robot Arm that is able to print not just plastic, but also fabric, glass and metal using inverse kinematics, as well as selective powder deposition technology plus a small furnace (coming soon this year).
 
-This robotic arm prototype will be fully self-replicating, modular, easily repairable and open sourced (search `SCARA Robot Arm` if you want a good example). Patents and copyrights are abolished and strictly forbidden. 
+This robotic arm prototype will be fully self-replicating, modular, easily repairable and open sourced (search `SCARA Robot Arm` if you want a good example). Patents and copyrights are abolished and strictly forbidden.
 
 YouTube videos, tutorials, wikis and documentation will be widely accessible. Artificial Intelligence and Deep Learning (e.g. GPT-NEO) will automate the process of designing 3d models and gcode for all of these applications, so that people don't have to be proficient in CAD to be able to use them. The more data is shared, the more data is generated.
 
@@ -43,17 +45,17 @@ Where we go from there, is a choice I leave to you.
 
 The Big Tech motto is: You will own Nothing, and you will be Happy. Our motto is: You will be able to own Everything you can possible imagine, and it'll be up to you to use that power responsibly.
 
-Some people believe that mainstream 3D printing (especially metal 3d printing) is going to become too dangerous if left unregulated, as anybody will be able to print themselves e.g. a firearm, if they wanted to. 
+Some people believe that mainstream 3D printing (especially metal 3d printing) is going to become too dangerous if left unregulated, as anybody will be able to print themselves e.g. a firearm, if they wanted to.
 
-We think this is a good thing. That which isn't dangerous, is useless. 3D printing shouldn't be an expensive toy that bored silicon valley hipsters play around with in their spare time. In order for it to truly transform the world, it [absolutely has to] dare to be dangerous. 
+We think this is a good thing. That which isn't dangerous, is useless. 3D printing shouldn't be an expensive toy that bored silicon valley hipsters play around with in their spare time. In order for it to truly transform the world, it [absolutely has to] dare to be dangerous.
 
 It should become so dangerous that anybody could build themselves an ICBM in their garage and shoot down the international space station, if they wanted to. Or land a small rover on the moon and kickstart an era of DIY space exploration.
 
 ### How do you differentiate yourself from other Post-scarcity movements such as the Venus project?
 
-We pretty much want the same things, and would be happy to work together given the opportunity. 
+We pretty much want the same things, and would be happy to work together given the opportunity.
 
-The key difference is that the NGnuity: Renaissance seeks to start work on expediting the Singularity [immediately] and with no excuse. We're more focused on practicality; taking advantage of the tools that we have right now at our disposal in order to lay down the building blocks for a post-scarcity civilization. 
+The key difference is that the NGnuity: Renaissance seeks to start work on expediting the Singularity [immediately] and with no excuse. We're more focused on practicality; taking advantage of the tools that we have right now at our disposal in order to lay down the building blocks for a post-scarcity civilization.
 
 I should also point out that the NGnuity: Renaissance is not a pacifist movement. If global wealth inequality ever got to a point where we had God-like, biologically-immortal, space-faring trillionaires walking the Earth and continuing to enrich themselves at the expense of the homeless, jobless, weak and frail, then we will have no choice but to fight and destroy them. This isn't Bernie 2016 or Occupy Wallstreet.
 

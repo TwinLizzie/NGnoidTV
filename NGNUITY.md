@@ -147,6 +147,10 @@ The modern workplace has become an extremely toxic environment, and quite frankl
 
 What lies ahead is a very decadent and dystopian landscape, and you know it. Death would be preferable than working under such a system. Unless you prepare for it, it's going to hit you like a train in a way that you will never recover from. I'd rather be prepared than naive.
 
+### You will be mocked and shunned for being Anti-work
+
+Which is why it is important to build emotional and economic self-reliance. Not [just] economic self-reliance. Having a robot companion to compensate for extended periods of solitude and alienation would be an advantage.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.

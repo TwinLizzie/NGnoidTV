@@ -16,7 +16,7 @@
   * [Why do you hate Work so much?](#why-do-you-hate-work-so-much)
   * [You will be mocked and shunned for being Anti-work](#you-will-be-mocked-and-shunned-for-being-anti-work)
   * [How to contribute](#how-to-contribute)
-  
+
 ### Introduction
 
 The NGnuity: Renaissance aims to create an ecosystem of open source software and blueprints for modular, repairable, patent-free and reverse-engineered technologies that will enable a moneyless and post-scarcity economy to come about.
@@ -173,6 +173,8 @@ People seem to have more respect for those who commit Suicide than those who sim
 We've already seen it with the downfall of the r/Antiwork movement. They seemed to almost be [ashamed] of the things they believe in, to the point of actively watering down everything that comes out of their mouths.
 
 Frankly - the only thing worth dying for would be to put an end to this nightmare. Better dead than Red. Better dead than Blue, for the matter.
+
+That's actually the beauty of this movement. It doesn't need the whole world to be on board in order to succeed. If we could just get one person to build themselves a fully automated, economically self-sufficient homestead - we've won the war.
 
 ### How to contribute
 

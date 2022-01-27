@@ -125,6 +125,8 @@ The average Millennial and Gen Z will never have the military training and disci
 
 As a 29 year old Millennial (Zoom-llennial?) myself, I certainly don't exclude myself from this category. And even if you think you're strong, smart and competent enough by your own standards - there's always somebody out there ready to burst your bubble and kick your butt. It's better just to assume that you suck at everything, and then work toward non-stop improvement, than it is to assume that you're good enough as you are. That way you won't need to rely on external feedback in order to measure your progress.
 
+It's always better to have a Negativity Bias in regards to your own capabilities, though it must also be combined with the restless pursuit of success at all costs - because Negativity Biases can be discouraging and de-motivating. It's a very difficult thing to do, but not impossible. Mind over matter.
+
 But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity from home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
 
 ### How to contribute

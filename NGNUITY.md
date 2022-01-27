@@ -75,7 +75,7 @@ You also cannot afford to look weak. Not saying you need to be a supermodel, but
 
 Just a few days ago, there was an interview on Fox News with Jesse Watters, a transgender woman and Reddit moderator who claimed to be a representative of the anti-work movement. She technically didn't say anything that hadn't already been discussed ad nauseam on the subreddit, but was nonetheless judged for having a sloppy appearance, as well as a 'manly' voice. In short - she was criticized for being Weak and Frail, by a subreddit that claims to stand up for the weak and frail.
 
-Another criticism levied against Jesse Watters was that she is a dog walkers who works no more than 20 hours a week, and therefore doesn't have a right to represent the movement. Wasn't she at least practicing what she preaches? Why should the spokesperson for a movement that names itself Anti-Work [have to be] a self-crucifying and burned out workaholic? Weren't these people opposed to the Protestant work ethic?
+Another criticism levied against Jesse Watters was that she is a dog walker who works no more than 20 hours a week, and therefore doesn't have a right to represent the movement. Wasn't she at least practicing what she preaches? Why should the spokesperson for a movement that names itself Anti-Work [have to be] a self-crucifying and burned out workaholic? Weren't these people opposed to the Protestant work ethic?
 
 ### The 21st Century doesn't forgive the Weak. Nor did Human History as we know it
 

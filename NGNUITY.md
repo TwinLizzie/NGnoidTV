@@ -77,4 +77,6 @@ No money is needed. Only data, knowledge and information. Simply give away as mu
 
 Aside from giving away data (in a way that you will actually benefit from) - you can also become a developer at any of our repositories. Fork your own copy of anything you want and give it a shot.
 
-Money is not a good way to contribute - because having a project that relies on money and profit in order to survive will only end up becoming part of the problem of what is wrong with the world as the know it.
+Money is not a good way to contribute - because having a project that relies on money and profit in order to survive will only end up becoming part of the problem of what is wrong with the world as we know it.
+
+Does that contradict any of my previous positions? Not really. Money is becoming harder to attain for the average person as a result of our crumbling world economy. There's still better and more effective ways of providing value, and being anti-Money doesn't mean we're anti-Value.

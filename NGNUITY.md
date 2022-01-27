@@ -155,7 +155,7 @@ Still better than continuing to feed a decadent, sh-tty collapsing dystopia. Sto
 
 People seem to have more respect for those who commit Suicide than those who simply drop out of the system. Those people are so reliant on validation from the system - they will fight to their deaths in order to defend it.
 
-We've already seen it with the downfall of the r/Antiwork movement. Those people seem to almost be [ashamed] of the things they believe in, to the point of actively watering down everything that comes out of their mouths.
+We've already seen it with the downfall of the r/Antiwork movement. They seemed to almost be [ashamed] of the things they believe in, to the point of actively watering down everything that comes out of their mouths.
 
 Frankly - the only thing worth dying for would be to put an end to this nightmare. Better dead than Red. Better dead than Blue, for the matter.
 

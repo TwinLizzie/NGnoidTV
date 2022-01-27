@@ -151,6 +151,12 @@ What lies ahead is a very decadent and dystopian landscape, and you know it. Dea
 
 Which is why it is important to build emotional and economic self-reliance. Not [just] economic self-reliance. Having a robot companion to compensate for extended periods of solitude and alienation would be an advantage.
 
+Still better than continuing to feed a decadent, sh-tty collapsing dystopia. Stop caring what people think. In fact - just delete social media and do you.
+
+People seem to have more respect for those who commit Suicide than those who simply drop out of the system. Those people are so reliant on validation from the system - they will fight to their deaths in order to defend it.
+
+Frankly - the only thing worth dying for would be to put an end to this nightmare. Better dead than Red. Better dead than Blue, for the matter.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.

@@ -127,7 +127,9 @@ As a 29 year old Millennial (Zoom-llennial?) myself, I certainly don't exclude m
 
 It's always better to have a Negativity Bias in regards to your own capabilities, though it must also be combined with the restless pursuit of success at all costs - because Negativity Biases can be discouraging and de-motivating. It's a very difficult thing to do, but not impossible. Mind over matter.
 
-Just assume that you're a useless sack of sh~t by default. And then work hard to try to be slightly less of a useless sack of sh~t, every day. And work toward your goals as if you didn't believe that you were actually a useless sack of sh~t.
+Our feeble minds are heavily addicted to social validation and encouragement from our peers and ingroup in order to get the motivation and inspiration to accomplish what we want. Again - this is bad.
+
+Just assume that you're a useless sack of ~sh-t~ by default. And then work hard to try to be slightly less of a useless sack of ~sh-t~, every day. And work toward your goals as if you didn't believe that you were actually a useless sack of ~sh-t~.
 
 But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity from home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
 

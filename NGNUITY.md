@@ -13,7 +13,7 @@
   * [The 21st Century doesn't forgive the Weak. Nor did Human History as we know it](#the-21st-century-doesn-t-forgive-the-weak-nor-did-human-history-as-we-know-it)
   * [Why Technology? Why not work toward Reform? Why not live in the woods and hunt Baboons?](#why-technology--why-not-work-toward-reform--why-not-live-in-the-woods-and-hunt-baboons-)
   * [Millennials and Gen Z are too Weak and undisciplined to succeed at Revolution](#millennials-and-gen-z-are-too-weak-and-undisciplined-to-succeed-at-revolution)
-  * [Why do you hate Work so much?](#why-do-you-hate-work-so-much-)
+  * [Why do you hate Work so much?](#why-do-you-hate-work-so-much)
   * [You will be mocked and shunned for being Anti-work](#you-will-be-mocked-and-shunned-for-being-anti-work)
   * [How to contribute](#how-to-contribute)
 

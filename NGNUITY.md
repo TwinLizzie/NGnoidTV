@@ -55,13 +55,19 @@ As much as I consider myself a supporter of the Anti-work movement, I also have 
 
 There is a tendency among Millennials and Gen Z to label themselves as Anarchists, Nihilists and 'non-political' pacifists who just want 'Freedom'. But 'Freedom' is a loaded term that can mean all too many things, unfortunately. We live in a world where Might makes Right. If you don't want to be conquered, you need to be capable of conquering. Strength is the only thing that matters in this world. You can deny this all you want, but it's the ugly and eternal truth.
 
+Being incoherent and impartial only makes it easy for you to be conquered by those who are strong, coherent, disciplined and focused. History is written by the victors, after all. You can't overthrow your rulers if you're not willing, let alone capable, of ruling and governing yourself.
+
+You also cannot afford to look weak. Not saying you need to be a supermodel, but one ought to try to put as much effort into one's appearance as possible. We live in an age that almost exclusively experiences their objective reality through screens and public social media personas.
+
 Just a few days ago, there was an interview on Fox News with Jessie Watters, a transgender woman and Reddit moderator who claimed to be a representative of the anti-work movement. She technically didn't say anything that hadn't already been discussed ad nauseam on the subreddit, but was nonetheless judged for having a sloppy appearance, as well as a 'manly' voice. In short - she was criticized for being Weak and Frail, by a subreddit that claims to stand up for the weak and frail.
 
 Doesn't make any sense, right? Well, if you go back and read what I've just explained: 1. that Might Makes Right, 2. that history is written by the Victors, and 3. that nobody respects the Weak and Frail, even the Weak and Frail themselves - you'll begin to understand why she got the criticism that she received.
 
-So strive to be disciplined, beautiful, presentable, strong and powerful - so that you can use that power to bring about the positive change that you wish to see in the world.
+Make it your mission in life to attain power - so that you can use that power to bring about the positive change that you wish to see in the world.
 
-Like I said. Strength is the only thing that matters in this world. Everything else, is just a delusion for the Weak.
+Strength and power can take on many forms. Beauty is power. Money is power. Discipline and sickening work ethic is power. Physical strength is power. The ability to network and make a lot of friends is power. Having a sense of humor is power. Being able to play a musical instrument is strength and power. Being able to organize and mobilize a large mob of ordinary people toward a single goal, is power and strength in numbers.
+
+My point still stands; Strength is the only thing that matters in this world. Everything else, is just a delusion for the Weak. In order to free the Slaves, one must become the Master. And then it'll be up to you to become the Better Master, or be corrupted by greed.
 
 ### How to contribute
 

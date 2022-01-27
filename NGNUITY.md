@@ -23,7 +23,7 @@ This is unlike real estate and raw energy (e.g. the air that you breathe, the la
 - Automation must be used to regain our humanity, not to dehumanize us. We were hunter-gatherers before we became agricultural drones. We shall use our free time to explore the stars, conquer distant solar systems, find alien life, etc.
 - We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to. Period.
 - To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again become Hunter-gatherers.
-- This is why Marxism is incompatible with our movement. Marxists are Agricultural Drones. We seek to live like Hunter Gatherers.
+- This is why Marxism is incompatible with our movement. Marxists are Agricultural Drones. We seek to live like technologically savvy Hunter Gatherers.
 
 ### How a Singularity will actually come about
 
@@ -82,6 +82,8 @@ Make it your mission in life to attain power - so that you can use that power to
 Strength and power can take on many forms. Beauty is power. Money is power. Discipline and sickening work ethic is power. Physical strength is power. The ability to network and make a lot of friends is power. Having a sense of humor is power. Being able to play a musical instrument is strength and power. Being able to organize and mobilize a large mob of ordinary people toward a single goal, is power and strength in numbers.
 
 My point still stands; Strength is the only thing that matters in this world. Everything else, is just a delusion for the Weak. In order to free the Slaves, one must become the Master. And then it'll be up to you to become the Better Master, or be corrupted by greed.
+
+The world needs Strongmen; at least, in order to keep the other Strongmen at bay, and for as long as they still exist.
 
 ### How to contribute
 

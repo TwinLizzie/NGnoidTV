@@ -145,6 +145,8 @@ Bosses were always jackasses, but having those nice little moments inbetween are
 
 The modern workplace has become an extremely toxic environment, and quite frankly, there is no going back. You can dream on all you want about your nostalgic revival of the Glory days. They're not coming back.
 
+What lies ahead is a very decadent and dystopian landscape, and you know it. Death would be preferable than working under such a system. Unless you prepare for it, it's going to hit you like a train in a way that you will never recover from. I'd rather be prepared than naive.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.

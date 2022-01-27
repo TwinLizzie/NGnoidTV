@@ -61,7 +61,7 @@ We are not pacifists, and never will be. The time for peaceful revolution is lon
 
 ### Why we still need to be Workaholics, not Slackers
 
-We view Work as a means to an end, not as a virtue in and of itself. Our true virtue is to live a happy life free from disease and hardship, and allow everybody else to achieve the same. But in order to get there, we need to work tirelessly - and [ruthelessly] - as none of this technology is going to build itself. There are real and tangible rewards waiting for us at the end of the battlefield, after all.
+We view Work as a means to an end, not as a virtue in and of itself. Our true virtue is to live a happy life free from disease and hardship, and allow everybody else to achieve the same. But in order to get there, we need to work tirelessly - and [ruthlessly] - as none of this technology is going to build itself. There are real and tangible rewards waiting for us at the end of the battlefield, after all.
 
 As much as I consider myself a supporter of the Anti-work movement, I also have to accept that movements cannot succeed without a coherent ideology, and certainly not without a clear strategy and path forward.
 

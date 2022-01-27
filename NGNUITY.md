@@ -29,7 +29,7 @@ This is unlike real estate and raw energy (e.g. the air that you breathe, the la
 
 If you've ever looked up `how to brew your own Beer` or `grow your own food` on YouTube, then you've already had a glimpse of what a post-scarcity economy will be like.
 
-Artificial Intelligence, peer-to-peer file sharing and decentralized (non cryptocurrency) technology will be able to fulfill the vast majority of our needs and answer most of our questions at the click of a button. Every household will be able to own their own NGnuity 3D Printer Robot Arm that is able to print not just plastic, but also fabric, glass and metal using inverse kinematics, as well as selective powder deposition technology plus a small furnace (coming soon this year).
+Artificial Intelligence, peer-to-peer file sharing and blockchain (non cryptocurrency) technology will be able to fulfill the vast majority of our needs and answer most of our questions at the click of a button. Every household will be able to own their own NGnuity 3D Printer Robot Arm that is able to print not just plastic, but also fabric, glass and metal using inverse kinematics, as well as selective powder deposition technology plus a small furnace (coming soon this year).
 
 This robotic arm prototype will be fully self-replicating, modular, easily repairable and open sourced (search `SCARA Robot Arm` if you want a good example). Patents and copyrights are abolished and strictly forbidden.
 

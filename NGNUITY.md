@@ -13,7 +13,7 @@
   * [The 21st Century doesn't forgive the Weak. Nor did Human History as we know it](#the-21st-century-doesn-t-forgive-the-weak-nor-did-human-history-as-we-know-it)
   * [Why Technology? Why not work toward Reform? Why not live in the woods and hunt Baboons?](#why-technology--why-not-work-toward-reform--why-not-live-in-the-woods-and-hunt-baboons-)
   * [Millennials and Gen Z are too Weak and undisciplined to succeed at Revolution](#millennials-and-gen-z-are-too-weak-and-undisciplined-to-succeed-at-revolution)
-  * [Why do you hate 'Work' so much?](#why-do-you-hate--work--so-much-)
+  * [Why do you hate Work so much?](#why-do-you-hate-work-so-much-)
   * [You will be mocked and shunned for being Anti-work](#you-will-be-mocked-and-shunned-for-being-anti-work)
   * [How to contribute](#how-to-contribute)
 
@@ -148,7 +148,7 @@ Just assume that you're a useless sack of ~sh-t~ by default. And then work hard 
 
 But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity from home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
 
-### Why do you hate 'Work' so much?
+### Why do you hate Work so much?
 
 It used to be that we could work a day job, come home to a wife and kids, save up for a house, be happy, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.
 

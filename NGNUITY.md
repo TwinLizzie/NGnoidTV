@@ -93,7 +93,7 @@ Strength and power can take on many forms. Beauty is power. Money is power. Disc
 
 My point still stands; Strength is the only thing that matters in this world. Everything else, is just a delusion for the Weak. In order to free the Slaves, one must become the Master. And then it'll be up to you to become the Better Master, or be corrupted by greed.
 
-The world needs Strongmen; at least, in order to keep the other Strongmen at bay, and for as long as they still exist.
+The world needs Strongmen; at least, in order to keep the other Strongmen at bay, and for as long as they still exist. Anarchists will always fail. r/WorkReform will fail.
 
 ### How to contribute
 

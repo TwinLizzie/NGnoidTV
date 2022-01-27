@@ -49,11 +49,11 @@ We think this is a good thing. That which isn't dangerous, is useless. 3D printi
 
 ### Why we still need to be Workaholics, not Slackers
 
-We view Work as a means to an end, not as a virtue in and of itself. Our true virtue is to live a happy life free from disease and hardship, and allow everybody else to achieve the same. But in order to get there we need to work tirelessly - and [ruthelessly] - as none of this technology is going to build itself. There are real and tangible rewards waiting for us at the end of the battlefield, after all.
+We view Work as a means to an end, not as a virtue in and of itself. Our true virtue is to live a happy life free from disease and hardship, and allow everybody else to achieve the same. But in order to get there, we need to work tirelessly - and [ruthelessly] - as none of this technology is going to build itself. There are real and tangible rewards waiting for us at the end of the battlefield, after all.
 
 As much as I consider myself a supporter of the Anti-work movement, I also have to accept that movements cannot succeed without a coherent ideology, and certainly not without a clear strategy and path forward.
 
-There is a tendency among Millennials and Gen Z to label themselves as Anarchists, Nihilists and 'non-political' pacifists who just want 'Freedom'. But 'Freedom' is a loaded term that can mean all too many things, unfortunately. We live in a world where Might makes Right. If you don't want to be conquered, you need to be capable of conquering. Strength is the only thing that matters in this world. You can deny this all you want but it's the ugly eternal truth.
+There is a tendency among Millennials and Gen Z to label themselves as Anarchists, Nihilists and 'non-political' pacifists who just want 'Freedom'. But 'Freedom' is a loaded term that can mean all too many things, unfortunately. We live in a world where Might makes Right. If you don't want to be conquered, you need to be capable of conquering. Strength is the only thing that matters in this world. You can deny this all you want, but it's the ugly and eternal truth.
 
 Just a few days ago, there was an interview on Fox News with Jessie Watters, a transgender woman and Reddit moderator who claimed to be a representative of the anti-work movement. She technically didn't say anything that hadn't already been discussed ad nauseam on the subreddit, but was nonetheless judged for having a sloppy appearance, as well as a 'manly' voice. In short - she was criticized for being Weak and Frail, by a subreddit that claims to stand up for the weak and frail.
 

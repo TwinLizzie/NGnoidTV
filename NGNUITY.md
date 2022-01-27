@@ -151,7 +151,7 @@ What lies ahead is a very decadent and dystopian landscape, and you know it. Dea
 
 Which is why it is important to build emotional and economic self-reliance. Not [just] economic self-reliance. Having a robot companion to compensate for extended periods of solitude and alienation would be an advantage.
 
-Still better than continuing to feed a decadent, sh-tty collapsing dystopia. Stop caring what people think. In fact - just delete social media and do you.
+Still better than continuing to feed a decadent, sh-tty collapsing dystopia. Stop caring what people think. In fact - just delete social media, and learn to walk alone for a while.
 
 People seem to have more respect for those who commit Suicide than those who simply drop out of the system. Those people are so reliant on validation from the system - they will fight to their deaths in order to defend it.
 

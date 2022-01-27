@@ -49,6 +49,16 @@ We think this is a good thing. That which isn't dangerous, is useless. 3D printi
 
 It should become so dangerous that anybody could build themselves an ICBM in their garage and shoot down the international space station, if they wanted to. Or land a small rover on the moon and kickstart an era of DIY space exploration.
 
+### How do you differentiate yourself from other Post-scarcity movements such as the Venus project?
+
+We pretty much want the same things, and would be happy to work together given the opportunity. 
+
+The key difference is that the NGnuity: Renaissance seeks to start work on expediting the Singularity [immediately] and with no excuse. We're more focused on practicality; taking advantage of the tools that we have right now at our disposal in order to lay down the building blocks for a post-scarcity civilization. 
+
+I should also point out that the NGnuity: Renaissance is not a pacifist movement. If global wealth inequality ever got to a point where we had God-like, biologically-immortal, space-faring trillionaires walking the Earth and continuing to enrich themselves at the expense of the homeless, jobless, weak and frail, then we will have no choice but to fight and destroy them. This isn't Bernie 2016 or Occupy Wallstreet.
+
+We are not pacifists, and never will be. The time for peaceful revolution is long gone. Period. If the Venus project has a problem with that, then they need to go away.
+
 ### Why we still need to be Workaholics, not Slackers
 
 We view Work as a means to an end, not as a virtue in and of itself. Our true virtue is to live a happy life free from disease and hardship, and allow everybody else to achieve the same. But in order to get there, we need to work tirelessly - and [ruthelessly] - as none of this technology is going to build itself. There are real and tangible rewards waiting for us at the end of the battlefield, after all.

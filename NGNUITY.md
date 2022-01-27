@@ -133,6 +133,18 @@ Just assume that you're a useless sack of ~sh-t~ by default. And then work hard 
 
 But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity from home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
 
+### Why do you hate 'Work' so much?
+
+It used to be that we could work a day job, come home to a wife and kids, save up for a house, be happy, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.
+
+We no longer live in this world. Not even close. Anybody who tells you otherwise is delusional.
+
+Birth rates are plummetting, costs of living keep rising, costs of housing keep rising. People sit on their phones at lunch break instead of talking to each other. Co-workers hate each other. Asking someone out for a coffee in your workplace is now Sexual Harrassment.
+
+Bosses were always jackasses, but having those nice little moments inbetween are what made work Tolerable. We no longer have any of those nice moments at work - it's all just grim, existential Endurance at this point. The average person works just to come home and eat themsevles into a coma while watching Netflix and scrolling social media. No purpose, no soul, no humanity.
+
+The modern workplace has become an extremely toxic environment, and quite frankly, there is no going back. You can dream on all you want about your nostalgic revival of the Glory days. They're not coming back.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.

@@ -117,6 +117,14 @@ Reform has already been tried. Communism has already been tried. It doesn't work
 
 Stop it. We need new ideas.
 
+### Millennials and Gen Z are too Weak and undisciplined to succeed at Revolution
+
+It was already hard enough to fight for revolution and reform when half a country consisted of hardened Gangsters who built skyscrapers without safety gear and hauled illegal liquor for a living.
+
+The average Millennial and Gen Z will never have the military training and discipline required to overthrow a government and install a new one.
+
+But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity form home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.

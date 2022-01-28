@@ -9,7 +9,7 @@
   * [How a Singularity will actually come about](#how-a-singularity-will-actually-come-about)
   * [How do you differentiate yourself from Big Tech?](#how-do-you-differentiate-yourself-from-big-tech)
   * [How do you differentiate yourself from other Post-scarcity movements such as the Venus project?](#how-do-you-differentiate-yourself-from-other-post-scarcity-movements-such-as-the-venus-project)
-  * [Why we still need to be Workaholics, not Slackers](#why-we-still-need-to-be-workaholics--not-slackers)
+  * [Why we still need to be Workaholics, not Slackers](#why-we-still-need-to-be-workaholics-not-slackers)
   * [The 21st Century does not forgive the Weak. Nor did Human History as we know it](#the-21st-century-does-not-forgive-the-weak-nor-did-human-history-as-we-know-it)
   * [Why Technology? Why not work toward Reform? Why not live in the woods and hunt Baboons?](#why-technology-why-not-work-toward-reform-why-not-live-in-the-woods-and-hunt-baboons)
   * [Millennials and Gen Z are too Weak and undisciplined to succeed at Revolution](#millennials-and-gen-z-are-too-weak-and-undisciplined-to-succeed-at-revolution)

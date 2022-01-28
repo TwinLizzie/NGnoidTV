@@ -10,7 +10,7 @@
   * [How do you differentiate yourself from Big Tech?](#how-do-you-differentiate-yourself-from-big-tech)
   * [How do you differentiate yourself from other Post-scarcity movements such as the Venus project?](#how-do-you-differentiate-yourself-from-other-post-scarcity-movements-such-as-the-venus-project)
   * [Why we still need to be Workaholics, not Slackers](#why-we-still-need-to-be-workaholics--not-slackers)
-  * [The 21st Century doesn't forgive the Weak. Nor did Human History as we know it](#the-21st-century-doesn-t-forgive-the-weak-nor-did-human-history-as-we-know-it)
+  * [The 21st Century does not forgive the Weak. Nor did Human History as we know it](#the-21st-century-does-not-forgive-the-weak-nor-did-human-history-as-we-know-it)
   * [Why Technology? Why not work toward Reform? Why not live in the woods and hunt Baboons?](#why-technology-why-not-work-toward-reform-why-not-live-in-the-woods-and-hunt-baboons)
   * [Millennials and Gen Z are too Weak and undisciplined to succeed at Revolution](#millennials-and-gen-z-are-too-weak-and-undisciplined-to-succeed-at-revolution)
   * [Why do you hate Work so much?](#why-do-you-hate-work-so-much)
@@ -94,7 +94,7 @@ Another criticism levied against Doreen was that she is a dog walker who works n
 
 Doesn't make any sense, right? Well, if you go back and read what I've just explained: 1. that Might Makes Right, 2. that history is written by the Victors, and 3. that nobody respects the Weak and Frail, even the Weak and Frail themselves - you'll begin to understand why she got the criticism that she received.
 
-### The 21st Century doesn't forgive the Weak. Nor did Human History as we know it
+### The 21st Century does not forgive the Weak. Nor did Human History as we know it
 
 So there you go - Clean your room. Tidy your hair. Get your voice in order. Shower. Exercise. If you are trans - then look like the gender you identify as, or die trying. Work non-stop (to expedite the Singularity). Don't be pathetic. If you have a disability or a mental health problem - then get over it, or die trying. If you're obese, lose weight. You don't have a choice. It's either that, or we lose the war. War doesn't forgive the weak and disabled. Get over your autism. Get over your depression.
 

@@ -19,7 +19,7 @@
 
 ### Introduction
 
-The NGnuity: Renaissance aims to create an ecosystem of open source software and blueprints for modular, repairable, patent-free and reverse-engineered technologies that will enable a moneyless and post-scarcity economy to come about.
+The NGnuity: Renaissance aims to create an ecosystem of open source software and blueprints for modular, repairable, patent-free and reverse-engineered technologies that will enable a moneyless and post-scarcity economy to come about. (Also see https://3d.ngnoid.tv if curious)
 
 ### What is Post-scarcity?
 

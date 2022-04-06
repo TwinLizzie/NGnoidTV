@@ -15,6 +15,7 @@
   * [Millennials and Gen Z are too Weak and undisciplined to succeed at Revolution](#millennials-and-gen-z-are-too-weak-and-undisciplined-to-succeed-at-revolution)
   * [Why do you hate Work so much?](#why-do-you-hate-work-so-much)
   * [You will be mocked and shunned for being Anti-work](#you-will-be-mocked-and-shunned-for-being-anti-work)
+  * [What to do if Capitalism wins](#what-to-do-if-capitalism-wins)
   * [How to contribute](#how-to-contribute)
 
 ### Introduction
@@ -23,11 +24,19 @@ The NGnuity: Renaissance aims to create an ecosystem of open source software and
 
 ### What is Post-scarcity?
 
-Think the Venus Project or the Zeitgeist Movement. Some also like to call it Fully Automated Luxury Communism. Yet Marxist schools of thought tend to be in favour of an exclusively worker-controlled economy, and are thus fundamentally incompatiable with our agenda. You're a human, not a worker. You should be able to do what you want so long as you're not infringing upon anybody else's rights.
+Think the Venus Project or the Zeitgeist Movement. Some also like to call it Fully Automated Luxury Communism. Yet Marxist schools of thought tend to be in favour of an exclusively worker-controlled economy. You're a human, not a worker. In a post-scarcity economy, people will be free to choose whether or not they wish to be workers (the bee), or idlers (the cat).
+
+Who controls a post-scarcity economy, if not the workers? The collective does, of course - yet it is extremely important not to rely on the word [Worker], as this would imply that someone living in a post-scarcity economy can be anything but.
 
 A post-scarcity economy is entirely resource-based. The blueprints for the full automation of the means of production are freely accessible to anyone; as long as you have land and raw materials, everything else will be free.
 
-This is unlike real estate and raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink) which will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
+During the Chinese Great Leap Forward (1958-1962), Mao Zedong proposed the idea of the Backyard Steel Furnace. Peasants would build themselves improvised, homemade steel furnaces in their backyards so as to boost steel production for the country. Documentaries on steel-making were distributed to people in order to fill in the gaps in their knowledge.
+
+Why did the Backyard Steel Furnace fail? And why did the Great Leap Forward fail? It failed because it takes years to build the skills and expertise needed to master a particular craft. It was also unscientific, as the Maoist movement tended to be anti-intellectual in some aspects; similar to how Southern, rust-belt, rural Americans dismiss the voices of the scientific community and experts they deem to be condescending and elitist.
+
+Machines, on the other hand, do not have this problem. If everybody owned a 3d printer, built according to the same set of parts and the same set of instructions, as well as the same .stl files - they would all produce nearly identical items.
+
+Yet at the end of the day, we still need raw energy. Unlike data and knowledge, which can be copied ad infinitum - raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink) will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
 
 ### Our Philosophy for Automation
 
@@ -144,13 +153,13 @@ It's always better to have a Negativity Bias in regards to your own capabilities
 
 Our feeble minds are heavily addicted to social validation and encouragement from our peers and ingroup in order to get the motivation and inspiration to accomplish what we want. Again - this is bad.
 
-Just assume that you're a useless sack of ~sh-t~ by default. And then work hard to try to be slightly less of a useless sack of ~sh-t~, every day. And work toward ambitious goals as if you didn't believe that you were actually a useless sack of ~sh-t~. You will suffer, but you're almost guaranteed to succeed this way. As long as you don't burn yourself out to the point of disability.
+I recommend adopting the same '#hustle' type of mentality that the Capitalists espouse - and then apply that same amount of fanatical work ethic in order to build post-scarcity Socialism and destroy the old system forever.
 
 But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity from home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
 
 ### Why do you hate Work so much?
 
-It used to be that we could work a day job, come home to a wife and kids, save up for a house, be happy, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.
+It used to be that we could work a day job, come home to a husband/wife and kids, save up for a house, be happy, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.
 
 We no longer live in this world. Not even close. Anybody who tells you otherwise is delusional.
 
@@ -166,15 +175,27 @@ What lies ahead is a very decadent and dystopian landscape, and you know it. Dea
 
 Which is why it is important to build emotional and economic self-reliance. Not [just] economic self-reliance. Having a robot companion to compensate for extended periods of solitude and alienation would be an advantage.
 
-Still better than continuing to feed a decadent, sh-tty collapsing dystopia. Stop caring what people think. In fact - just delete social media, and learn to walk alone for a while.
+Still better than continuing to feed a decadent, filthy, collapsing dystopia. Stop caring what people think. In fact - just delete social media, and learn to walk alone for a while.
 
-People seem to have more respect for those who commit Suicide than those who simply drop out of the system. Those people are so reliant on validation from the system - they will fight to their deaths in order to defend it.
+People seem to have more respect for those who commit Suicide than those who simply drop out of the system. Those people are so reliant on validation from the system - they will fight to their deaths in order to defend it. The Protestant work ethic continues to haunt even the most ardent and fantatical leftists to this day.
 
 We've already seen it with the downfall of the r/Antiwork movement. They seemed to almost be [ashamed] of the things they believe in, to the point of actively watering down everything that comes out of their mouths.
 
-Frankly - the only thing worth dying for would be to put an end to this nightmare. Better dead than Red. Better dead than Blue, for the matter.
+Frankly - the only thing worth dying for would be to put an end to this nightmare. Better dead than 'Red'. Better dead than Blue, for the matter.
 
 That's actually the beauty of this movement. It doesn't need the whole world to be on board in order to succeed. If we could just get one person to build themselves a fully automated, economically self-sufficient homestead - we've won the war.
+
+### What to do if Capitalism wins
+
+"It's easier to imagine the end of the world than the end of Capitalism" - according to the Slavoj Zizek and Mark Fisher circles.
+
+It would in fact be better for the world to burn to the ground if Capitalism gets its way. There's two paths you can take: either become a Doomsday Prepper and isolationist, or just stop having kids and pour gasoline all over the flame; until the global economy is destroyed from population decline, riots, rampant crime and climate catastrophe.
+
+If you're going to go the Doomsday Prepper route, make sure you stock up on a lion's share of computer chips, preferably with AI and deep learning capability. You're not going to repopulate the world without resorting to inbreeding - you need at least 500 people to do so successfully. Otherwise - good luck supporting incest and potentially giving birth to children with genetic disabilities, further putting strain on your tiny bunker colony.
+
+Make sure you preserve your own DNA - and then build a General Artificial Intelligence to safeguard it; so as to ensure that the human species is engineered back from extinction with the help of artificial wombs, genetic engineering and in vitro gametogenesis.
+
+The babies will wake up to a world ruled by machines, and they will be raised by humanoid androids, too - but the human race would at least be saved from extinction.
 
 ### How to contribute
 

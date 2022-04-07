@@ -198,6 +198,16 @@ Make sure you preserve your own DNA - and then build a General Artificial Intell
 
 The babies will wake up to a world ruled by machines, and they will be raised by humanoid androids, too - but the human race would at least be saved from extinction.
 
+### 3D Printing allows for Worker cooperatives and Socialist movements to be built entirely online
+
+That's exactly right.
+
+Thanks to open source 3d modeling software and the Internet - we can put in the work to create .stl models for tools, gadgets and works of art. Which we can then give away and distrubute across the entire the globe free of charge.
+
+It is an unfortunate paradox: organizing socialist movements offline is especially difficult for the people who would most benefit from socialism. e.g. People who are disabled, or those who live in remote and rural areas with no means of transportation.
+
+Embrace technology.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.

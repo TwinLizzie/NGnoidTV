@@ -48,7 +48,7 @@ Yet at the end of the day, we still need raw energy. Unlike data and knowledge, 
 - Automation must be used to regain our humanity, not to dehumanize us. We were hunter-gatherers before we became agricultural drones. We shall use our free time to explore the stars, conquer distant solar systems, find alien life, etc.
 - We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to. Period.
 - To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again become Hunter-gatherers.
-- This is why Marxism is incompatible with our movement. Marxists are Agricultural Drones. We seek to live like technologically savvy Hunter Gatherers.
+- This is why classical Marxism is incompatible with our movement. Classical Marxists are Agricultural Drones. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
 
 ### How a Singularity will actually come about
 

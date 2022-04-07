@@ -16,6 +16,7 @@
   * [Why do you hate Work so much?](#why-do-you-hate-work-so-much)
   * [You will be mocked and shunned for being Anti-work](#you-will-be-mocked-and-shunned-for-being-anti-work)
   * [What to do if Capitalism wins](#what-to-do-if-capitalism-wins)
+  * [3D Printing allows for Worker cooperatives and Socialist movements to be built entirely online](#3d-printing-allows-for-worker-cooperatives-and-socialist-movements-to-be-built-entirely-online)
   * [How to contribute](#how-to-contribute)
 
 ### Introduction

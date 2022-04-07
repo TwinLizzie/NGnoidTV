@@ -207,6 +207,8 @@ Thanks to open source 3d modeling software and the Internet - we can put in the 
 
 It is an unfortunate paradox: organizing socialist movements offline is especially difficult for the people who would most benefit from socialism. e.g. People who are disabled, or those who live in remote and rural areas with no means of transportation.
 
+We can't keep handicapping ourselves like this. It took nearly 11 years of Occupy Wallstreet, Bernie 2016 and Black Lives Matter riots just to get 1 Amazon warehouse to be unionized in the U.S. We need exponential progress. We need [dangerous] movements.
+
 Embrace technology.
 
 ### How to contribute

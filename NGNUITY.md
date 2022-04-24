@@ -98,7 +98,7 @@ It should become so dangerous that anybody could build themselves an ICBM in the
 
 ### Creating a viable alternative to Communism and PieInTheSkyism
 
-We pretty much want the same things, and would be happy to work together given the opportunity.
+What do I think of other Marxists? Better yet - what do I think about the Venus project? We pretty much want the same things, and would be happy to work together given the opportunity.
 
 The key difference is that the NGnuity: Renaissance seeks to start work on expediting the Singularity [immediately] and with no excuse. We're more focused on practicality; taking advantage of the tools that we have right now at our disposal in order to lay down the building blocks for a post-scarcity civilization.
 

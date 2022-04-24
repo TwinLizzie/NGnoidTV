@@ -11,6 +11,7 @@
   * [Creating an effective Antidote to Big Tech](#creating-an-effective-antidote-to-big-tech)
   * [Creating a viable alternative to Communism and PieInTheSkyism](#creating-a-viable-alternative-to-communism-and-pieintheskyism)
   * [Creating believable alternatives to Nihilism](#creating-believable-alternatives-to-nihilism)
+  * [Only a Unifying Moral Framework can Bring the Left Together](#only-a-unifying-moral-framework-can-bring-the-left-together)
   * [Weaponizing Hustle Culture to the detriment of Capitalism](#weaponizing-hustle-culture-to-the-detriment-of-capitalism)
   * [Might makes Right is not a statement of Morality](#might-makes-right-is-not-a-statement-of-morality)
   * [Technology is not the Enemy. Supply Chains are](#technology-is-not-the-enemy-supply-chains-are)
@@ -122,6 +123,18 @@ So how are we supposed to accomodate the group that wants to kill all Muslims? O
 That's the thing - You don't. You force them to change, or you fight them. The path of Combat is the path of Life.
 
 It is the neverending struggle for justice and a better world that gives meaning to our lives. Not the acceptance of what is considered 'Good Enough'. Not the acceptance of what is 'comfortable'.
+
+### Only a Unifying Moral Framework can Bring the Left Together
+
+The reason we often see so much division among 'The Left' is because people don't have a clue about what they actually want.
+
+Some people want 'Freedom'. Others want 'Tax-funded Healthcare and Education'. Yet 'Tax-funded Healthcare and Education' is considered anti-thetical to 'Freedom' for some people. (I will talk more about Freedom™ later in this book).
+
+Some people say that Marxism is authoritarian. Others say that it advocates for a stateless society. Some people say that we can only have nice things with a stronger government. Others say that government and centralization itself is the problem.
+
+What the left is ultimately lacking is a unifying moral framework. Most people on the left are actually Utilitarians. Utilitarianism is the fundamental belief that your actions can only be weighed and assesed as 'Good' based on whether or not they'll [maximize well-being] and/or [minimize suffering] [for people as a whole].
+
+Right-wingers, on the other hand, tend to only be more concerned with actions that maximize well-being and minimize suffering [for themselves].
 
 ### Weaponizing Hustle Culture to the detriment of Capitalism
 

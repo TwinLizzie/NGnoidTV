@@ -134,7 +134,7 @@ Some people say that Marxism is authoritarian. Others say that it advocates for 
 
 What the left is ultimately lacking is a unifying moral framework. Most people on the left are actually Utilitarians. Utilitarianism is the fundamental belief that your actions can only be weighed and assesed as 'Good' based on whether or not they'll [maximize well-being] and/or [minimize suffering] [for people as a whole].
 
-Right-wingers, on the other hand, tend to only be more concerned with actions that maximize well-being and minimize suffering [for themselves].
+Right-wingers, on the other hand, tend to be more concerned with actions that maximize well-being and minimize suffering [for themselves].
 
 ### Weaponizing Hustle Culture to the detriment of Capitalism
 

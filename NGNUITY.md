@@ -21,7 +21,7 @@
   * [We Work to pay Rent. Not to purchase Goods and Services](#we-work-to-pay-rent-not-to-purchase-goods-and-services)  
   * [Real Reason why we Hate to go to Work](#real-reason-why-we-hate-to-go-to-work)
   * [Weaknesses and Strengths of the Antiwork movement](#weaknesses-and-strengths-of-the-antiwork-movement)
-  * [What it means to never Surrender. What it means to have Pride](#what-it-means-to-never-surrender-what-it-means-to-have-pride)
+  * [A Call to Never Surrender. A Call to Anti-Capitalist Jihad](#a-call-to-never-surrender-a-call-to-anti-capitalist-jihad)
   * [Creating online-based Worker Cooperatives using 3D Printing](#3d-printing-allows-for-worker-cooperatives-and-socialist-movements-to-be-built-entirely-online)
   * [How to contribute](#how-to-contribute)
 
@@ -315,17 +315,23 @@ Frankly - the only thing worth dying for would be to put an end to this nightmar
 
 That's actually the beauty of this movement. It doesn't need the whole world to be on board in order to succeed. If we could just get one person to build themselves a fully automated, economically self-sufficient homestead - we've won the war.
 
-### What it means to never Surrender. What it means to have Pride
+### A Call to Never Surrender. A Call to Anti-Capitalist Jihad
 
 "It's easier to imagine the end of the world than the end of Capitalism" - according to the Slavoj Zizek and Mark Fisher circles.
 
-It would in fact be better for the world to burn to the ground if Capitalism gets its way. There's two paths you can take in the face of political hopelessness: either become a Doomsday Prepper and isolationist, or just stop having kids and pour gasoline all over the flame; until the global economy is destroyed from population decline, riots, rampant crime and climate catastrophe.
+It would in fact be better for the world to burn to the ground if Capitalism gets its way. There's two paths you can take in the face of political hopelessness: either become a Doomsday Prepper, a homesteader, an isolationist - or just stop having kids and pour gasoline all over the flame; letting go of the steering wheel and allowing civilization to collapse from population decline, riots, rampant crime and climate catastrophe.
 
-If you're going to go the Doomsday Prepper route, make sure you stock up on a lion's share of computer chips, preferably with AI and deep learning capability. You're not going to repopulate the world without resorting to inbreeding - you need at least 500 people to do so successfully. Otherwise - good luck supporting incest and potentially giving birth to children with genetic disabilities, further putting strain on your tiny bunker colony.
+If you're going to go the Doomsday Prepper route, make sure you stock up on a lion's share of computer chips, preferably with AI and deep learning capability. You're not going to repopulate the world without resorting to inbreeding. You need at least 500 people to do so successfully. Otherwise, good luck practicing incest and potentially giving birth to children with genetic disabilities, further putting strain on your tiny bunker colony.
 
-Make sure you preserve your own DNA - and then build a General Artificial Intelligence to safeguard it; so as to ensure that the human species is engineered back from extinction with the help of artificial wombs, genetic engineering and in vitro gametogenesis.
+Be sure you preserve your own DNA. Build a General Artificial Intelligence able to safeguard it; so as to ensure that the human species can be engineered back from extinction with the help of artificial wombs, genetic engineering and in vitro gametogenesis.
 
-The babies will wake up to a world ruled by machines, and they will be raised by humanoid androids, too - but the human race would at least be saved from extinction.
+The babies will wake up to a world ruled by machines, and  will subsequently be raised by humanoid androids, too. But the human race will at least be saved from extinction.
+
+Doesn't this contradict the premise of this chapter? Of course it does. It's basically satire.
+
+The only answer is to never stop fighting. Go out with a bang. Drag your enemy down with you to the pits of hell if need be.
+
+The only answer is anti-capitalist Jihad.
 
 ### 3D Printing allows for Worker cooperatives and Socialist movements to be built entirely online
 

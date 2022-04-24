@@ -23,6 +23,7 @@
   * [Weaknesses and Strengths of the Antiwork movement](#weaknesses-and-strengths-of-the-antiwork-movement)
   * [A Call to Never Surrender. A Call to Anti-Capitalist Jihad](#a-call-to-never-surrender-a-call-to-anti-capitalist-jihad)
   * [Creating online-based Worker Cooperatives using 3D Printing](#3d-printing-allows-for-worker-cooperatives-and-socialist-movements-to-be-built-entirely-online)
+  * [On Artificial Intelligence-Run Governments](#on-artificial-intelligence-run-governments)
   * [How to contribute](#how-to-contribute)
 
 ### Introduction
@@ -344,6 +345,28 @@ It is an unfortunate paradox: organizing socialist movements offline is especial
 We can't keep handicapping ourselves like this. It took nearly 11 years of Occupy Wallstreet, Bernie 2016 and Black Lives Matter riots just to get 1 Amazon warehouse to be unionized in the U.S. We need exponential progress. We need [dangerous] movements.
 
 Embrace technology.
+
+### On Artificial Intelligence-Run Governments
+
+Should Artificial Intelligence be in charge of all policy-making? Of course, but that depends on who is responsbile for training the neural networks and/or writing the code.
+
+Human beings are generally good at figuring out what the right way to behave is and what good rules should be, but they're not good at consistently applying those rules, let alone practising what they preach in the long term.
+
+Take Christianity for instance. 'Love thy neighbour'. '...sell what you own, and give the money to the poor, and you will have treasure in heaven!' These are overall good rules, but they were not applied consistently as time went by.
+
+Over the centuries, Christianity became a complete abomination and bastardization of what it used to be. Why? Because the human brain is an [analog] computer. Human beings are capable of taking any given piece of writing - even that which is written clearly, explicitly and literally - and twisting the meaning of it to suit their own self-interest.
+
+Analog computers don't follow strict sets of rules and logic gates. One advantage to this is that it allows for flexibility, crativity and the avoidance of predictable patterns of behavior. But it also means that good rules will be broken; for the better, or for the absolute worst.
+
+Digital computers, however, are just as capable of creativity as analog computers, if not more. e.g. DALL-E, GPT-3, GPT-NEO (open source), etc.
+
+When computers make mistakes, it's invariably due to bad programming. Sometimes a space ray will hit the Earth in just the right manner so as to cause random bits to flip on a machine, but such events are extremely rare. 99.9999% of the time - a digital computer is doing exactly what it is told to do.
+
+If you go to the bank and deposit 5x $20 dollar notes, you will always see $100 in your bank balance. (Actually, this is a bad example, as ATMs are notorious for being pathetic and dysfunctional due to how expensive and inconvenient it is for banks to upgrade their damn software to something newer than Windows XP. They still can't even get rid of payment processing delays. Airlines are just as bad! Go figure.)
+
+Bureaucratic garbage aside, my point stands. If you use a calculator, you will always get 50+50=100, 1+1=2, etc. You will always out of AI, exactly what you put in. So it's not a matter of whether or not Artificial Intelligence itself is evil, but whether or not you can come up with a decent and stable iteration of it to start with.
+
+However, if your goal is to have a society that will [never] change its core values (e.g. the maximization of happiness, maximization of human potential, minimization of suffering) - and [never] become corrupted, no matter how many centuries go by - then having an AI government is clearly worth the effort to pursue.
 
 ### How to contribute
 

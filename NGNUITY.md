@@ -1,22 +1,27 @@
-## Manifesto for the NGnuity: Renaissance
+## NGnuity: Renaissance - Manifesto for a New Left
 
 <img width="200" alt="ngnuity icon" src="https://github.com/TwinLizzie/Sylvie-2021/blob/master/images/web_photos/cat_space_symbol.png">
 
 ### Table of Contents
   * [Introduction](#introduction)
   * [What is Post-scarcity?](#what-is-post-scarcity)
-  * [Our Philosophy for Automation](#our-philosophy-for-automation)
-  * [How a Singularity will actually come about](#how-a-singularity-will-actually-come-about)
-  * [How do you differentiate yourself from Big Tech?](#how-do-you-differentiate-yourself-from-big-tech)
-  * [How do you differentiate yourself from other Post-scarcity movements such as the Venus project?](#how-do-you-differentiate-yourself-from-other-post-scarcity-movements-such-as-the-venus-project)
-  * [Why we still need to be Workaholics, not Slackers](#why-we-still-need-to-be-workaholics-not-slackers)
-  * [The 21st Century does not forgive the Weak. Nor did Human History as we know it](#the-21st-century-does-not-forgive-the-weak-nor-did-human-history-as-we-know-it)
-  * [Why Technology? Why not work toward Reform? Why not live in the woods and hunt Baboons?](#why-technology-why-not-work-toward-reform-why-not-live-in-the-woods-and-hunt-baboons)
-  * [Millennials and Gen Z are too Weak and undisciplined to succeed at Revolution](#millennials-and-gen-z-are-too-weak-and-undisciplined-to-succeed-at-revolution)
-  * [Why do you hate Work so much?](#why-do-you-hate-work-so-much)
-  * [You will be mocked and shunned for being Anti-work](#you-will-be-mocked-and-shunned-for-being-anti-work)
-  * [What to do if Capitalism wins](#what-to-do-if-capitalism-wins)
-  * [3D Printing allows for Worker cooperatives and Socialist movements to be built entirely online](#3d-printing-allows-for-worker-cooperatives-and-socialist-movements-to-be-built-entirely-online)
+  * [What is Accelerationism?](#what-is-accelerationism)
+  * [A New Philosophy of Automation](#a-new-philosophy-of-automation)
+  * [A Best Case Scenario for a Technological Singularity](#a-best-case-scenario-for-a-technological-singularity)
+  * [Creating an effective Antidote to Big Tech](#creating-an-effective-antidote-to-big-tech)
+  * [Creating a viable alternative to Communism and PieInTheSkyism](#creating-a-viable-alternative-to-communism-and-pieintheskyism)
+  * [Creating believable alternatives to Nihilism](#creating-believable-alternatives-to-nihilism)
+  * [Weaponizing Hustle Culture to the detriment of Capitalism](#weaponizing-hustle-culture-to-the-detriment-of-capitalism)
+  * [Might makes Right is not a statement of Morality](#might-makes-right-is-not-a-statement-of-morality)
+  * [Technology is not the Enemy. Supply Chains are](#technology-is-not-the-enemy-supply-chains-are)
+  * [Liberal Democracy is beset by an inability to generate Radical Change](#liberal-democracy-is-beset-by-an-inability-to-generate-radical-change)
+  * [Fake News, Parallel Realities and Social Entropy](#fake-news-parallel-realities-and-social-entropy)
+  * [Tankies, Trumpers, Celebrity Worship and Simping](#tankies-trumpers-celebrity-worship-and-simping)
+  * [We Work to pay Rent. Not to purchase Goods and Services](#we-work-to-pay-rent-not-to-purchase-goods-and-services)  
+  * [Real Reason why we Hate to go to Work](#real-reason-why-we-hate-to-go-to-work)
+  * [Weaknesses and Strengths of the Antiwork movement](#weaknesses-and-strengths-of-the-antiwork-movement)
+  * [What it means to never Surrender. What it means to have Pride](#what-it-means-to-never-surrender-what-it-means-to-have-pride)
+  * [Creating online-based Worker Cooperatives using 3D Printing](#3d-printing-allows-for-worker-cooperatives-and-socialist-movements-to-be-built-entirely-online)
   * [How to contribute](#how-to-contribute)
 
 ### Introduction
@@ -39,7 +44,19 @@ Machines, on the other hand, do not have this problem. If everybody owned a 3d p
 
 Yet at the end of the day, we still need raw energy. Unlike data and knowledge, which can be copied ad infinitum - raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink) will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
 
-### Our Philosophy for Automation
+### What is Accelerationism?
+
+Accelerationism is often used interchangably with Terrorism these days; deliberately causing chaos and destruction, in order to make it easier to fill the void of power and overthrow a government.
+
+This isn't what Accelerationism means in literature. Left-wing accelerationism typically seeks to encourage and expedite automation, technological progress and 'ride the wave of Capitalist economic growth' all the way to an egalitarian, technology-fueled Utopia.
+
+Some people view this as irresponsible and destructive. In their view, automation is more likely to bring about a dystopian future and exacerbate inequality, rather than emancipate us from it.
+
+The truth, I believe, lies somewhere in the middle. Automation will only bring about a better world if we actively partake in its development ourselves. As long as [we] write the code. As long as [we] build the machines.
+
+Otherwise, yes - we will end up with a Google, Microsoft, Amazon, Tesla and Facebook one-world-government.
+
+### A New Philosophy of Automation
 
 - The simplest approach to automation is the best approach. e.g. Which is better - A cat door, or an automatic door opener with a built-in camera and computer vision?
 - Prioritize owning tools that can be used to build as many other tools as possible. e.g. A cordless drill has greater utility than a box full of screw drivers. A 3d printer has more utility than a paper printer. A desktop computer has more utility than a Television. etc. You can't build everything at home, but if you have a good enough metal, glass and fabric 3d printer, you can easily print yourself the tools needed to make almost everything else.  
@@ -50,8 +67,9 @@ Yet at the end of the day, we still need raw energy. Unlike data and knowledge, 
 - We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to. Period.
 - To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again become Hunter-gatherers.
 - This is why classical Marxism is incompatible with our movement. Classical Marxists are Agricultural Drones. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
+- Build a new society around the same values and principles as the Linux operating system.
 
-### How a Singularity will actually come about
+### A Best Case Scenario for a Technological Singularity
 
 If you've ever looked up `how to brew your own Beer` or `grow your own food` on YouTube, then you've already had a glimpse of what a post-scarcity economy will be like.
 
@@ -67,7 +85,7 @@ Until technological progress becomes unstoppable and grows at such a fast and ex
 
 Where we go from there, is a choice I leave to you.
 
-### How do you differentiate yourself from Big Tech?
+### Creating an effective Antidote to Big Tech
 
 The Big Tech motto is: You will own Nothing, and you will be Happy. Our motto is: You will be able to own Everything you can possible imagine, and it'll be up to you to use that power responsibly.
 
@@ -77,7 +95,7 @@ We think this is a good thing. That which isn't dangerous, is useless. 3D printi
 
 It should become so dangerous that anybody could build themselves an ICBM in their garage and shoot down the international space station, if they wanted to. Or land a small rover on the moon and kickstart an era of DIY space exploration.
 
-### How do you differentiate yourself from other Post-scarcity movements such as the Venus project?
+### Creating a viable alternative to Communism and PieInTheSkyism
 
 We pretty much want the same things, and would be happy to work together given the opportunity.
 
@@ -87,13 +105,41 @@ I should also point out that the NGnuity: Renaissance is not a pacifist movement
 
 We are not pacifists, and never will be. The time for peaceful revolution is long gone. Period. If the Venus project has a problem with that, then they need to go away.
 
-### Why we still need to be Workaholics, not Slackers
+### Creating Believable Alternatives to Nihilism
 
-We view Work as a means to an end, not as a virtue in and of itself. Our true virtue is to live a happy life free from disease and hardship, and allow everybody else to achieve the same. But in order to get there, we need to work tirelessly - and [ruthlessly] - as none of this technology is going to build itself. There are real and tangible rewards waiting for us at the end of the battlefield, after all.
+Meme culture, problematic fandoms, celebrity worship, dogecoin, NFTs, the Metaverse and rampant consumerism are all by-products of the global decline in religious belief. As Nietzsche famously put: "God is Dead".
+
+The NGnuity Renaissance doesn't aim to create another void for people to fill. Rather - it's only here to provide the tools necessary to survive the crises of Late Capitalism and at best, offer some sort of perspective that should help you make sense of the chaotic mess of an age that we live in.
+
+None of that is to say that we should embrace the abyss and wander around aimlessly in life. You should ideally aim to create your own meaning and become your own God; creator of worlds, as opposed to a destroyer.
+
+One should also strive to understand the nature of other ideas and why they exist in the first place. What makes someone say Save the Dolphins? What makes others say Kill the Dolphins? What do we do about it? Do we compromise, or do we pick a side? Are all ideas equally true, or can there only be One Truth?
+
+If you believe that all ideas are equally true, then you are a nihilist. Democracy itself could thus be thought of as a nihilistic political system; rather than writing policies based on a strict set of moral values and truths which are held to be self-evident, they are written based on the median sum of all opinions. Which radically fluctuate over time.
+
+So how are we supposed to accomodate the group that wants to kill all Muslims? Or the group that wants to bring back Slavery? Or the group that wants to legally burn kittens alive for fun?
+
+That's the thing - You don't. You force them to change, or you fight them. The path of Combat is the path of Life.
+
+It is the neverending struggle for justice and a better world that gives meaning to our lives. Not the acceptance of what is considered 'Good Enough'. Not the acceptance of what is 'comfortable'.
+
+### Weaponizing Hustle Culture to the detriment of Capitalism
+
+We should view Work as a means to an end, not as a virtue in and of itself. Our true virtue should be to live a happy life free from disease and hardship, and allow everybody else to achieve the same.
+
+However, in order to get there, we have to work tirelessly - and [ruthlessly]. The emancipatory potential of technology is not going to unlock itself on its own. There are real and tangible rewards waiting for us at the end of the battlefield, after all, but only if we take control of the steering wheel ourselves.
 
 As much as I consider myself a supporter of the Anti-work movement, I also have to accept that movements cannot succeed without a coherent ideology, and certainly not without a clear strategy and path forward.
 
-There is a tendency among Millennials and Gen Z to label themselves as Anarchists, Nihilists and 'non-political' pacifists who just want 'Freedom'. But 'Freedom' is a loaded term that can mean all too many things, unfortunately. We live in a world where Might makes Right. If you don't want to be conquered, you need to be capable of conquering. Strength is the only thing that matters in this world. You can deny this all you want, but it's the ugly and eternal truth.
+There is a tendency among Millennials and Gen Z to label themselves as Anarchists, Nihilists and 'non-political' pacifists who just want 'Freedom'. But 'Freedom' is useless as a word. The word you're actually looking for is [Power].
+
+Try swapping the word 'Freedom' with the word 'Power' in any given piece of writing, and you'll notice that it'll still make perfect sense. e.g. The 'Freedom' to own slaves, could just as well be Tyranny from the point of view of the slave being owned. It's deceitful and disgusting.
+
+It would be far more honest for prospective Slave owners to admit that they want the [Power] to own slaves. And for the slaves to admit that they want the [Power] to live their lives as they wish.
+
+I would even go as far as to call for the removal of the word Freedom from the English dictionary. Speaking in terms of personal Em[power]ment and political [Power] dynamics would be far more useful.
+
+We live in a world where Might makes Right. If you don't want to be conquered, you need to be capable of conquering. Strength is the only thing that matters in this world. You can deny this all you want, but it's the ugly and eternal truth.
 
 Being incoherent and impartial only makes it easy for you to be conquered by those who are strong, coherent, disciplined and focused. History is written by the victors, after all. You can't overthrow your rulers if you're not willing, let alone capable, of ruling and governing yourself.
 
@@ -105,11 +151,13 @@ Another criticism levied against Doreen was that she is a dog walker who works n
 
 Doesn't make any sense, right? Well, if you go back and read what I've just explained: 1. that Might Makes Right, 2. that history is written by the Victors, and 3. that nobody respects the Weak and Frail, even the Weak and Frail themselves - you'll begin to understand why she got the criticism that she received.
 
-### The 21st Century does not forgive the Weak. Nor did Human History as we know it
+### Might makes Right is not a statement of Morality
 
-So there you go - Clean your room. Tidy your hair. Get your voice in order. Shower. Exercise. If you are trans - then look like the gender you identify as, or die trying. Work non-stop (to expedite the Singularity). Don't be pathetic. If you have a disability or a mental health problem - then get over it, or die trying. If you're obese, lose weight. You don't have a choice. It's either that, or we lose the war. War doesn't forgive the weak and disabled. Get over your autism. Get over your depression.
+It's not a statement of Morality - it is a statement of Fact. Before we exercise morality, we first need to accept the reality, and work around it - as opposed to working against it.
 
-Don't blame me for sounding harsh - you brought this narrative onto yourselves. I'm just the Messenger. As Artificial Intelligence ultimately will be.
+Clean your room. Tidy your hair. Get your voice in order. Shower. Exercise. If you are trans - then look like the gender you identify as, or die trying. Work non-stop (to expedite the Singularity). Don't be pathetic. If you have a disability or a mental health problem - then get over it, or die trying. If you're obese, lose weight. You don't have a choice. It's either that, or we lose the war. War doesn't forgive the weak and disabled. Get over your autism. Get over your depression.
+
+Does any of this make you angry? Of course it will, but it should. Revolutionary movements cannot succeed without great strength and sacrifice. Suffer now, so that you can enjoy a better tomorrow.
 
 Once we get ahold of the technology that will allow us to enhance our minds and bodies and be rid of our weaknesses, we will never have to worry about any of this again. But until we get there - this is how we have to roll.
 
@@ -117,15 +165,23 @@ Make it your mission in life to attain power - so that you can use that power to
 
 Strength and power can take on many forms. Beauty is power. Money is power. Discipline and sickening work ethic is power. Physical strength is power. The ability to network and make a lot of friends is power. Having a sense of humor is power. Being able to play a musical instrument is strength and power. Being able to organize and mobilize a large mob of ordinary people toward a single goal, is power and strength in numbers.
 
-My point still stands; Strength is the only thing that matters in this world. Everything else, is just a delusion for the Weak. In order to free the Slaves, one must become the Master. And then it'll be up to you to become the Better Master, or be corrupted by greed.
+My point still stands; strength is the only thing that matters in this world. Everything else, is just a delusion for the weak. In order to free the slaves, one must become the master. And then it'll be up to you to become the better master, or be corrupted by greed.
 
-The world needs Strongmen; at least, in order to keep the other Strongmen at bay, and for as long as they still exist.
+The world needs strongmen; at least, in order to keep the other strongmen at bay, and for as long as they still exist.
 
-Anarchists will always fail. r/WorkReform will fail, too.
+Anarchists will always fail. r/WorkReform will fail, too. Thomas Hobbes was right. Machiavelli was right. Read 'The Prince' - it will only make you more effective as a leftist.
 
-### Why Technology? Why not work toward Reform? Why not live in the woods and hunt Baboons?
+### Technology is not the Enemy. Supply Chains are
 
-The primitivist, baboon-hunting lifestyle would only work for a small population of people and also assumes that you don't have health conditions that require medication and pharmaceuticals in order to correct.
+If I wanted to build myself a chair - I would go for a walk into the woods, chop some wood with a home-made axe, chisel out some clever joints - and build myself a chair. No nails required.
+
+If I wanted to grow some food - I could plant a few seeds, keep a pile of compost, keep an eye out for pests and disease - and then harvest the fruits of my labour.
+
+If I wanted to build myself just a handful of semiconductors - I would need an entire laboratory full of expensive equipment. See where this is going?
+
+At the very core of the NGnuity: Renaissance is the idea that [every] human being should have access to the tools and the knowledge necessary to source everything they could possibly need for their own well-being and survival. Including medicine. Including semi-conductors. Including a simulation of human company. Etc.
+
+Why not just abandon technology altogether? Because the primitivist, baboon-hunting lifestyle would only work for a small population of people, and also assumes that you don't have health conditions that require medication and pharmaceuticals in order to correct.
 
 It almost certainly wouldn't be a practical way to live on a planet of 8 billion people. Without farming and agriculture, wild prey would be driven to extinction almost overnight. Feces, urine and unsanitary conditions would accumulate globally from lack of plumbing and waste water management.
 
@@ -143,7 +199,7 @@ Reform has already been tried. Communism has already been tried. It doesn't work
 
 Stop it. We need new ideas.
 
-### Millennials and Gen Z are too Weak and undisciplined to succeed at Revolution
+### Liberal Democracy is beset by an inability to generate Radical Change
 
 It was already hard enough to fight for revolution and reform when half a country consisted of hardened Gangsters who built skyscrapers without safety gear and hauled illegal liquor for a living.
 
@@ -159,9 +215,68 @@ I recommend adopting the same '#hustle' type of mentality that the Capitalists e
 
 But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity from home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
 
-### Why do you hate Work so much?
+### Fake news, Parallel Realities and Social Entropy
 
-It used to be that we could work a day job, come home to a husband/wife and kids, save up for a house, be happy, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.
+As I had explained in previous paragraphs: today's world is marked by extreme political division, social media propaganda and a huge range of variations in public opinion. Outlandish beliefs. Bizarre fandoms. Echo chambers. Fake news. Chaos. Randomness. Social entropy.
+
+Is this merely the by-product of the internet age, giving everybody a microphone and a platform to express their biases, views and niches? Quite possibly, but it doesn't paint the whole picture.
+
+Liberalism, post-modernism and nihilism are the cause of the problem. People who don't believe in anything, will almost invariably fall for anything. Neo-Nazis thrive in post-modern, liberal, nihilistic environments, after all.
+
+That's because, as I've explained before: if everything that we've taken for granted is now subject to question, if all of history is now subject to revision, and if all morality is now self-important, righteous and irrelevant - then even the most evil and awful beliefs could be reframed as being acceptable, too.
+
+Question everything a little bit, and you might just become a smarter and more interesting person.
+Question everything too much - and you'll end up justifying Nazism and Pedophilia.
+
+Understanding the nature of internet rabbit holes and echo-chambers is also helpful. How do some people arrive at Flat-earth beliefs, while others arrive at Homo-fascism and Anarcho-Primitivism? The internet, of course.
+
+That's not to say that everything on the internet is fake news and garbage - only that you should maintain a sense of self-awareness on your quest to exploring new ideas. Be aware of how rabbit holes could potentially make you lose touch with reality.
+
+Had you not ended up a flat-Earther, you may have ended up a New Age mystic selling crystals and herbal supplements online, depending on which set of websites were recommended to you first. Again, this isn't a condemnation of open-mindedness. Only a plea for self-awareness, so that we can break out of the predictable patterns that keep us from becoming the most powerful version of ourselves.
+
+### Tankies, Trumpers, Celebrity Worship and Simping
+
+What is a Tankie? Tankies are left-leaning people, usually Westerners, whose 'activism' and praxis is almost exclusively limited to: cheering for authoritarian regimes that have very little to do with Socialism (e.g. Rodrigo Duterte, Vladimir Putin, Bashar Al Assad, etc.) or showing nostalgic admiration for Soviet-era regimes that have long ceased to exist and are no longer relevant to our modern digital age (e.g. USSR, Maoist China, etc.).
+
+Why are Tankies ineffective as leftists? Because none of these regimes offer anything useful to the present day realities of the leftist cause, aside from fueling anti-Western propaganda (which is usually weaponized and co-opted by right-wingers and conservatives, anyway).
+
+Why do people become Tankies? Because they're weak and powerless, and they can be forgiven for that. We as leftists should always stand up for the weak and powerless.
+
+In short - Tankyism is on the rise because Liberal Democracy is beset by an inability to generate Radical Change. That's it.
+
+Simping for billionaires, oligarchs and authoritarians is not going to change anything. But I suppose it could provide a temporary form of delusional Escapism for some people.
+
+"Fine. I don't want to be a Tankie. I don't want to be a Trump supporter. What should I be, instead? I'm still angry and want radical change in my life!"
+
+What you should be doing is creating your own Revolutionary movements. Appointing your own strong and charismatic leaders. And then matching the success of the emancipatory movements of the past, as opposed to nostalgically worshipping them for the rest of eternity, in hopes that they'll rise from the dead.
+
+Worship the future - not the Past. Create your own movements that reflect what you truly believe in - don't piggy back off of someone else's.
+
+Piggy-backing off of other movements means you'll forever be at the mercy of their flaws and imperfections. Was the USSR homophobic? Did Mao really kill 20 million people? Is Putin a socialist, or a fascist? Is present-day China capitalist, or socialist? Should I give my critical support to Xi Jinping?
+
+See, none of these things would matter if you just created a new movement from scratch, and let go of the past. Yes, you will struggle to find followers and supporters at first. Yes, people these days are incredibly weak and uncreative. Yes, you will feel immature and self-important. But at least you'll have a clean conscience. And you won't have to worry about whether or not your ideology can accomodate gays, lesbians and trans people - because, it'll be [your] movement.
+
+This doesn't just apply to tankies. It apples to everything from problematic fandoms such as furries, bronies and weebs, all the way to Donald Trump and Elon Musk supporters.
+
+For God's sakes - stop simping! Stop copying someone else's homework. Stop putting your hopes on rich people to solve your problems for you. Do [You].
+
+### We Work to pay Rent. Not to purchase Goods and Services
+
+In the first few paragraphs, I had talked about how a post-scarcity economy will make all goods and services virtually free, except for natural resources.
+
+This is especially true when it comes to Land ownership. Land ownership is virtually impossible to provide in abundance, short of building skyscrapers and floating cities everywhere. Land ownership is thus the one and only thing that should strictly regulated and fairly distrubuted among the people.
+
+We work to pay rent to a landlord, more than we work to collect a paycheck. Money is usually thought of as a unit measuring time and effort spent on a particular product. Compensation of labor. This isn't the case when it comes to the extraction of rents.
+
+When it comes to land ownership, rental properties and real estate - the early bird gets the worm. The rent that you pay to a landlord, is not a reflection of the effort that said landlord has put into their property. It is slavery and exploitation. Period.
+
+The 2020s in particular is an era that is marked by the Fear of Missing Out. Hoaring of hard assets; precious metals, cryptocurrency, real estate. Even the hoarding of toilet paper and food.
+
+Our present-day economy no longer rewards those who work hard - only those who get the worm early. The rest will be renters. Slaves to scalpers, scammers and landlords. So much glory - so much Freedom™!
+
+### Real Reason why we Hate to go to Work
+
+Why do we hate Work so much? It used to be that we could work a day job, come home to a husband/wife and kids, save up for a house, be happy, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.
 
 We no longer live in this world. Not even close. Anybody who tells you otherwise is delusional.
 
@@ -173,13 +288,13 @@ The modern workplace has become an extremely toxic environment, and quite frankl
 
 What lies ahead is a very decadent and dystopian landscape, and you know it. Death would be preferable than working under such a system. Unless you prepare for it, it's going to hit you like a train in a way that you will never recover from. I'd rather be prepared than naive.
 
-### You will be mocked and shunned for being Anti-work
+### Weaknesses and Strengths of the Antiwork movement
 
-Which is why it is important to build emotional and economic self-reliance. Not [just] economic self-reliance. Having a robot companion to compensate for extended periods of solitude and alienation would be an advantage.
+Let's face it - you're going to be ridiculed for being Anti-work, which is why it is important to build emotional and economic self-reliance. Not [just] economic self-reliance. Having a robot companion to compensate for extended periods of solitude and alienation would be an advantage.
 
-Still better than continuing to feed a decadent, filthy, collapsing dystopia. Stop caring what people think. In fact - just delete social media, and learn to walk alone for a while.
+It's still better than continuing to feed a decadent, filthy, collapsing dystopia. Stop caring what people think. In fact - just delete social media, and learn to walk alone for a while.
 
-People seem to have more respect for those who commit Suicide than those who simply drop out of the system. Those people are so reliant on validation from the system - they will fight to their deaths in order to defend it. The Protestant work ethic continues to haunt even the most ardent and fantatical leftists to this day.
+People seem to have more respect for those who commit suicide than those who simply drop out of the system. Those people are so reliant on validation from the system - they will fight to their deaths in order to defend it. The Protestant work ethic continues to haunt even the most ardent and fantatical leftists to this day.
 
 We've already seen it with the downfall of the r/Antiwork movement. They seemed to almost be [ashamed] of the things they believe in, to the point of actively watering down everything that comes out of their mouths.
 
@@ -187,11 +302,11 @@ Frankly - the only thing worth dying for would be to put an end to this nightmar
 
 That's actually the beauty of this movement. It doesn't need the whole world to be on board in order to succeed. If we could just get one person to build themselves a fully automated, economically self-sufficient homestead - we've won the war.
 
-### What to do if Capitalism wins
+### What it means to never Surrender. What it means to have Pride
 
 "It's easier to imagine the end of the world than the end of Capitalism" - according to the Slavoj Zizek and Mark Fisher circles.
 
-It would in fact be better for the world to burn to the ground if Capitalism gets its way. There's two paths you can take: either become a Doomsday Prepper and isolationist, or just stop having kids and pour gasoline all over the flame; until the global economy is destroyed from population decline, riots, rampant crime and climate catastrophe.
+It would in fact be better for the world to burn to the ground if Capitalism gets its way. There's two paths you can take in the face of political hopelessness: either become a Doomsday Prepper and isolationist, or just stop having kids and pour gasoline all over the flame; until the global economy is destroyed from population decline, riots, rampant crime and climate catastrophe.
 
 If you're going to go the Doomsday Prepper route, make sure you stock up on a lion's share of computer chips, preferably with AI and deep learning capability. You're not going to repopulate the world without resorting to inbreeding - you need at least 500 people to do so successfully. Otherwise - good luck supporting incest and potentially giving birth to children with genetic disabilities, further putting strain on your tiny bunker colony.
 
@@ -220,3 +335,5 @@ Aside from giving away data (in a way that you will actually benefit from) - you
 Money is not a good way to contribute - because having a project that relies on money and profit in order to survive will only end up becoming part of the problem of what is wrong with the world as we know it.
 
 Does that contradict any of my previous positions? Not really. Money is becoming harder to attain for the average person as a result of our crumbling world economy. There's still better and more effective ways of providing value, and being anti-Money doesn't mean we're anti-Value.
+
+Use Linux.

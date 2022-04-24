@@ -364,7 +364,7 @@ When computers make mistakes, it's invariably due to bad programming. Sometimes 
 
 If you go to the bank and deposit 5x $20 dollar notes, you will always see $100 in your bank balance. (Actually, this is a bad example, as ATMs are notorious for being pathetic and dysfunctional due to how expensive and inconvenient it is for banks to upgrade their damn software to something newer than Windows XP. They still can't even get rid of payment processing delays. Airlines are just as bad! Go figure.)
 
-Bureaucratic garbage aside, my point stands. If you use a calculator, you will always get 50+50=100, 1+1=2, etc. You will always out of AI, exactly what you put in. So it's not a matter of whether or not Artificial Intelligence itself is evil, but whether or not you can come up with a decent and stable iteration of it to start with.
+Bureaucratic garbage aside, my point stands. If you use a calculator, you will always get 50+50=100, 1+1=2, etc. You will always get out of AI, exactly what you put in. So it's not a matter of whether or not Artificial Intelligence itself is evil, but whether or not you can come up with a decent and stable iteration of it to start with.
 
 However, if your goal is to have a society that will [never] change its core values (e.g. the maximization of happiness, maximization of human potential, minimization of suffering) - and [never] become corrupted, no matter how many centuries go by - then having an AI government is clearly worth the effort to pursue.
 

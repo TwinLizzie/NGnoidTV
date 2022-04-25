@@ -289,6 +289,8 @@ The 2020s in particular is an era that is marked by the Fear of Missing Out. Hoa
 
 Our present-day economy no longer rewards those who work hard - only those who get the worm early. The rest will be renters. Slaves to scalpers, scammers and landlords. So much glory - so much Freedom™!
 
+There is only one solution to the problem of eternal real estate scarcity: the complete destruction and abolition of the Landlord class.
+
 ### Real Reason why we Hate to go to Work
 
 Why do we hate Work so much? It used to be that we could work a day job, come home to a husband/wife and kids, save up for a house, be happy, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.

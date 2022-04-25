@@ -25,6 +25,7 @@
   * [Creating online-based Worker Cooperatives using 3D Printing](#3d-printing-allows-for-worker-cooperatives-and-socialist-movements-to-be-built-entirely-online)
   * [On Artificial Intelligence-Run Governments](#on-artificial-intelligence-run-governments)
   * [On Animal Rights and Veganism](#on-animal-rights-and-veganism)
+  * [On Anarchism, Unions and Leaderless Societies](#on-anarchism-unions-and-leaderless-societies)
   * [How to contribute](#how-to-contribute)
 
 ### Introduction

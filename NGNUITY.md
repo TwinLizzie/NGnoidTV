@@ -401,6 +401,8 @@ Life is a game of Power. A neverending battle to assert your own needs, wants an
 
 The purpose of life is to acquire Power. To become master of the cosmos. To become the strongest and most powerful organism in your own bubble of space and time. To gain the wisdom, the skills and the knowledge that will enable you to succesfully tweak every single atom in the cosmos to your own liking and preferences. And to empower all other living creatures around you to share the same experience of living and loving at maximum capacity.
 
+And if you can't make it, you die trying. Don't go gentle into that good night. Rage against the dying of the light.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.

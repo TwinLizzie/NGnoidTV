@@ -189,9 +189,9 @@ Anarchists will always fail. r/WorkReform will fail, too. Thomas Hobbes was righ
 
 ### Technology is not the Enemy. Supply Chains are
 
-If I wanted to build myself a chair: I would go for a walk into the woods, chop some wood with a home-made axe, chisel out some clever joints - and build myself a chair. No nails required.
+If I wanted to build myself a chair: I would go for a walk into the woods, chop some wood with a home-made axe, chisel out some clever joints, and build myself a chair. No nails required.
 
-If I wanted to grow some food: I could plant a few seeds, keep a pile of compost, keep an eye out for pests and disease - and then harvest the fruits of my labour.
+If I wanted to grow some food: I could plant a few seeds, keep a pile of compost, keep an eye out for pests and disease, and then harvest the fruits of my labour.
 
 If I wanted to build myself just a handful of semiconductors: I would need an entire laboratory full of expensive equipment. See where this is going?
 
@@ -201,7 +201,9 @@ Wouldn't this just be an anarchist society made up of sovereign, technologically
 
 However, a strong government (either human or AI-driven) would still be needed in order to prevent nefarious groups from banding together and enslaving others, or hogging up the very natural resources which will always be scarce no matter what, as I'd explained earlier on.
 
-Why not just abandon technology altogether? Because the primitivist, baboon-hunting lifestyle would only work for a small population of people, and also assumes that you don't have health conditions that require medication and pharmaceuticals in order to correct.
+Technologies such as 3d printing are cherished here thanks to their ability to dramatically reudce our dependence on supply chains, which is also why they are also regarded as being ideal for long-term space missions. So the primitivist notion that technology will always owe its existence to a supply chain, is false.
+
+Speaking of which - Why not just abandon technology altogether? Because the primitivist, baboon-hunting lifestyle would only work for a small population of people, and also assumes that you don't have health conditions that require medication and pharmaceuticals in order to correct.
 
 It almost certainly wouldn't be a practical way to live on a planet of 8 billion people. Without farming and agriculture, wild prey would be driven to extinction almost overnight. Feces, urine and unsanitary conditions would accumulate globally from lack of plumbing and waste water management.
 

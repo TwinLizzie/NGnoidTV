@@ -112,7 +112,7 @@ We are not pacifists, and never will be. The time for peaceful revolution is lon
 
 Meme culture, problematic fandoms, celebrity worship, dogecoin, NFTs, the Metaverse and rampant consumerism are all by-products of the global decline in religious belief. As Nietzsche famously put: "God is Dead".
 
-The NGnuity Renaissance doesn't aim to create another void for people to fill. Rather - it's only here to provide the tools necessary to survive the crises of Late Capitalism and at best, offer some sort of perspective that should help you make sense of the chaotic mess of an age that we live in.
+The NGnuity Renaissance doesn't necessarily aim to provide another way to fill the nihilistic void. The priority here is to provide the tools necessary to survive the crises of Late Capitalism and at best, offer some sort of perspective that should help you make sense of the chaotic mess of an age that we live in.
 
 None of that is to say that we should embrace the abyss and wander around aimlessly in life. You should ideally aim to create your own meaning and become your own God; creator of worlds, as opposed to a destroyer.
 

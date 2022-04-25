@@ -399,7 +399,7 @@ This leaves no room for nihilism. Rather, it answers the most fundamental questi
 
 Life is a game of Power. A neverending battle to assert your own needs, wants and desires against external forces pushing back against you, putting you back in your place. Forcing you back into the void where you came from.
 
-The purpose of life is to acquire Power. To become master of the cosmos. To become the strongest and most powerful organism in your own bubble of space and time. To gain the wisdom, the skills and the knowledge that will enable you to succesfully tweak every single atom in the cosmos to your own liking and preferences. And to empower all other living creatures around you to share the same experience of living and loving at maximum capacity.
+The purpose of life is to acquire Power. To become master of the cosmos. To become the strongest and most powerful organism in your own bubble of space and time. To gain the wisdom, the skills and the knowledge that will enable you to succesfully tweak every single atom in the universe to your own liking and preferences. And to empower all other living creatures around you to share the same experience of living and loving at maximum capacity.
 
 And if you can't make it, you die trying. Don't go gentle into that good night. Rage against the dying of the light.
 

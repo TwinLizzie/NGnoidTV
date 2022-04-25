@@ -405,6 +405,18 @@ The purpose of life is to acquire Power. To become master of the cosmos. To beco
 
 And if you can't make it, you die trying. Don't go gentle into that good night. Rage against the dying of the light.
 
+### On Anarchism, Unions and Leaderless Societies
+
+Throughout this book I've extensively put forth my Hobbesian, Machiavellian and Realitst views on government, authority and power, and why I think that the only way for the Left to succeed is for them to be united by a strong authority that holds maximum power.
+
+This doesn't mean that I am fundamentally against anarchist, leaderless and stateless societies. Any leftist worth their salt should also always show their support and solidarity for labor unions,  renters unions, etc.
+
+My only concern is that leaderless communities often become ticking timebombs and fertile land to be co-opted by special interest groups; not excluding the ruling Capitalist system itself.
+
+I'd hate to see people doomed to repeat the same strategies over and over and seeing no major progress, whilst expecting a different result.
+
+But if they can make it work in the long term - they've earned the bragging rights, and should be supported. Avoid being a cynic until you have a very good reason to do so.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.

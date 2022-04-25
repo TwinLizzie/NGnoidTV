@@ -201,7 +201,7 @@ Wouldn't this just be an anarchist society made up of sovereign, technologically
 
 However, a strong government (either human or AI-driven) would still be needed in order to prevent nefarious groups from banding together and enslaving others, or hogging up the very natural resources which will always be scarce no matter what, as I'd explained earlier on.
 
-Technologies such as 3d printing are cherished here thanks to their ability to dramatically reudce our dependence on supply chains, which is also why they are also regarded as being ideal for long-term space missions. So the primitivist notion that technology will always owe its existence to a supply chain, is false.
+Technologies such as 3d printing are cherished here thanks to their ability to dramatically reudce our dependence on supply chains, which is also why they are regarded as being ideal for long-term space missions. So the primitivist notion that technology will always owe its existence to a supply chain, is false.
 
 Speaking of which - Why not just abandon technology altogether? Because the primitivist, baboon-hunting lifestyle would only work for a small population of people, and also assumes that you don't have health conditions that require medication and pharmaceuticals in order to correct.
 

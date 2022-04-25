@@ -24,6 +24,7 @@
   * [A Call to Never Surrender. A Call to Anti-Capitalist Jihad](#a-call-to-never-surrender-a-call-to-anti-capitalist-jihad)
   * [Creating online-based Worker Cooperatives using 3D Printing](#3d-printing-allows-for-worker-cooperatives-and-socialist-movements-to-be-built-entirely-online)
   * [On Artificial Intelligence-Run Governments](#on-artificial-intelligence-run-governments)
+  * [On Animal Rights and Veganism](#on-animal-rights-and-veganism)
   * [How to contribute](#how-to-contribute)
 
 ### Introduction
@@ -367,6 +368,38 @@ If you go to the bank and deposit 5x $20 dollar notes, you will always see $100 
 Bureaucratic garbage aside, my point stands. If you use a calculator, you will always get 50+50=100, 1+1=2, etc. You will always get out of AI, exactly what you put in. So it's not a matter of whether or not Artificial Intelligence itself is evil, but whether or not you can come up with a decent and stable iteration of it to start with.
 
 However, if your goal is to have a society that will [never] change its core values (e.g. the maximization of happiness, maximization of human potential, minimization of suffering) - and [never] become corrupted, no matter how many centuries go by - then having an AI government is clearly worth the effort to pursue.
+
+### On Animal Rights and Veganism
+
+In previous chapters I'd talked about Post-Scarcity, Accelerationism and Utilitarianism.
+
+To sum it up: the NGnuity: Renaissance follows the ideology of Utilitarianism, using tactics of Accelerationism, in order to bring about a Post-Scarcity economic system.
+
+Utilitarianism factors in the happiness and wellbeing of all sentient life, not just human beings. So even the emancipation of animals should be considered a long-term goal for us.
+
+Opponents to this idea argue that the natural world operates under natural law. So because bears, lions and predators eat other animals, there is no need to apply any sort of morality to the rest of the non-human animal kingdom whatsoever.
+
+Once again: We are haunted by the reality of 'Might makes Right'. The strongest organism gets to impose their will on the weaker ones, because [they can], etc.
+
+Human beings have the luxury of [being able to choose] whether or not they want to eat meat. Soon we will even have the luxury of being able to eat meat without the need to slaughter a living creature to begin with, thanks to advances in biotechnology; in vitro cultures of stem cells harvested from the muscle tissue of pigs, cows and chickens.
+
+A Kardashev Type I civilization (one that has complete power and mastery over every single source of energy of its home planet) will even be able to re-engineer the world's ecosystem to its liking. Earthquakes and hurricanes would become a thing of the past. Lions and hyenas would be fed lab-grown meat in national parks and nature reserves. The spread of new diseases and parasites will be curtailed before they even have the chance to infect a single organism.
+
+So yes - Even [predation itself] can eventually be abolished. Even the horrors of the natural world can one day be confined to the dustbin of history, while still respecting the overall beauty and integrity of natural landscapes.
+
+As a utilitarian one must, however, prioritize that which one has the most amount of power and control over.
+
+Before we can abolish predation, we need to abolish animal slaughter. Before we can abolish animal slaughter, we need to abolish factory farming. Before we can abolish factory farming, we need to abolish wage slavery and human trafficking, etc.
+
+What this means is that 500 years from now, we will still have a very clear roadmap for Revolution and emancipation from oppression and needless suffering!
+
+There will [never] be a time when we can just throw our arms up in the air and just indulge in hedonistic decadence. [Even nearby galaxies, star systems and parallel universes] must eventually be liberated from the oppressive forces of Natural Law.
+
+This leaves no room for nihilism. Rather, it answers the most fundamental question: What is the Meaning of Life?
+
+Life is a game of Power. A neverending battle to assert your own needs, wants and desires against external forces pushing back against you, putting you back in your place. Forcing you back into the void where you came from.
+
+The purpose of life is to acquire Power. To become master of the cosmos. To become the strongest and most powerful organism in your own bubble of space and time. To gain the wisdom, the skills and the knowledge that will enable you to succesfully tweak every single atom in the cosmos to your own liking and preferences. And to empower all other living creatures around you to share the same experience of living and loving at maximum capacity.
 
 ### How to contribute
 

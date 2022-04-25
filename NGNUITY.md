@@ -393,7 +393,7 @@ Before we can abolish predation, we need to abolish animal slaughter. Before we 
 
 What this means is that 500 years from now, we will still have a very clear roadmap for Revolution and emancipation from oppression and needless suffering!
 
-There will [never] be a time when we can just throw our arms up in the air and just indulge in hedonistic decadence. [Even nearby galaxies, star systems and parallel universes] must eventually be liberated from the oppressive forces of Natural Law.
+There will [never] be a time when we can just throw our arms up in the air and indulge in hedonistic decadence. [Even nearby galaxies, star systems and parallel universes] must eventually be liberated from the oppressive forces of Natural Law.
 
 This leaves no room for nihilism. Rather, it answers the most fundamental question: What is the Meaning of Life?
 

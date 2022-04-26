@@ -26,6 +26,7 @@
   * [On Artificial Intelligence-Run Governments](#on-artificial-intelligence-run-governments)
   * [On Animal Rights and Veganism](#on-animal-rights-and-veganism)
   * [On Anarchism, Unions and Leaderless Societies](#on-anarchism-unions-and-leaderless-societies)
+  * [On Fascism and Human Nature](#on-fascism-and-human-nature)
   * [How to contribute](#how-to-contribute)
 
 ### Introduction
@@ -421,6 +422,30 @@ My only concern is that leaderless communities often become ticking timebombs an
 I'd hate to see people doomed to repeat the same strategies over and over and seeing no major progress, whilst expecting a different result.
 
 But if they can make it work in the long term - they've earned the bragging rights, and should be supported. Avoid being a cynic until you have a very good reason to do so.
+
+### On Fascism and Human Nature
+
+Is human nature fundamentally evil and doomed to be corrupted? Yes, and I'll explain why.
+
+Let's pretend that only a tiny minority of human beings fit the violent, conquering, psychopathic, selfish 'bad apples' category. How can a single apple, spoil the rest of the ones in the bucket?
+
+Violence is far more effective that non-violence. If even just a small number of human beings turn out to be violent egomaniacs, this can still force everybody else to put their guards up and arm themselves in order to defend against said violent egomaniacs.
+
+Evil breeds more evil. Hatred breeds more hatred. And the more evil and hatred is bred, the more distrust is created across human societies. Children don't usually grow up instinctively distrusting everybody else around them and thinking the worst of them. It is only as a result of repeated negative experiences and encounters that people wind up jaded, cynical and oftentimes paranoid about their fellow man.
+
+Take the hoarding of toilet paper and food, for instance. This is a classical Game Theory phenomenon we've had the fortune to observe throughout the Covid19 pandemic of the 2020s. If the person at the front of the queue is hoarding toilet paper and food, that means theres' less toilet paper and food for the person at the back of the queue.
+
+The person at the back of the queue might think that they are smarter than the person at the front of the queue. That they would never do such a silly and desperate thing. Yet unless they stock up on toilet paper themselves, it means they could potentially go without. Forcing everybody else to also become a toilet paper-hoarding jerk themselves.
+
+These are all the same phenomena behind wars, civil unrest, economic disaster, stampedes (especially stampedes) and so on and so forth. It only takes [one] person to ruin it for everybody else, and kickstart the chain of events leading to societal breakdown and collapse.
+
+Effectively, this implies that [unless] we can get 100% of all people to be cooperative, trusting and selfless, we will always be doomed to produce broken societies.
+
+A small amount of bad apples [will absolutely] spoil the bunch. Which is why I firmly believe that only governments run by Artificial Intelligence agents can produce better societies than what we have now.
+
+It doesn't usually feel this way in our day-to-day lives. We go to work, say hello to our coworkers. We go to the supermarket, buy some food, say hello to our cashiers. Everything feels normal - until your boss asks you to fill in your time sheets, and the cashier asks to check your ID for your bottle of wine - and our trust of our fellow man is called into question.
+
+Why be a perfectionist, why not just accept things the way they are, and harden up to the harsh realities of the world? Because it would defeat the entire purpose of our mission; fast-tracking the evolution of man to the next level, by whatever means necessary.
 
 ### How to contribute
 

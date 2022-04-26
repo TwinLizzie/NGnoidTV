@@ -433,7 +433,7 @@ Violence is far more effective that non-violence. If even just a small number of
 
 Evil breeds more evil. Hatred breeds more hatred. And the more evil and hatred is bred, the more distrust is created across human societies. Children don't usually grow up instinctively distrusting everybody else around them and thinking the worst of them. It is only as a result of repeated negative experiences and encounters that people wind up jaded, cynical and oftentimes paranoid about their fellow man.
 
-Take the hoarding of toilet paper and food, for instance. This is a classical Game Theory phenomenon we've had the fortune to observe throughout the Covid19 pandemic of the 2020s. If the person at the front of the queue is hoarding toilet paper and food, that means there's less toilet paper and food for the person at the back of the queue.
+Take the hoarding of toilet paper and food, for instance. This is a classical Game Theory phenomenon we've had the fortune to observe throughout the Covid19 pandemic of the 2020s. If the person at the front of the queue is hoarding toilet paper and food, that means there's less toilet paper and food available for the person at the back of the queue.
 
 The person at the back of the queue might think that they are smarter than the person at the front of the queue. That they would never do such a silly and desperate thing. Yet unless they stock up on toilet paper themselves, it means they could potentially go without. Forcing everybody else to also become a toilet paper-hoarding jerk themselves.
 

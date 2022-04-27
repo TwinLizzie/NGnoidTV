@@ -27,6 +27,7 @@
   * [On Animal Rights and Veganism](#on-animal-rights-and-veganism)
   * [On Anarchism, Unions and Leaderless Societies](#on-anarchism-unions-and-leaderless-societies)
   * [On Fascism and Human Nature](#on-fascism-and-human-nature)
+  * [On Invididualism vs Collectivism](#on-individualism-vs-collectivism)
   * [How to contribute](#how-to-contribute)
 
 ### Introduction

@@ -464,7 +464,7 @@ Not at all. Without Power: you won't have any capacity to maximize or minimize s
 
 If I wanted to save the life of someone dying of brain cancer, I wouldn't be able to do it without academic qualifications and medical experience. No matter how good of a person I am.
 
-The more Power you have, the better. Without Power, you cannot do harm. But you cannot do good, either.
+The more Power you have, the better. Without Power, you cannot do harm. But you cannot do good, either. We should only strive to maximize our Power for the greater good, [not] at the expense of it.
 
 ### How to contribute
 

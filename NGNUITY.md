@@ -27,7 +27,7 @@
   * [On Animal Rights and Veganism](#on-animal-rights-and-veganism)
   * [On Anarchism, Unions and Leaderless Societies](#on-anarchism-unions-and-leaderless-societies)
   * [On Fascism and Human Nature](#on-fascism-and-human-nature)
-  * [On Invididualism vs Collectivism](#on-individualism-vs-collectivism)
+  * [Invididualism vs Collectivism](#individualism-vs-collectivism)
   * [How to contribute](#how-to-contribute)
 
 ### Introduction
@@ -448,7 +448,7 @@ It doesn't usually feel this way in our day-to-day lives. We go to work, say hel
 
 Why be a perfectionist, why not just accept things the way they are, and harden up to the harsh realities of the world? Because it would defeat the entire purpose of our mission; fast-tracking the evolution of man to the next level, by whatever means necessary.
 
-### On Invididualism vs Collectivism
+### Individualism vs Collectivism
 
 One could argue of the existence of a so called 'bad' individualism as well as a 'bad' collectivism.
 
@@ -464,7 +464,9 @@ I've previously also talked about the meaning of life and the importance of stri
 
 Not at all. Without Power: you won't have any capacity to maximize or minimize suffering in the world. That's it.
 
-Without Power, you cannot do harm. But you cannot do good, either.
+If I wanted to save the life of someone dying of brain cancer, I wouldn't be able to do it without academic qualifications and medical experience. No matter how good of a person I am.
+
+The more Power you have, the better. Without Power, you cannot do harm. But you cannot do good, either.
 
 ### How to contribute
 

@@ -447,6 +447,24 @@ It doesn't usually feel this way in our day-to-day lives. We go to work, say hel
 
 Why be a perfectionist, why not just accept things the way they are, and harden up to the harsh realities of the world? Because it would defeat the entire purpose of our mission; fast-tracking the evolution of man to the next level, by whatever means necessary.
 
+### On Invididualism vs Collectivism
+
+One could argue of the existence of a so called 'bad' individualism as well as a 'bad' collectivism.
+
+A good example of 'bad' individualism would be: Leaving the homeless behind to rot on the streets, neverending competition and striving for glory and power among individuals, not paying taxes, etc.
+
+What would be an example of 'bad' collectivism, then? Forcing people to dress a certain way, LGBT conversion therapy, racism, fascism, etc.
+
+So the idea that Collectivism is better than Individualism and/or vice-versa is misguided and dangerous.
+
+The only philosophical, ethical and moral question we should be asking ourselves is whether or not our actions lead to greater overall [wellbeing] and the least amount of [suffering].
+
+I've previously also talked about the meaning of life and the importance of striving for absolute Power and Glory. Wouldn't this contradict my previous statement about maximizing happiness and minimizing suffering in the world?
+
+Not at all. Without Power: you won't have any capacity to maximize or minimize suffering in the world. That's it.
+
+Without Power, you cannot do harm. But you cannot do good, either.
+
 ### How to contribute
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.

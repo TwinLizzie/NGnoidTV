@@ -458,9 +458,7 @@ What would be an example of 'bad' collectivism, then? Forcing people to dress a 
 
 So the idea that Collectivism is better than Individualism and/or vice-versa is misguided and dangerous.
 
-The only philosophical, ethical and moral question we should be asking ourselves is whether or not our actions lead to greater overall [wellbeing] and the least amount of [suffering].
-
-I've previously also talked about the meaning of life and the importance of striving for absolute Power and Glory. Wouldn't this contradict my previous statement about maximizing happiness and minimizing suffering in the world?
+The only philosophical, ethical and moral question we should be asking ourselves is whether or not our actions lead to greater overall [wellbeing] as well as the least amount of [suffering]. I've previously also talked about the meaning of life and the importance of striving for absolute Power and Glory. Wouldn't this contradict my previous statement about maximizing happiness and minimizing suffering in the world?
 
 Not at all. Without Power: you won't have any capacity to maximize or minimize suffering in the world. That's it.
 

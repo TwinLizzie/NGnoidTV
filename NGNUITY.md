@@ -239,6 +239,8 @@ I recommend adopting the same '#hustle' type of mentality that the Capitalists e
 
 But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity from home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
 
+Free speech, fair elections and equal representation are only sustainable in times of economic stability. This is one of the reasons why poorer countries tend to be less democratic. It is also the reason why democracy is on the decline around the Western parts of the world. It thus becomes increasingly difficult for working class people to support the idea of free speech and equal representation when the owners of capital get to have equal say and political leverage over their oppression.
+
 ### Fake news, Parallel Realities and Social Entropy
 
 As I had explained in previous paragraphs: today's world is marked by extreme political division, social media propaganda and a huge range of variations in public opinion. Outlandish beliefs. Bizarre fandoms. Echo chambers. Fake news. Chaos. Randomness. Social entropy.

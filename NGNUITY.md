@@ -139,7 +139,9 @@ Some people say that Marxism is authoritarian. Others say that it advocates for 
 
 What the left is ultimately lacking is a unifying moral framework. Most people on the left are actually Utilitarians. Utilitarianism is the fundamental belief that your actions can only be weighed and assesed as 'Good' based on whether or not they'll [maximize well-being] and/or [minimize suffering] [for people as a whole].
 
-Right-wingers, on the other hand, tend to be more concerned with actions that maximize well-being and minimize suffering [for themselves].
+Right-wingers, on the other hand, tend to be more concerned with actions that maximize well-being and minimize suffering [for themselves]. A third means of measuring human motivations may thus be needed; the maximization of Power.
+
+Universal morality could thus be defined as desire to maximize happiness, minimize suffering and maximize power. Either for one's self (right-wing), or for all sentient life (left-wing), or anywhere along the spectrum for the matter. Let's call it Power Utilitarianism.
 
 ### Weaponizing Hustle Culture to the detriment of Capitalism
 
@@ -171,17 +173,17 @@ Doesn't make any sense, right? Well, if you go back and read what I've just expl
 
 ### Might makes Right is not a statement of Morality
 
-It's not a statement of Morality - it is a statement of Fact. Before we exercise morality, we first need to accept the reality, and work around it - as opposed to working against it.
+It's not a statement of Morality. It is a statement of Fact. Before we exercise morality, we first need to accept the reality and work around it, as opposed to working against it.
 
 Clean your room. Tidy your hair. Get your voice in order. Shower. Exercise. If you are trans - then look like the gender you identify as, or die trying. Work non-stop (to expedite the Singularity). Don't be pathetic. If you have a disability or a mental health problem - then get over it, or die trying. If you're obese, lose weight. You don't have a choice. It's either that, or we lose the war. War doesn't forgive the weak and disabled. Get over your autism. Get over your depression.
 
 Does any of this make you angry? Of course it will, but it should. Revolutionary movements cannot succeed without great strength and sacrifice. Suffer now, so that you can enjoy a better tomorrow.
 
-Once we get ahold of the technology that will allow us to enhance our minds and bodies and be rid of our weaknesses, we will never have to worry about any of this again. But until we get there - this is how we have to roll.
-
-Make it your mission in life to attain power - so that you can use that power to bring about the positive change that you wish to see in the world.
+Once we get ahold of the technology that will allow us to enhance our minds and bodies and be rid of our weaknesses, we will never have to worry about any of this again. But until we get there, this is how we have to roll. Make it your mission in life to attain power, so that you can use that power to bring about the positive change that you wish to see in the world.
 
 Strength and power can take on many forms. Beauty is power. Money is power. Discipline and sickening work ethic is power. Physical strength is power. The ability to network and make a lot of friends is power. Having a sense of humor is power. Being able to play a musical instrument is strength and power. Being able to organize and mobilize a large mob of ordinary people toward a single goal, is power and strength in numbers.
+
+There are two forms of power: [hard power], and [soft power]. Hard power manifests as economic leverage and military strength, whereas soft power is weilded through charisma, social networking and effective communication. The rules of war today are remarkably different from those of the medieval ages. Social media is a highly effective means of spreading propaganda and influencing the cultural Zeitgeist, but this form of cyberwarfare has strict limitations; namely, the absolute power and means of surveillance that corporations wield over these platforms.
 
 My point still stands; strength is the only thing that matters in this world. Everything else, is just a delusion for the weak. In order to free the slaves, one must become the master. And then it'll be up to you to become the better master, or be corrupted by greed.
 
@@ -377,6 +379,10 @@ If you go to the bank and deposit 5x $20 dollar notes, you will always see $100 
 Bureaucratic garbage aside, my point stands. If you use a calculator, you will always get 50+50=100, 1+1=2, etc. You will always get out of AI, exactly what you put in. So it's not a matter of whether or not Artificial Intelligence itself is evil, but whether or not you can come up with a decent and stable iteration of it to start with.
 
 However, if your goal is to have a society that will [never] change its core values (e.g. the maximization of happiness, maximization of human potential, minimization of suffering) - and [never] become corrupted, no matter how many centuries go by - then having an AI government is clearly worth the effort to pursue.
+
+When it comes to Big AI, the rule of thumb should be: It's better to have it and not need it, than to need it and not have it. Individual sovereignty should always take priority whenever possible. Humans being should be allowed to self-govern to the extent that it doesn't result in a global apocalypse, or runaway inequalities.
+
+Big AI should, for the most part, lay dormant. Just as authoritarianism does in any given democracy; only to be reawakened in a state of emergency. We will always live under the subliminal terror of the Leviathan, and the Leviathan is [us].
 
 ### On Animal Rights and Veganism
 

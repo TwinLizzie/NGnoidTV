@@ -225,21 +225,21 @@ We need new ideas.
 
 ### Liberal Democracy is beset by an inability to generate Radical Change
 
-It was already hard enough to fight for revolution and reform when half a country consisted of hardened Gangsters who built skyscrapers without safety gear and hauled illegal liquor for a living.
+It was already hard enough to fight for revolution and reform when half a country consisted of hardened gangsters who built skyscrapers without safety gear and hauled illegal liquor for a living.
 
-The average Millennial and Gen Z will never have the military training and discipline required to overthrow a government and install a new one.
+The average Millennial and Gen Z, living in an English-speaking country today, will never have the military training and discipline required to overthrow a government and install a new one.
 
-As a 29 year old Millennial (Zoom-llennial?) myself, I certainly don't exclude myself from this category. And even if you think you're strong, smart and competent enough by your own standards - there's always somebody out there ready to burst your bubble and kick your butt. It's better just to assume that you suck at everything, and then work toward non-stop improvement, than it is to assume that you're good enough as you are. That way you won't need to rely on external feedback in order to measure your progress.
+As a 29 year old Millennial (Zoom-llennial?) myself, I certainly don't exclude myself from this category. And even if you think you're strong, smart and competent enough by your own standards - there's always somebody out there ready to burst your bubble and put you back in your place. Sometimes it's even better just to assume the worst about your capabilities by default, and then work toward non-stop improvement, than it is to assume that you're good enough as you are. That way you won't need to rely on external feedback in order to measure your progress in life.
 
-It's always better to have a Negativity Bias in regards to your own capabilities, though it must also be combined with the restless pursuit of success at all costs - because Negativity Biases can be discouraging and de-motivating. It's a very difficult thing to do, but not impossible. Mind over matter.
+It's always better to have a negativity bias in regards to your own capabilities, though it must also be combined with the restless pursuit of success at all costs, because Negativity Biases can be discouraging and de-motivating. It's a very difficult thing to do, but not impossible. Mind over matter.
 
 Our feeble minds are heavily addicted to social validation and encouragement from our peers and ingroup in order to get the motivation and inspiration to accomplish what we want. Again - this is bad.
 
-I recommend adopting the same '#hustle' type of mentality that the Capitalists espouse - and then apply that same amount of fanatical work ethic in order to build post-scarcity Socialism and destroy the old system forever.
+I recommend adopting the mentality of the '#hustle' which the Capitalists espouse - and then apply that same amount of fanatical work ethic in order to build post-scarcity Socialism and destroy the old system forever. Use the enemy's tactics against them.
 
-But like I said - all hope is not lost. We are a tech savvy generation - we can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity from home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
+All hope is not lost. We are in fact a tech savvy generation. We can use technology to get what we want. Anybody can teach themselves computing, programming, robotics and cybersecurity from the comfort of their own home. That's how modern warfare works now. Let's double down on that strength as we work on correcting our weaknesses.
 
-Free speech, fair elections and equal representation are only sustainable in times of economic stability. This is one of the reasons why poorer countries tend to be less democratic. It is also the reason why democracy is on the decline around the Western parts of the world. It thus becomes increasingly difficult for working class people to support the idea of free speech and equal representation when the owners of capital get to have equal say and political leverage over their oppression.
+Free speech, fair elections and equal representation are only sustainable in times of economic stability. This is one of the reasons why poorer countries tend to be less democratic. It is also the reason why liberal democracy is on the decline around the Western parts of the world. It thus becomes increasingly difficult for working class people to support the idea of free speech and equal representation when the owners of capital get to have equal say and political leverage over their oppression.
 
 ### Fake news, Parallel Realities and Social Entropy
 

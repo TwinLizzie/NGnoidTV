@@ -405,7 +405,7 @@ Even after being voted out of office in December 2020 by then former vice presid
 
 Why people would support a fiscally conservative billionaire who wouldn't give them the time of the day, let alone provide them affordable healthcare, housing and job security, still remains a mystery.
 
-What we do know is that the same people opposed to Abortion Rights, are also opposed to social welfare. Where do unwanted children end up? On the streets, of course. "But then they should have kept their legs closed!" said the redneck with the sports glasses and the crimson baseball cap, who had coincidentally also uploaded a YouTube video documenting how young men are having far less sex than previous generations.  
+What we do know is that the same people opposed to Abortion Rights, are also opposed to social welfare on the same moral and religious grounds. Where do unwanted children end up? On the streets, of course. "But then they should have kept their legs closed!" said the redneck with the sports glasses and the crimson baseball cap, who had coincidentally also uploaded a YouTube video documenting how young men are having far less sex than previous generations.  
 
 U.S. politics in general is marked by contradiction after contradiction. So called 'culturally liberal but fiscally conservative' Democrats will happily clean out a homeless encampment, while Tweeting support for LGBT rights and sporting a rainbow flag on their social media profiles. Nevermind the fact that the LGBT have higher-than-average rates of homelessness.
 

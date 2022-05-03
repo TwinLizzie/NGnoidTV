@@ -399,7 +399,7 @@ Big AI should, for the most part, lay dormant. Just as authoritarianism does in 
 
 The date at the time of writing this chapter is the 4th of May, 2022, and a leaked document has revealed that the U.S. Supreme Court has voted to overturn abortion rights (Roe vs. Wade).
 
-U.S. politics has seen a wave of reactionary movements since 2012 and the fall of the Occupy Wallstreet movement. Republican candidate Donald J. Trump took office in 2016 with the intention of building a reinforced border wall between the U.S. and Mexico, as well as undoing what little progress the previous Democratic Party leaders had put in place.
+U.S. politics has seen a wave of reactionary movements since 2012 and the fall of the Occupy Wallstreet movement. Republican candidate Donald J. Trump took office in 2016 with the intention of building a reinforced border wall between the U.S. and Mexico, as well as undoing what little progress the previous Democratic Party administration had put in place.
 
 Even after being voted out of office in December 2020 by then former vice president Joe Biden, Trumpism showed no signs of going away. If anything, it doubled down. On January the 6th 2021, a mob of pro-Trump loyalists stormed the U.S. Capitol building in Washington D.C., under the conviction that the election had been stolen from them and that Donald J. Trump was the rightful president.
 

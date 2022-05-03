@@ -24,6 +24,7 @@
   * [A Call to Never Surrender. A Call to Anti-Capitalist Jihad](#a-call-to-never-surrender-a-call-to-anti-capitalist-jihad)
   * [Creating online-based Worker Cooperatives using 3D Printing](#3d-printing-allows-for-worker-cooperatives-and-socialist-movements-to-be-built-entirely-online)
   * [On Artificial Intelligence-Run Governments](#on-artificial-intelligence-run-governments)
+  * [On Feminism and Family Planning](#on-feminism-and-family-planning)
   * [On Animal Rights and Veganism](#on-animal-rights-and-veganism)
   * [On Anarchism, Unions and Leaderless Societies](#on-anarchism-unions-and-leaderless-societies)
   * [On Fascism and Human Nature](#on-fascism-and-human-nature)
@@ -393,6 +394,22 @@ However, if your goal is to have a society that will [never] change its core val
 When it comes to Big AI, the rule of thumb should be: It's better to have it and not need it, than to need it and not have it. Individual sovereignty should always take priority whenever possible. Humans being should be allowed to self-govern to the extent that it doesn't result in a global apocalypse, or runaway inequalities.
 
 Big AI should, for the most part, lay dormant. Just as authoritarianism does in any given democracy; only to be reawakened in a state of emergency. We will always live under the subliminal terror of the Leviathan, and the Leviathan is [us].
+
+### On Feminism and Family Planning
+
+The date at the time of writing this chapter is the 4th of May, 2022, and a leaked document has revealed that the U.S. Supreme Court has voted to overturn abortion rights (Roe vs. Wade).
+
+U.S. politics has seen a wave of reactionary movements since 2012 and the fall of the Occupy Wallstreet movement. Republican candidate Donald J. Trump took office in 2016 with the intention of building a reinforced border wall between the U.S. and Mexico, as well as undoing what little progress the previous Democratic Party leaders had put in place.
+
+Even after being voted out of office in December 2020 by then former vice president Joe Biden, Trumpism showed no signs of going away. If anything, it doubled down. On January the 6th 2021, a mob of pro-Trump loyalists stormed the U.S. Capitol building in Washington D.C., under the conviction that the election had been stolen from them and that Donald J. Trump was the rightful president.
+
+Why people would support a fiscally conservative billionaire who wouldn't give them the time of the day, let alone provide them affordable healthcare, housing and job security, still remains a mystery.
+
+What we do know is that the same people opposed to Abortion Rights, are also opposed to social welfare. Where do unwanted children end up? On the streets, of course. "But then they should have kept their legs closed!" said the redneck with the sports glasses and the crimson baseball cap, who had coincidentally also uploaded a YouTube video documenting how young men are having far less sex than previous generations.  
+
+U.S. politics in general is marked by contradiction after contradiction. So called 'culturally liberal but fiscally conservative' Democrats will happily clean out a homeless encampment, while Tweeting support for LGBT rights and sporting a rainbow flag on their social media profiles. Nevermind the fact that the LGBT have higher-than-average rates of homelessness.
+
+Common sense is dying, but maybe common sense never existed in the first place. Cold hard logic and computation is our only salvation. I have done the math, and have determined that it would be far better for the U.S. to collapse altogether. For it is only from the ashes of Western democracies that truly bold and ambitious political systems can come about.
 
 ### On Animal Rights and Veganism
 

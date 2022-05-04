@@ -481,6 +481,8 @@ It doesn't usually feel this way in our day-to-day lives. We go to work, say hel
 
 Why be a perfectionist, why not just accept things the way they are, and harden up to the harsh realities of the world? Because it would defeat the entire purpose of our mission; fast-tracking the evolution of man to the next level, by whatever means necessary.
 
+It may not even be possible to snuff out the drive toward malice and self-interest in human beings altogether, short of monitoring the epigenetic changes in a child and treating each and every individual like a fragile house plant, well into adulthood. Here at the NGnuity: Renaissance we will never give up on the fight for an egalitarian world, but that doesn't mean we won't give up on the human race. Nothing human is likely to make it out of the 21st and 22nd centuries alive. Neuralink devices and other cybernetic implants will hasten the transformation of man into digital machine, in which case our only remaining course of action is to preserve the human DNA, and then substitute the next generation of humans with android replicas; hardwired for altruism, communal living and space colonization. Effectively creating a better species of humans.
+
 ### Individualism vs Collectivism
 
 One could argue of the existence of a so called 'bad' individualism as well as a 'bad' collectivism.

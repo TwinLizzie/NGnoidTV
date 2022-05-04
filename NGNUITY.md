@@ -483,6 +483,10 @@ Why be a perfectionist, why not just accept things the way they are, and harden 
 
 It may not even be possible to snuff out the drive toward malice and self-interest in human beings altogether, short of monitoring the epigenetic changes in a child and treating each and every individual like a fragile house plant, well into adulthood. Here at the NGnuity: Renaissance we will never give up on the fight for an egalitarian world, but that doesn't mean we won't give up on the human race. Nothing human is likely to make it out of the 21st and 22nd centuries alive. Neuralink devices and other cybernetic implants will hasten the transformation of man into digital machine, in which case our only remaining course of action is to preserve the human DNA, and then substitute the next generation of humans with android replicas; hardwired for altruism, communal living and space colonization. Effectively creating a better species of humans.
 
+Would this spell the end of humanity? Not necessarily. Humanity will continue mutating and evolving as a species till it soon comes to resemble a creature that is visually indistinguishable from how we look today. This is particularly true if we are to ever colonize other planets. Creating android human replicas with digital minds has the benefit of 'locking the human species in time' and thus preventing the bodily mutations that would result in the deviation from our original form over time. Assuming that their semiconductors are well shielded from bit-flipping space rays, harmful radiation and any sort of cosmic interference, you should still have the same two-eyed, five-fingered, bipedal, snotty-nosed, partially hairless, mouth-talking, mouth-breathing simioid 500 million years from now.
+
+In a morbid twist of irony, the human race is saved and preserved through its replacement with a non-biological lifeform.
+
 ### Individualism vs Collectivism
 
 One could argue of the existence of a so called 'bad' individualism as well as a 'bad' collectivism.

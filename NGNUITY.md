@@ -485,7 +485,7 @@ It may not even be possible to snuff out the drive toward malice and self-intere
 
 Would this spell the end of humanity? Not necessarily. Humanity will continue mutating and evolving as a species till it soon comes to resemble a creature that is visually indistinguishable from how we look today. This is particularly true if we are to ever colonize other planets. Creating android human replicas with digital minds has the benefit of 'locking the human species in time' and thus preventing the bodily mutations that would result in the deviation from our original form over time. Assuming that their semiconductors are well shielded from bit-flipping space rays, harmful radiation and any sort of cosmic interference, you should still have the same two-eyed, five-fingered, bipedal, snotty-nosed, partially hairless, mouth-talking, mouth-breathing simioid 500 million years from now.
 
-In a morbid twist of irony, the human race is saved and preserved through its replacement with a non-biological lifeform.
+In a morbid twist of irony, the human race is saved and preserved through its substitution with a non-biological lifeform.
 
 ### Individualism vs Collectivism
 

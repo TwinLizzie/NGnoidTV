@@ -78,7 +78,9 @@ Otherwise, yes - we will end up with a Google, Microsoft, Amazon, Tesla and Face
 
 ### A Best Case Scenario for a Technological Singularity
 
-If you've ever looked up `how to brew your own Beer` or `grow your own food` on YouTube, then you've already had a glimpse of what a post-scarcity economy will be like.
+If you've ever looked up `how to brew your own Beer` or `grow your own food` on YouTube, then you've already had a glimpse of what a post-scarcity economy will be like. Early this year (2022) we've even witnessed the proliferation of new 3d printing techniques such as pellet extrusion as well as 'pultrusion', which is by far my favourite, as it allows one to use a cheap, modified $5 hotend combined with a simple 3d printed gear mechanism, a couple of bearings, and a razor blade, in order to slice and convert plastic PET bottles into usable 3d printer filament.
+
+Progress on these fronts, unfortunately, has been extremely slow and disappointing. People are far more interested in using 3d printing as a get-rich-quick scheme than they are in using it to bring about a more egalitarian and environmentally friendly civilization. This has happened time and time again with each and every ground-breaking technology with emancipatory potential that makes it into the hands of the average consumer. One of the few pellet extruders on the market currenctly costs $700 USD minimum, and God only knows whether or not its creator has any stock actually available. Quite frankly, it's pathetic, but not all hope is lost.
 
 Artificial Intelligence, peer-to-peer file sharing and blockchain (non cryptocurrency) technology will be able to fulfill the vast majority of our needs and answer most of our questions at the click of a button. Every household will be able to own their own NGnuity 3D Printer Robot Arm that is able to print not just plastic, but also fabric, glass and metal using inverse kinematics, as well as selective powder deposition technology plus a small furnace (coming soon this year).
 

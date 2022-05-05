@@ -27,7 +27,7 @@
   * [On Feminism and Family Planning](#on-feminism-and-family-planning)
   * [On Animal Rights and Veganism](#on-animal-rights-and-veganism)
   * [On Anarchism, Unions and Leaderless Societies](#on-anarchism-unions-and-leaderless-societies)
-  * [On Fascism and Human Nature](#on-fascism-and-human-nature)
+  * [On Fascism, Human Nature and Post-Humanism](#on-fascism-human-nature-and-post-humanism)
   * [Invididualism vs Collectivism](#individualism-vs-collectivism)
   * [How to contribute](#how-to-contribute)
 
@@ -78,7 +78,7 @@ Otherwise, yes - we will end up with a Google, Microsoft, Amazon, Tesla and Face
 
 ### A Best Case Scenario for a Technological Singularity
 
-If you've ever looked up `how to brew your own Beer` or `grow your own food` on YouTube, then you've already had a glimpse of what a post-scarcity economy will be like. Early this year (2022) we've even witnessed the proliferation of new 3d printing techniques such as pellet extrusion as well as 'pultrusion', which is by far my favourite, as it allows one to use a cheap, modified $5 hotend combined with a simple 3d printed gear mechanism, a couple of bearings, and a razor blade, in order to slice and convert plastic PET bottles into usable 3d printer filament.
+If you've ever looked up `how to brew your own Beer` or `grow your own food` on YouTube, then you've already had a glimpse of what a post-scarcity economy will be like. Early this year (2022) we've even witnessed the proliferation of new 3d printing techniques such as pellet extrusion as well as 'pultrusion', which is by far my favourite, as it allows one to use a cheap, modified $5 hotend combined with a simple 3d printed gear mechanism and a couple of bearings in order to slice and convert plastic PET bottles into usable 3d printer filament.
 
 Progress on these fronts, unfortunately, has been extremely slow and disappointing. People are far more interested in using 3d printing as a get-rich-quick scheme than they are in using it to bring about a more egalitarian and environmentally friendly civilization. This has happened time and time again with each and every ground-breaking technology with emancipatory potential that makes it into the hands of the average consumer. One of the few pellet extruders on the market currenctly costs $700 USD minimum, and God only knows whether or not its creator has any stock actually available. Quite frankly, it's pathetic, but not all hope is lost.
 
@@ -88,9 +88,7 @@ This robotic arm prototype will be fully self-replicating, modular, easily repai
 
 YouTube videos, tutorials, wikis and documentation will be widely accessible. Artificial Intelligence and Deep Learning (e.g. GPT-NEO) will automate the process of designing 3d models and gcode for all of these applications, so that people don't have to be proficient in CAD to be able to use them. The more data is shared, the more data is generated.
 
-Eventually - you'll be able to learn how to Learn using online tutorials. And then learn how to learn how to learn how to learn using online tutorials. And then AI will also be able to learn how to learn how to learn how to do stuff by bulk-watching videos and data-harvesting, too; optimizing the optimizers.
-
-Until technological progress becomes unstoppable and grows at such a fast and exponential rate that you end up with God-like superpowers at your fingertips; capable of curing cancer, extending your lifespan and building your own nuclear fusion reactor in your garage if you want to. Power: Overwhelming!
+Eventually, you'll be able to learn how to Learn using online tutorials. And then learn how to learn how to learn how to learn using online tutorials. And then AI will also be able to learn how to learn how to learn how to do stuff by bulk-watching videos and data-harvesting, too; optimizing the optimizers. Until technological progress becomes unstoppable and grows at such a fast and exponential rate that you end up with God-like superpowers at your fingertips; capable of curing cancer, extending your lifespan and building your own nuclear fusion reactor in your garage if you want to. Power: Overwhelming!
 
 Where we go from there, is a choice I leave to you.
 
@@ -103,6 +101,12 @@ Some people believe that mainstream 3D printing (especially metal 3d printing) i
 We think this is a good thing. That which isn't dangerous, is useless. 3D printing shouldn't be an expensive toy that bored silicon valley hipsters play around with in their spare time. In order for it to truly transform the world, it [absolutely has to] dare to be dangerous.
 
 It should become so dangerous that anybody could build themselves an ICBM in their garage and shoot down the international space station, if they wanted to. Or land a small rover on the moon and kickstart an era of DIY space exploration.
+
+Big Tech had been dominating the internet as we know it for quite some time, yet it is only very recently that the CEO's of these companies have come out of the closet with some sort of a God complex; making Steve Jobs look like a saint by comparison. Elon Musk has attracted significant attention and notoriety for tweeting like a reactionary 15 year old, going as far as buying Twitter in order to secure even greater political power and influence. Mark Zuckerberg won't stop talking about his Metaverse pet project.
+
+It used to be that the CEOs of Big Tech companies stayed at the back of our minds as we went on about our lives, only occasionally making the news headlines with every new product release. Not anymore. Billionaires are now worshipped as Gods on their own platforms where they wield a significant online presence.
+
+Gone are the days of the Tom Andersons, who were maybe known for a couple of awkward college photos of themselves in front of a classroom whiteboard, before fading into humble obscurity. The people in charge of social media platforms today are powerful enough to buy entire states and command their own private mercenary armies. And they've all gotten wealthy thanks to our laziness and our love for overnight shipping. Not that there's anything wrong with doing things more efficiently, so long as it is the people who benefit from this increase in economic productivity, as opposed to a few select men.
 
 ### Creating a viable alternative to Communism and PieInTheSkyism
 
@@ -144,7 +148,11 @@ What the left is ultimately lacking is a unifying moral framework. Most people o
 
 Right-wingers, on the other hand, tend to be more concerned with actions that maximize well-being and minimize suffering [for themselves]. A third means of measuring human motivations may thus be needed; the maximization of Power.
 
-Universal morality could thus be defined as desire to maximize happiness, minimize suffering and maximize power. Either for one's self (right-wing), or for all sentient life (left-wing), or anywhere along the spectrum for the matter. Let's call it Power Utilitarianism.
+Universal morality could be defined as the desire to maximize happiness, minimize suffering and maximize power. Either for one's self (right-wing), or for all sentient life (left-wing), or anywhere along the spectrum for the matter. We could call it Power Utilitarianism.
+
+Power Utilitarianism doesn't necessarily aim to provide a set of rules by which people ought to live their lives, but rather, it seeks to explain human behavior in a simple way that the vast majority of us can agree upon. One of the most common challenges presented to the Utilitarian ideal are hypothetical scenarios such as the Trolley Problem, or the '5 dying patients needing a potential organ transplant from a healthy subject'. Disregarding the fact that organ transplantation is only 68 years old as a medical procedure, and prone to failure, thereby lending greater [utility] to the funding of preventative healthcare as well as research into organ 3d printing.
+
+With that out of the way, one could confidently say that we are all power- and happiness-maximizing utilitarians. We just tend to use more complex and personalized language in order to describe our needs and wants.
 
 ### Weaponizing Hustle Culture to the detriment of Capitalism
 
@@ -402,7 +410,7 @@ Big AI should, for the most part, lay dormant. Just as authoritarianism does in 
 The date at the time of writing this chapter is the 4th of May, 2022, and a leaked document has revealed that the U.S. Supreme Court has voted to overturn abortion rights (Roe vs. Wade).
 
 U.S. politics has seen a wave of reactionary movements since 2012 and the fall of the Occupy Wallstreet movement. Republican candidate Donald J. Trump took office in 2016 with the intention of building a reinforced border wall between the U.S. and Mexico, as well as undoing what little progress the previous Democratic Party administration had put in place.
-
+On Fascism, Human Nature and Post-Humanism
 Even after being voted out of office in December 2020 by then former vice president Joe Biden, Trumpism showed no signs of going away. If anything, it doubled down. On January the 6th 2021, a mob of pro-Trump loyalists stormed the U.S. Capitol building in Washington D.C., under the conviction that the election had been stolen from them and that Donald J. Trump was the rightful president.
 
 Why people would ever risk their lives for a fiscally conservative billionaire who wouldn't give them the time of the day, let alone provide them affordable healthcare, housing and job security, still remains a mystery.
@@ -425,7 +433,7 @@ Opponents to this idea argue that the natural world operates under natural law. 
 
 Once again: We are haunted by the reality of 'Might makes Right'. The strongest organism gets to impose their will on the weaker ones, because [they can], etc.
 
-Human beings have the luxury of [being able to choose] whether or not they want to eat meat. Soon we will even have the luxury of being able to eat meat without the need to slaughter a living creature to begin with, thanks to advances in biotechnology; in vitro cultures of stem cells harvested from the muscle tissue of pigs, cows and chickens.
+Human beings have the luxury of [being able to choose] whether or not they want to eat meat. Soon we will even have the luxury of being able to eat meat without the need to slOn Fascism, Human Nature and Post-Humanismaughter a living creature to begin with, thanks to advances in biotechnology; in vitro cultures of stem cells harvested from the muscle tissue of pigs, cows and chickens.
 
 A Kardashev Type I civilization (one that has complete power and mastery over every single source of energy of its home planet) will even be able to re-engineer the world's ecosystem to its liking. Earthquakes and hurricanes would become a thing of the past. Lions and hyenas would be fed lab-grown meat in national parks and nature reserves. The spread of new diseases and parasites will be curtailed before they even have the chance to infect a single organism.
 
@@ -459,7 +467,7 @@ I'd hate to see people doomed to repeat the same strategies over and over and se
 
 But if they can make it work in the long term - they've earned the bragging rights, and should be supported. Avoid being a cynic until you have a very good reason to do so.
 
-### On Fascism and Human Nature
+### On Fascism, Human Nature and Post-Humanism
 
 Is human nature fundamentally evil and doomed to be corrupted? Yes, and I'll explain why.
 

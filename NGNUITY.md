@@ -375,7 +375,7 @@ Doesn't this contradict the premise of this chapter? Of course it does. It's bas
 
 The only answer is to never stop fighting. Go out with a bang. Drag your enemy down with you to the pits of hell if need be.
 
-The only answer is anti-capitalist Jihad.
+The only answer is anti-capitalist Jihad. Jihad in this case is defined as [struggle]; the intensity of which should be entirely up to your own temperament and gut feeling, provided one sets out to target those who wield the greatest military, economic and political power, as opposed to innocent civilians. 
 
 ### 3D Printing allows for Worker cooperatives and Socialist movements to be built entirely online
 

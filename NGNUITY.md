@@ -154,6 +154,16 @@ Power Utilitarianism doesn't necessarily aim to provide a set of rules by which 
 
 With that out of the way, one could confidently say that we are all power- and happiness-maximizing utilitarians. We just tend to use more complex and personalized language in order to describe our needs and wants.
 
+One of the biggest advantages of Power Utilitarianism over Classical Utilitarianism and 'Rule' Utilitarianism, is that it avoids the hedonistic trappings and pitfalls of the one, while also avoiding the needless complexities of the other. Becoming addicted to heroin, cocaine, sugary junk food and/or virtual reality may serve to maximize [happiness], yet it also minimizes our vital [power] and real world capabilities. Which necessarily also means that both the quality and the quantity of one's pleasure will always be dependent on, and bottlenecked by, these substances and devices, effectively causing one to surrender one's power, and potential for greater happiness, to them.
+
+So now we have a perfect, simple syntactic solution for the Drug Addiction and Wire-heading problem. Great! Now again: what about the 5 patient organ transplant dilemma? And the trolley problem?
+
+It's pretty simple, actually: The harder, the holier. Testing pharmaceuticals and cosmetics on animals is easy. You sacrifice a few animals for the greater overall wellbeing of mankind. You've still caused psychological and physical pain to animals, so it's not a perfect utilitarian action. The hardest path would be to boost funding into biotechnological methods and computational models as alternatives to animal testing, as well as the enrolment of human volunteers.
+
+The truth is that we already make utilitarian decisions in our daily lives, all the time, without even giving it much thought, albeilt loosely and lazily so. This was especially the case during the Covid19 pandemic of the 2020s, with state mandated lockdowns being implemented at the expense of economic stability. If economic instability threatened the wellbeing of the very same people the lockdowns were meant to protect, then the lockdowns were either partially or fully lifted. That is utilitarianism by definition.
+
+However, the vast majority of people are far from being disciplined utilitarians. A truly determined Utilitarian society would be heavily invested in preventative medicine, education, renewable energy, technological advancement and long-term planning, so as to ensure that we neither end up with a Trolley Problem, Self-driving car muder dilemmas, animal testing nor the 5-Patient-organ-transplant horror story. In upcoming chapters I will also elaborate how Artificial Intelligence can greatly enhance utilitarian decision making and also avoid these common myopic pitfalls, which tend to be problems that pertain to contemporary Capitalist societies more than they do so with our proposed Utilitarian ones.
+
 ### Weaponizing Hustle Culture to the detriment of Capitalism
 
 We should view Work as a means to an end, not as a virtue in and of itself. Our true virtue should be to live a happy life free from disease and hardship, and allow everybody else to achieve the same.

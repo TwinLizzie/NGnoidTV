@@ -45,11 +45,11 @@ A post-scarcity economy is entirely resource-based. The blueprints for the full 
 
 During the Chinese Great Leap Forward (1958-1962), Mao Zedong proposed the idea of the Backyard Steel Furnace. Peasants would build themselves improvised, homemade steel furnaces in their backyards so as to boost steel production for the country. Documentaries on steel-making were distributed to people in order to fill in the gaps in their knowledge.
 
-Why did the Backyard Steel Furnace fail? And why did the Great Leap Forward fail? It failed because it takes years to build the skills and expertise needed to master a particular craft. It was also unscientific, as the Maoist movement tended to be anti-intellectual in some aspects; similar to how Southern, rust-belt, rural Americans dismiss the voices of the scientific community and experts they deem to be condescending and elitist.
+Why did the Backyard Steel Furnace fail? And why did the Great Leap Forward fail? It failed because it takes years to build the skills and expertise needed to master a particular craft. It was also unscientific, as the Maoist movement tended to be anti-intellectual and peasant-oriented in some aspects; not unlike the way Southern U.S., rust-belt, rural Americans tend to dismiss the voices of the scientific community and experts they deem to be condescending and elitist.
 
 Machines, on the other hand, do not have this problem. If everybody owned a 3d printer, built according to the same set of parts and the same set of instructions, as well as the same .stl files - they would all produce nearly identical items.
 
-Yet at the end of the day, we still need raw energy. Unlike data and knowledge, which can be copied ad infinitum - raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink) will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
+At the end of the day, we still need raw energy. Unlike data and knowledge, which can be copied ad infinitum - raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink) will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
 
 ### What is Accelerationism?
 
@@ -375,7 +375,7 @@ Doesn't this contradict the premise of this chapter? Of course it does. It's bas
 
 The only answer is to never stop fighting. Go out with a bang. Drag your enemy down with you to the pits of hell if need be.
 
-The only answer is anti-capitalist Jihad. Jihad in this case is defined as [struggle]; the intensity of which should be entirely up to your own temperament and gut feeling, provided one sets out to target those who wield the greatest military, economic and political power, as opposed to innocent civilians. 
+The only answer is anti-capitalist Jihad. Jihad in this case is defined as [struggle]; the intensity of which should be entirely up to your own temperament and gut feeling, provided one sets out to target those who wield the greatest military, economic and political power, as opposed to innocent civilians.
 
 ### 3D Printing allows for Worker cooperatives and Socialist movements to be built entirely online
 
@@ -471,11 +471,11 @@ Throughout this book I've extensively put forth my Hobbesian, Machiavellian and 
 
 This doesn't mean that I am fundamentally against anarchist, leaderless and stateless societies. Any leftist worth their salt should also always show their support and solidarity for labor unions,  renters unions, etc.
 
-My only concern is that leaderless communities often become ticking timebombs and fertile land to be co-opted by special interest groups; not excluding the ruling Capitalist system itself.
-
-I'd hate to see people doomed to repeat the same strategies over and over and seeing no major progress, whilst expecting a different result.
+My only concern is that leaderless communities often become ticking timebombs and fertile land to be co-opted by special interest groups; not excluding the ruling Capitalist system itself. I'd hate to see people doomed to repeat the same strategies over and over and seeing no major progress, whilst expecting a different result.
 
 But if they can make it work in the long term - they've earned the bragging rights, and should be supported. Avoid being a cynic until you have a very good reason to do so.
+
+The NGnuity: Renaissance is anarchist at heart, while still prescribing realist and pragmatic approaches to building the societies of tomorrow. I don't necessarily believe that we absolutely [have to] build autocratic cyberocracies in order to realize any of the ideals of post-scarcity and common prosperity I'd previously written about, only that it may be the last remaining option in the face of a global environmental, economic and political catastrophe that is beyond fixing.
 
 ### On Fascism, Human Nature and Post-Humanism
 

@@ -65,16 +65,16 @@ Otherwise, yes - we will end up with a Google, Microsoft, Amazon, Tesla and Face
 
 ### A New Philosophy of Automation
 
-- The simplest approach to automation is the best approach. e.g. Which is better - A cat door, or an automatic door opener with a built-in camera and computer vision?
+- The simplest approach to automation is the best approach. e.g. Which is better: A cat door, or an automatic door opener with a built-in camera and computer vision?
 - Prioritize owning tools that can be used to build as many other tools as possible. e.g. A cordless drill has greater utility than a box full of screw drivers. A 3d printer has more utility than a paper printer. A desktop computer has more utility than a Television. etc. You can't build everything at home, but if you have a good enough metal, glass and fabric 3d printer, you can easily print yourself the tools needed to make almost everything else.  
 - Automation must never be used to maximize profits, but to reduce working hours and the cost of goods and services for society as a whole.
 - Automation must be encouraged and accelerated in order to bring about a post-scarcity economy and work-free society as soon as possible. Either through government policy, or by taking matters into our own hands through 3d printing, CNC machinery (Computer Numerical Control) and file sharing i.e. Digital Mutual Aid. Every second that isn't spent making your work as efficient as possible is a second wasted.
 - Automation must not come at the cost of human fitness. E.g. Using a mobility scooter instead of walking when you are not disabled. We must build a thriving culture centered around the pursuit of physical fitness and aesthetics, as well as the arts, crafts, scientific innovation and creative endeavours.
 - Automation must be used to regain our humanity, not to dehumanize us. We were hunter-gatherers before we became agricultural drones. We shall use our free time to explore the stars, conquer distant solar systems, find alien life, etc.
 - Our techology tree must evolve away from reliance on centralized means of production. The less we rely on the supply chain, the better.
-+ We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to. Period.
-+ To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again become Hunter-gatherers.
-+ This is why classical Marxism is incompatible with our movement. Classical Marxists are Agricultural Drones. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
+- + We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to. Period.
+- + To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again become Hunter-gatherers.
+- + This is why classical Marxism is incompatible with our movement. Classical Marxists are Agricultural Drones. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
 - Build a new society around the same values and principles as the Linux operating system.
 
 ### A Best Case Scenario for a Technological Singularity

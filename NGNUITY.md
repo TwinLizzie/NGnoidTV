@@ -319,7 +319,7 @@ For God's sakes - stop simping! Stop copying someone else's homework. Stop putti
 
 In the first few paragraphs, I had talked about how a post-scarcity economy will provide us an abundance of goods and services so affordable they may as well be considered free of charge. Yet the one major obstable to 'full' post-scarcity is the issue of natural resource allocation.
 
-This is especially true when it comes to Land ownership. Land ownership is virtually impossible to provide in abundance, short of building skyscrapers and floating cities everywhere. Access to, and ownership of land thus ought to be the one thing thing that must be strictly regulated and fairly distrubuted among the people, more than anything else.
+This is especially true when it comes to Land ownership. Land ownership is virtually impossible to provide in abundance, short of building skyscrapers and floating cities everywhere. Access to, and ownership of land thus ought to be the one thing that must be strictly regulated and fairly distrubuted among the people, more than anything else.
 
 We work to pay rent to a landlord, more than we work to collect a paycheck, in the modern age. Money is usually thought of as a unit measuring time and effort spent on a particular product. Compensation for labor. This isn't the case when it comes to the extraction of rents.
 

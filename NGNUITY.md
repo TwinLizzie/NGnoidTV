@@ -321,6 +321,8 @@ This does not seem to be a problem in technocratic countries like China, which i
 
 There has only ever been one solution to the problem of neverending real estate scarcity and the housing crisis: the complete destruction and abolition of the Landlord class, the decommodification of housing through a complete handover of city planning to a central authority, and a massive increase in housing supply. If the democratic West refuses to make any difficult decision whatsoever, then we will always be at the mercy of China and the Yuan outright replacing the Western, liberal and U.S. dollar hegemony altogether. For the better, or for the worse.
 
+The housing crisis is tearing the West apart. So build more houses. If Landlords prevent that from happening, if the government prevents that from happening, if NIMBYs prevent that from happening, then get rid of the landlords, get rid of the government, install a new government, and silence the NIMBYs. Simple.
+
 ### Real Reason why we Hate to go to Work
 
 Why do we hate Work so much? It used to be that we could work a day job, come home to a husband/wife and kids, save up for a house, be happy, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.

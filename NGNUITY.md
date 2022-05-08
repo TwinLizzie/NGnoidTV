@@ -317,19 +317,25 @@ For God's sakes - stop simping! Stop copying someone else's homework. Stop putti
 
 ### We Work to pay Rent. Not to purchase Goods and Services
 
-In the first few paragraphs, I had talked about how a post-scarcity economy will make all goods and services virtually free, except for natural resources.
+In the first few paragraphs, I had talked about how a post-scarcity economy will provide us an abundance of goods and services so affordable they may as well be considered free of charge. Yet the one major obstable to 'full' post-scarcity is the issue of natural resource allocation.
 
-This is especially true when it comes to Land ownership. Land ownership is virtually impossible to provide in abundance, short of building skyscrapers and floating cities everywhere. Land ownership is thus the one and only thing that should strictly regulated and fairly distrubuted among the people.
+This is especially true when it comes to Land ownership. Land ownership is virtually impossible to provide in abundance, short of building skyscrapers and floating cities everywhere. Access to, and ownership of land thus ought to be the one thing thing that must be strictly regulated and fairly distrubuted among the people, more than anything else.
 
-We work to pay rent to a landlord, more than we work to collect a paycheck. Money is usually thought of as a unit measuring time and effort spent on a particular product. Compensation of labor. This isn't the case when it comes to the extraction of rents.
+We work to pay rent to a landlord, more than we work to collect a paycheck, in the modern age. Money is usually thought of as a unit measuring time and effort spent on a particular product. Compensation for labor. This isn't the case when it comes to the extraction of rents.
 
 When it comes to land ownership, rental properties and real estate - the early bird gets the worm. The rent that you pay to a landlord, is not a reflection of the effort that said landlord has put into their property. It is slavery and exploitation. Period.
 
-The 2020s in particular is an era that is marked by the Fear of Missing Out. Hoaring of hard assets; precious metals, cryptocurrency, real estate. Even the hoarding of toilet paper and food.
+The 2020s in particular is an era that is marked by the Fear of Missing Out. Hoaring of hard assets; precious metals, cryptocurrency, real estate. Even the hoarding of toilet paper and food. Our present-day economy no longer rewards those who work hard - only those who get the worm early. The rest will be renters. Slaves to scalpers, scammers and landlords. So much glory. So much Freedom™!
 
-Our present-day economy no longer rewards those who work hard - only those who get the worm early. The rest will be renters. Slaves to scalpers, scammers and landlords. So much glory - so much Freedom™!
+One of the most interesting memes from the 2020s is a right-wing slogan that came about as a reaction to the borderline out-of-touch promotional videos produced by the World Economic Forum, in which they'd laid out plans to further push the economies of Western countries toward even more Rentier Capitalism. "You will Rent instead of Buy. You will own nothing and you will be Happy." CNN had previously also released a video in 2019, in which they explored the idea of 'encouraging the consumption of insects as a replacement of meat in order to save the environment'. The U.S. state of California, likewise, had been experimenting with 'pod-apartments' as a way of dealing with the Western housing crisis and growing population, within that same time period. Tiny 2x4m coffins where people can own so much as a bed, a houseplant, a suitcase, a lamp and a smartphone to kill some time with, aside from spending the rest of the day at work or shopping.
 
-There is only one solution to the problem of eternal real estate scarcity: the complete destruction and abolition of the Landlord class.
+"I will not eat the Bugs, I will not sleep in the Pod." thus became the rallying cry of reactionaries, who paradoxically also seem to be bothered by the more oppressive aspects of Capitalism. That's not to say that the World Economic Forum are the good guys here. Only that someone is finally getting a taste of their own medicine. Many of these reactionaries also happen to be admirers of billionaires like Elon Musk; all rallying under the delusion that somehow, somewhere, there's a 'Good Billionaire' out there who you can supposedly trust to inject a chip into your brain.
+
+Most political movements these days are highly unreasonable and riddled with contradictions, as I've previously explained. They never quite get to the root of the problem, but it's not surprising given how complicated the modern world has become. The average person does not possess the processing power needed to make sense of the world we currently live in, which is also why social media sites like Facebook tend to produce so many reactionary and uncreative movements like qAnon; a frankenstein monster made up of the most garden-variety conspiracy theories, seemingly plastered together with superglue. Everyone's grandma, aunt and uncle now has access to the biggest repository of human knowledge ever conceived, and it hasn't made us any wiser.
+
+Western countries are highly unlikely to ever solve the housing crisis, because solving the housing crisis will require either massive urban expansion, or Malthusian population control. Both of which are opposed by most people from both ends of the political spectrum. This means that societal breakdown and collapse into civil war is almost inevitable, at least in most Western countries. Here in New Zealand, that sentiment is even more pronounced. Everybody moans about housing unaffordability here, but even Dutch-style urbanization would be an inconceivable nightmare. If other humans make us so uncomfortable, why is Transhumanism then so vilified? The contradictions keep rolling in.
+
+There has only ever been one solution to the problem of neverending real estate scarcity: the complete destruction and abolition of the Landlord class. But if human race refuses to make a decision - we will have no option but to abandon the planet, if we ever hope to build a better world.
 
 ### Real Reason why we Hate to go to Work
 

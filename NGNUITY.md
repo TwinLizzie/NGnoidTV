@@ -49,7 +49,7 @@ Why did the Backyard Steel Furnace fail? And why did the Great Leap Forward fail
 
 Machines, on the other hand, do not have this problem. If everybody owned a 3d printer, built according to the same set of parts and the same set of instructions, as well as the same .stl files - they would all produce nearly identical items.
 
-At the end of the day, we still need raw energy. Unlike data and knowledge, which can be copied ad infinitum - raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink) will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
+At the end of the day, we still need raw energy. Unlike data and knowledge, which can be copied ad infinitum - raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink, the iron ore that we mine) will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
 
 ### What is Accelerationism?
 
@@ -71,9 +71,10 @@ Otherwise, yes - we will end up with a Google, Microsoft, Amazon, Tesla and Face
 - Automation must be encouraged and accelerated in order to bring about a post-scarcity economy and work-free society as soon as possible. Either through government policy, or by taking matters into our own hands through 3d printing, CNC machinery (Computer Numerical Control) and file sharing i.e. Digital Mutual Aid. Every second that isn't spent making your work as efficient as possible is a second wasted.
 - Automation must not come at the cost of human fitness. E.g. Using a mobility scooter instead of walking when you are not disabled. We must build a thriving culture centered around the pursuit of physical fitness and aesthetics, as well as the arts, crafts, scientific innovation and creative endeavours.
 - Automation must be used to regain our humanity, not to dehumanize us. We were hunter-gatherers before we became agricultural drones. We shall use our free time to explore the stars, conquer distant solar systems, find alien life, etc.
-- We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to. Period.
-- To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again become Hunter-gatherers.
-- This is why classical Marxism is incompatible with our movement. Classical Marxists are Agricultural Drones. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
+- Our techology tree must evolve away from reliance on centralized means of production. The less we rely on the supply chain, the better.
++ We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to. Period.
++ To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again become Hunter-gatherers.
++ This is why classical Marxism is incompatible with our movement. Classical Marxists are Agricultural Drones. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
 - Build a new society around the same values and principles as the Linux operating system.
 
 ### A Best Case Scenario for a Technological Singularity
@@ -110,7 +111,7 @@ Gone are the days of the Tom Andersons, who were maybe known for a couple of awk
 
 ### Creating a viable alternative to Communism and PieInTheSkyism
 
-What do I think of other Marxists? Better yet - what do I think about the Venus project? We pretty much want the same things, and would be happy to work together given the opportunity.
+My own interactions with Marxists (on the internet) haven't been as pleasant as I would have wanted them to be, admittedly. On the other hand, I have never contacted groups such as the Venus Project before. As a teenager, I used to be penpals with British philosopher David Pearce, for some time. The Abolitionist Project and Negative Utilitarianism had a profound influence on me in late high school (2009-2010), though it left a lot to be desired in terms of more immediate concerns such as the growing wealth gap and the rising costs of living. What do I think about the Venus project, anyway?  We pretty much want the same things, and would be happy to work together given the opportunity.
 
 The key difference is that the NGnuity: Renaissance seeks to start work on expediting the Singularity [immediately] and with no excuse. We're more focused on practicality; taking advantage of the tools that we have right now at our disposal in order to lay down the building blocks for a post-scarcity civilization.
 
@@ -166,7 +167,7 @@ However, the vast majority of people are far from being disciplined utilitarians
 
 ### Weaponizing Hustle Culture to the detriment of Capitalism
 
-We should view Work as a means to an end, not as a virtue in and of itself. Our true virtue should be to live a happy life free from disease and hardship, and allow everybody else to achieve the same.
+Our bodies never evolved to sit in front of computers, deprived of Vitamin D, typing out lines of code for hours at a time, leaking Melatonin under the glare of the blue fluorescent light. It is precisely because of this that we ought to view Work as a means to an end, not as a virtue in and of itself. Our true virtue should be to live a happy life free from disease and hardship, and allow everybody else to achieve the same.
 
 However, in order to get there, we have to work tirelessly - and [ruthlessly]. The emancipatory potential of technology is not going to unlock itself on its own. There are real and tangible rewards waiting for us at the end of the battlefield, after all, but only if we take control of the steering wheel ourselves.
 
@@ -214,11 +215,7 @@ Anarchists will always fail. r/WorkReform will fail, too. Thomas Hobbes was righ
 
 ### Technology is not the Enemy. Supply Chains are
 
-If I wanted to build myself a chair: I would go for a walk into the woods, chop some wood with a home-made axe, chisel out some clever joints, and build myself a chair. No nails required.
-
-If I wanted to grow some food: I could plant a few seeds, keep a pile of compost, keep an eye out for pests and disease, and then harvest the fruits of my labour.
-
-If I wanted to build myself just a handful of semiconductors: I would need an entire laboratory full of expensive equipment. See where this is going?
+Indeed, the less we rely on the supply chain, the better. If I wanted to build myself a chair: I would go for a walk into the woods, chop some wood with a home-made axe, chisel out some clever joints, and build myself a chair. No nails required. If I wanted to grow some food: I could plant a few seeds, keep a pile of compost, keep an eye out for pests and disease, and then harvest the fruits of my labour. If I wanted to build myself just a handful of semiconductors: I would need an entire laboratory full of expensive equipment. See where this is going?
 
 At the very core of the NGnuity: Renaissance is the idea that [every] human being should have access to the tools and the knowledge necessary to source everything they could possibly need for their own well-being and survival. Including medicine. Including semi-conductors. Including a simulation of human company. Etc.
 
@@ -272,16 +269,11 @@ Take countries like Thailand and Samoa for instance. Transgender and gender-nonc
 
 ### Fake news, Parallel Realities and Social Entropy
 
-As I had explained in previous paragraphs: today's world is marked by extreme political division, social media propaganda and a huge range of variations in public opinion. Outlandish beliefs. Bizarre fandoms. Echo chambers. Fake news. Chaos. Randomness. Social entropy.
+As I had explained in previous paragraphs: today's world is marked by extreme political division, social media propaganda. Outlandish beliefs. Bizarre fandoms. Echo chambers. Fake news. Chaos. Randomness. Social entropy.
 
-Is this merely the by-product of the internet age, giving everybody a microphone and a platform to express their biases, views and niches? Quite possibly, but it doesn't paint the whole picture.
+Is this merely the by-product of the internet age, giving everybody a microphone and a platform to express their biases, views and niches? Quite possibly, but it doesn't paint the whole picture. Liberalism, post-modernism and nihilism are at the root of the problem. People who don't believe in anything, will almost invariably fall for anything. Neo-Nazis thrive in post-modern, liberal, nihilistic environments, after all.
 
-Liberalism, post-modernism and nihilism are the cause of the problem. People who don't believe in anything, will almost invariably fall for anything. Neo-Nazis thrive in post-modern, liberal, nihilistic environments, after all.
-
-That's because, as I've explained before: if everything that we've taken for granted is now subject to question, if all of history is now subject to revision, and if all morality is now self-important, righteous and irrelevant - then even the most evil and awful beliefs could be reframed as being acceptable, too.
-
-Question everything a little bit, and you might just become a smarter and more interesting person.
-Question everything too much - and you'll end up justifying Nazism and Pedophilia.
+If everything that we've taken for granted is now subject to question, if all of history is now subject to revision, and if morality itself is now regarded as self-important, righteous and irrelevant, then even the most evil and awful beliefs could be reframed as being acceptable, too. Question everything a little bit, and you might just become a smarter and more interesting person. Question everything too much, and you could find yourself justifying Pedophilia.
 
 Understanding the nature of internet rabbit holes and echo-chambers is also helpful. How do some people arrive at Flat-earth beliefs, while others arrive at Homo-fascism and Anarcho-Primitivism? The internet, of course.
 
@@ -295,25 +287,17 @@ What is a Tankie? Tankies are left-leaning people, usually Westerners, whose 'ac
 
 Why are Tankies ineffective as leftists? Because none of these regimes offer anything useful to the present day realities of the leftist cause, aside from fueling anti-Western propaganda (which is usually weaponized and co-opted by right-wingers and conservatives, anyway).
 
-Why do people become Tankies? Because they're weak and powerless, and they can be forgiven for that. We as leftists should always stand up for the weak and powerless.
+Why do people become Tankies? Because they're weak and powerless, and they can be forgiven for that. We as leftists should always stand up for the weak and powerless. In short - Tankyism is on the rise because Liberal Democracy is beset by an inability to generate Radical Change. That's it.
 
-In short - Tankyism is on the rise because Liberal Democracy is beset by an inability to generate Radical Change. That's it.
+There's a certain slang used to describe this type of personality. It's a word usually reserved for men who donate money to young, good-looking, female live-streamers in hopes of getting so much as an acknowledgment in the group chat. It's called a Simp. Simping for billionaires, oligarchs and right-wing authoritarians is not going to change anything, but I suppose it could provide a temporary form of delusional Escapism for some people.
 
-Simping for billionaires, oligarchs and authoritarians is not going to change anything. But I suppose it could provide a temporary form of delusional Escapism for some people.
+"Fine. I don't want to be a Tankie. I don't want to be a Trump supporter. What should I be, instead? I'm still angry and want radical change in my life!" What you should be doing is creating your own Revolutionary movements. Appointing your own strong and charismatic leaders. And then matching the success of the emancipatory movements of the past, as opposed to nostalgically worshipping them for the rest of eternity, in hopes that they'll rise from the dead.
 
-"Fine. I don't want to be a Tankie. I don't want to be a Trump supporter. What should I be, instead? I'm still angry and want radical change in my life!"
-
-What you should be doing is creating your own Revolutionary movements. Appointing your own strong and charismatic leaders. And then matching the success of the emancipatory movements of the past, as opposed to nostalgically worshipping them for the rest of eternity, in hopes that they'll rise from the dead.
-
-Worship the future - not the Past. Create your own movements that reflect what you truly believe in - don't piggy back off of someone else's.
-
-Piggy-backing off of other movements means you'll forever be at the mercy of their flaws and imperfections. Was the USSR homophobic? Did Mao really kill 20 million people? Is Putin a socialist, or a fascist? Is present-day China capitalist, or socialist? Should I give my critical support to Xi Jinping?
+Worship the future, not the Past. Create your own movements that reflect what you truly believe in. Don't piggy back off of someone else's. Piggy-backing off of other movements means you'll forever be at the mercy of their flaws and imperfections. Was the USSR homophobic? Did Mao really kill 20 million people? Is Putin a socialist, or a fascist? Is present-day China capitalist, or socialist? Should I give my critical support to Xi Jinping?
 
 See, none of these things would matter if you just created a new movement from scratch, and let go of the past. Yes, you will struggle to find followers and supporters at first. Yes, people these days are incredibly weak and uncreative. Yes, you will feel immature and self-important. But at least you'll have a clean conscience. And you won't have to worry about whether or not your ideology can accomodate gays, lesbians and trans people - because, it'll be [your] movement.
 
-This doesn't just apply to tankies. It apples to everything from problematic fandoms such as furries, bronies and weebs, all the way to Donald Trump and Elon Musk supporters.
-
-For God's sakes - stop simping! Stop copying someone else's homework. Stop putting your hopes on rich people to solve your problems for you. Do [You].
+This doesn't just apply to tankies. It apples to everything from problematic fandoms such as furries, bronies and weebs, all the way to Donald Trump and Elon Musk supporters. For God's sakes, stop simping! Stop copying someone else's homework. Stop putting your hopes on rich people to solve your problems for you. Do [You].
 
 ### We Work to pay Rent. Not to purchase Goods and Services
 

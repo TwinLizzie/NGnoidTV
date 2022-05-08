@@ -237,9 +237,7 @@ Civilization is a separate organism in and of itself. 'The Machine', if you will
 
 But that's not the fault of technology and civilization per se. The real problem is the 'bad' use of technology, as well as bad political systems. Capitalism is the problem. Period.
 
-Reform has already been tried. Communism has already been tried. It's a dead end. Early 21st century culture seems to have an obsession with nostalgia, revival and 'reboots' - something that seems to permeate not just the entertainment industry, but even politics itself.
-
-We need new ideas.
+Reform has already been tried. Communism has already been tried. It's a dead end. Early 21st century culture seems to have an obsession with nostalgia, revival and 'reboots' - something that seems to permeate not just the entertainment industry, but even politics itself. We need new ideas.
 
 ### Liberal Democracy is beset by an inability to generate Radical Change
 
@@ -283,15 +281,15 @@ Had you not ended up a flat-Earther, you may have ended up a New Age mystic sell
 
 ### Tankies, Trumpers, Celebrity Worship and Simping
 
-What is a Tankie? Tankies are left-leaning people, usually Westerners, whose 'activism' and praxis is almost exclusively limited to: cheering for authoritarian regimes that have very little to do with Socialism (e.g. Rodrigo Duterte, Vladimir Putin, Bashar Al Assad, etc.) or showing nostalgic admiration for Soviet-era regimes that have long ceased to exist and are no longer relevant to our modern digital age (e.g. USSR, Maoist China, etc.).
+What is a Tankie? Tankies are left-leaning people, usually Westerners, whose 'activism' and praxis is almost exclusively limited to: cheering for authoritarian regimes that have very little to do with Socialist movements (e.g. Rodrigo Duterte, Vladimir Putin, Bashar Al Assad, etc.) or showing nostalgic admiration for Soviet-era regimes that have long ceased to exist and are no longer relevant to our modern digital age (e.g. USSR, Maoist China, etc.).
 
 Why are Tankies ineffective as leftists? Because none of these regimes offer anything useful to the present day realities of the leftist cause, aside from fueling anti-Western propaganda (which is usually weaponized and co-opted by right-wingers and conservatives, anyway).
 
-Why do people become Tankies? Because they're weak and powerless, and they can be forgiven for that. We as leftists should always stand up for the weak and powerless. In short - Tankyism is on the rise because Liberal Democracy is beset by an inability to generate Radical Change. That's it.
+Why do people become Tankies? Because they're weak and powerless, and they can be forgiven for that. We as leftists should always stand up for the weak and powerless. In short, 'Tankyism' is on the rise because Liberal Democracy is beset by an inability to generate Radical Change. That's it.
 
-There's a certain slang used to describe this type of personality. It's a word usually reserved for men who donate money to young, good-looking, female live-streamers in hopes of getting so much as an acknowledgment in the group chat. It's called a Simp. Simping for billionaires, oligarchs and right-wing authoritarians is not going to change anything, but I suppose it could provide a temporary form of delusional Escapism for some people.
+There's a certain slang used to describe this type of personality. It's a word usually reserved for men who donate money to young, good-looking, female live-streamers in hopes of getting so much as an acknowledgment in the group chat. It's called a Simp. Simping for billionaires, oligarchs and right-wing authoritarians is not going to change anything, but I suppose it could provide a temporary form of delusional escapism for some people.
 
-"Fine. I don't want to be a Tankie. I don't want to be a Trump supporter. What should I be, instead? I'm still angry and want radical change in my life!" What you should be doing is creating your own Revolutionary movements. Appointing your own strong and charismatic leaders. And then matching the success of the emancipatory movements of the past, as opposed to nostalgically worshipping them for the rest of eternity, in hopes that they'll rise from the dead.
+"Fine. I don't want to be a Tankie. I don't want to be a Trump supporter. What should I be, instead? I'm still angry and want radical change in my life!" What you should be doing is creating your own Revolutionary movements. Appointing your own strong and charismatic leaders. And then matching the success of the emancipatory movements of the past, as opposed to nostalgically worshipping them for the rest of eternity, in hopes that they'll rise from the dead. Build ladders, not pedestals.
 
 Worship the future, not the Past. Create your own movements that reflect what you truly believe in. Don't piggy back off of someone else's. Piggy-backing off of other movements means you'll forever be at the mercy of their flaws and imperfections. Was the USSR homophobic? Did Mao really kill 20 million people? Is Putin a socialist, or a fascist? Is present-day China capitalist, or socialist? Should I give my critical support to Xi Jinping?
 

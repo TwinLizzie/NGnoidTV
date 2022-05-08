@@ -317,7 +317,7 @@ Most political movements these days are highly unreasonable and riddled with con
 
 Western countries are highly unlikely to ever solve the housing crisis, because solving the housing crisis will require either massive urban expansion, or Malthusian population control. Both of which are opposed by most people from both ends of the political spectrum. This means that societal breakdown and collapse into civil war is almost inevitable, at least in most Western countries.
 
- Here in New Zealand (a country that is becoming notorious for its housing unaffordability) that sentiment is even more pronounced. This is usually referred to as NIMBY (Not in my Backyard i.e. I don't want to live next to poor people blocking my view of the hills). Everybody moans about housing unaffordability here, but even Dutch-style urbanization would be an inconceivable nightmare to them. If other humans make us so uncomfortable, why is Transhumanism then so vilified? The contradictions keep rolling in.
+Here in New Zealand (a country that is becoming notorious for its housing unaffordability) that sentiment is even more pronounced. This is usually referred to as NIMBY (Not in my Backyard i.e. I don't want to live next to poor people blocking my view of the hills). Everybody moans about housing unaffordability here, but even Dutch-style urbanization would be an inconceivable nightmare to them. If other humans make us so uncomfortable, why is Transhumanism then so vilified? The contradictions keep rolling in.
 
 This does not seem to be a problem in technocratic countries like China, which is poised to economically overtake the West in a few years. If the Chinese communist government wants to build more housing, they will build more housing, whether you like it or not, and have it completed in a matter of weeks. Days, even. NIMBY's be damned. This is one of the reasons why there's so much anxiety and animosity surrounding the topic of China, because if China really does end up overtaking the West, then that will be the end of Liberal Democracy.
 
@@ -327,35 +327,33 @@ The housing crisis is tearing the West apart. So build more houses. If Landlords
 
 ### Real Reason why we Hate to go to Work
 
-Why do we hate Work so much? It used to be that we could work a day job, come home to a husband/wife and kids, save up for a house, be happy, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.
+Why do we hate Work so much? It used to be that we could work a day job, come home to a husband/wife and kids, save up for a house, live happily ever after, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.
 
 We no longer live in this world. Not even close. Anybody who tells you otherwise is delusional.
 
 Birth rates are plummetting, costs of living are on the rise, costs of housing are on the rise. People sit on their phones at lunch break instead of talking to each other. Co-workers hate each other. Asking someone out for a coffee in your workplace is now Sexual Harrassment.
 
-Bosses were always jackasses, but having those nice little moments inbetween are what made work tolerable. We no longer have any of those nice moments at work - it's all been replaced with grim, existential endurance at this point. The average person works just to come home and eat themselves into a coma while watching Netflix and scrolling social media. No purpose, no soul, no humanity.
+Bosses were always jackasses, but having those nice little moments inbetween are what made work tolerable. We no longer have any of those nice moments at work. It's all been replaced with grim, existential endurance at this point. The average person works just to come home and eat themselves into a coma while watching Netflix and scrolling social media. No purpose, no soul, no humanity.
 
 The modern workplace has become an extremely toxic environment, and quite frankly, there is no going back. You can dream on all you want about your nostalgic revival of the 'glory days'. They're not coming back.
 
-What lies ahead is a very decadent and dystopian landscape. Death would be preferable to working under such a system. I personally feel creeped out and disgusted every day I walk past the classic, cookie-cutter, white picket fence suburbs these days, which are usually inhabited by overweight, overworked individuals above the age of 50 who, quite frankly, are too tired to even enjoy life in the weekends. They call them Boomers and late Gen X'ers.
+What lies ahead is a very decadent and dystopian landscape. Death would be preferable to working under such a system. I personally feel creeped out and disgusted every day I walk past the classic, cookie-cutter, white picket fence suburbs these days, which are usually inhabited by overweight, overworked individuals above the age of 50 who you will never see at home until well after the sunset. Folks too tired to even enjoy life in the weekends. They call them Boomers and late Gen X'ers.
 
-I consider them to be ghosts of a bygone era. I've had family members who got sick and ended up on disability later in life as a result of workplace injuries in their youth, oftentimes when dealing with hazardous chemicals. They are injured veterans of a meaningless economic war - where victory means piling up the oceans and landfills with ever increasing amounts of trash and discarded consumer items. Old 'toys' that people never really had the time to enjoy.
+I consider them to be ghosts of a bygone era. I've had family members who got sick and ended up on disability later in life as a result of workplace injuries in their youth, oftentimes when dealing with hazardous chemicals. They are injured veterans of a meaningless economic war - where victory means piling up the oceans and landfills with ever increasing amounts of trash and discarded consumer items. Old 'toys' that people never really had the time to enjoy. Clothes that no longer fit. Fast-food and takeaway utensils.
 
 We must fight the old world till the bitter end. Fight the reactionaries who get in the way of progress. All reactionaries are a paper tiger; for the soul can tell whether or not it is fighting and dying for a just cause.
 
 ### Weaknesses and Strengths of the Antiwork movement
 
-Let's face it - you're going to be ridiculed for being Anti-work, which is why it is important to build emotional and economic self-reliance. Not [just] economic self-reliance. Having a robot companion to compensate for extended periods of solitude and alienation would be an advantage.
+At some point you're going to be ridiculed for adhering to the Anti-work ideology, which is why it is important to build emotional and economic self-reliance. Not [just] economic self-reliance. Long commutes, long working hours and even Work From Home are making political activism and community organizing harder than ever. Having an android companion to compensate for extended periods of solitude and alienation would be an advantage.
 
-It's still better than continuing to feed a decadent, filthy, collapsing dystopia. Stop caring what people think. In fact - just delete social media, and learn to walk alone for a while.
+The Great Resignation is arguably the biggest victory that the Western Left has ever had in the past half a century, despite being a rather passive form of activism. It's currently better to be unemployed than it is to continue tube-feeding a collapsing system on life support. It would pay to stop caring what people think. In fact, just delete social media, and learn to walk alone for a while.
 
-People seem to have more respect for those who commit suicide than those who simply drop out of the system. Those people are so reliant on validation from the system - they will fight to their deaths in order to defend it. The Protestant work ethic continues to haunt even the most ardent and fantatical leftists to this day.
+People seem to have more respect for those who commit suicide than those who simply drop out of the system. Those people are so reliant on validation from the system - they will fight to their deaths in order to defend it. The Protestant work ethic continues to haunt even the most ardent and fantatical of leftists to this day.
 
-We've already seen it with the downfall of the r/Antiwork movement. They seemed to almost be [ashamed] of the things they believe in, to the point of actively watering down everything that comes out of their mouths.
+We've already seen it with the downfall of the r/Antiwork movement. They seemed to almost be [ashamed] of the things they believe in, to the point of actively watering down everything that comes out of their mouths. Frankly, the only thing worth dying for would be to put an end to this nightmare. Better dead than 'Red'. Better dead than Blue, for the matter.
 
-Frankly - the only thing worth dying for would be to put an end to this nightmare. Better dead than 'Red'. Better dead than Blue, for the matter.
-
-That's actually the beauty of this movement. It doesn't need the whole world to be on board in order to succeed. If we could just get one person to build themselves a fully automated, economically self-sufficient homestead - we've won the war.
+The beauty of the NGnuity: Renaissance is that it doesn't need the whole world to be on board in order for it to be successful. If we could just get one person to build themselves a fully automated, economically self-sufficient homestead, then we've won the economic war. Parallel economies and massive boycotts of industries would cause even more layoffs and bankruptcies, accelerating the progression toward the final showdown.
 
 ### A Call to Never Surrender. A Call to Anti-Capitalist Jihad
 

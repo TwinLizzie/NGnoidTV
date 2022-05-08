@@ -337,7 +337,7 @@ Western countries are highly unlikely to ever solve the housing crisis, because 
 
 This does not seem to be a problem in technocratic countries like China, which is poised to economically overtake the West in a few years. If the Chinese communist government wants to build more housing, they will build more housing, whether you like it or not, and have it completed in a matter of weeks. Days, even. NIMBY's be damned. This is one of the reasons why there's so much anxiety and animosity surrounding the topic of China, because if China really does end up overtaking the West, then that will be the end of Liberal Democracy. For the better, or for the worse.
 
-There has only ever been one solution to the problem of neverending real estate scarcity: the complete destruction and abolition of the Landlord class. But if human race refuses to make a decision - we will have no option but to abandon the planet, if we ever hope to build a better world.
+There has only ever been one solution to the problem of neverending real estate scarcity: the complete destruction and abolition of the Landlord class. But if the human race refuses to make a decision - we will have no option but to abandon the planet, if we ever hope to build a better world. That is, assuming that China and the Yuan don't end up outright replacing the Western, liberal and U.S. dollar hegemony altogether, without a thermonuclear World War 3.
 
 ### Real Reason why we Hate to go to Work
 

@@ -335,7 +335,7 @@ Birth rates are plummetting, costs of living are on the rise, costs of housing a
 
 Bosses were always jackasses, but having those nice little moments inbetween are what made work tolerable. We no longer have any of those nice moments at work. It's all been replaced with grim, existential endurance at this point. The average person works just to come home and eat themselves into a coma while watching Netflix and scrolling social media. No purpose, no soul, no humanity.
 
-The modern workplace has become an extremely toxic environment, and quite frankly, there is no going back. You can dream on all you want about your nostalgic revival of the 'glory days'. They're not coming back.
+We're no longer the heroes and protagonists of our own stories, but mere observers, indulging in the passive stimulation of our lizard-brains and primitive senses. The modern workplace has become an extremely toxic environment, and quite frankly, there is no going back. You can dream on all you want about your nostalgic revival of the 'glory days'. They're not coming back.
 
 What lies ahead is a very decadent and dystopian landscape. Death would be preferable to working under such a system. I personally feel creeped out and disgusted every day I walk past the classic, cookie-cutter, white picket fence suburbs these days, which are usually inhabited by overweight, overworked individuals above the age of 50 who you will never see at home until well after the sunset. Folks too tired to even enjoy life in the weekends. They call them Boomers and late Gen X'ers.
 

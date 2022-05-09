@@ -342,7 +342,7 @@ What lies ahead is a very decadent and dystopian landscape. Death would be prefe
 
 I consider them to be ghosts of a bygone era. I've had family members who got sick and ended up on disability later in life as a result of workplace injuries in their youth, oftentimes when dealing with hazardous chemicals. They are injured veterans of a meaningless economic war - where victory means piling up the oceans and landfills with ever increasing amounts of trash and discarded consumer items. Old 'toys' that people never really had the time to enjoy. Clothes that no longer fit. Fast-food and takeaway utensils.
 
-We must fight the old world till the bitter end. Fight the reactionaries who get in the way of progress. All reactionaries are a paper tiger; for the soul can tell whether or not it is fighting and dying for a just cause.
+We must fight the old world till the bitter end. Fight the reactionaries who get in the way of progress. All reactionaries are a paper tiger; for the soul can tell whether or not it is choosing to fight and die for a just cause.
 
 ### Weaknesses and Strengths of the Antiwork movement
 
@@ -476,13 +476,11 @@ The NGnuity: Renaissance is anarchist at heart, while still prescribing realist 
 
 ### On Fascism, Human Nature and Post-Humanism
 
-Is human nature fundamentally evil and doomed to be corrupted? Yes, and I'll explain why.
+Is human nature fundamentally evil and doomed to be corrupted? Yes, and I'll explain why. Let's pretend that only a tiny minority of human beings fit the violent, conquering, psychopathic, selfish 'bad apples' category. How can a single apple, spoil the rest of the ones in the bucket?
 
-Let's pretend that only a tiny minority of human beings fit the violent, conquering, psychopathic, selfish 'bad apples' category. How can a single apple, spoil the rest of the ones in the bucket?
+Violence is far more effective that non-violence. If even just a small number of human beings turn out to be violent egomaniacs, this can still trigger a reaction causing everybody else to put their guards up and arm themselves in order to defend against said violent egomaniacs.
 
-Violence is far more effective that non-violence. If even just a small number of human beings turn out to be violent egomaniacs, this can still force everybody else to put their guards up and arm themselves in order to defend against said violent egomaniacs.
-
-Evil breeds more evil. Hatred breeds more hatred. And the more evil and hatred is bred, the more distrust is created across human societies. Children don't usually grow up instinctively distrusting everybody else around them and thinking the worst of them. It is only as a result of repeated negative experiences and encounters that people wind up jaded, cynical and oftentimes paranoid about their fellow man.
+Most evil tends to come about as a reaction against evil. True evil is linked to sadism, and is rarely a vengeful overreaction against lesser evils, but rather, a genuine enjoyment of watching other people suffer. Hatred breeds more hatred. And the more evil and hatred is bred, the more distrust is created across human societies. Children can be pretty reactionary, but children don't usually grow up instinctively distrusting everybody else around them and thinking the worst of them. It is only as a result of repeated negative experiences and encounters that people wind up jaded, cynical and oftentimes paranoid about their fellow man. Bad parenting produces the same outcomes.
 
 Take the hoarding of toilet paper and food, for instance. This is a classical Game Theory phenomenon we've had the fortune to observe throughout the Covid19 pandemic of the 2020s. If the person at the front of the queue is hoarding toilet paper and food, that means there's less toilet paper and food available for the person at the back of the queue.
 
@@ -490,11 +488,24 @@ The person at the back of the queue might think that they are smarter than the p
 
 These are all the same phenomena behind wars, civil unrest, economic disaster, stampedes (especially stampedes) and so on and so forth. It only takes [one] person to ruin it for everybody else, and kickstart the chain of events leading to societal breakdown and collapse.
 
-Effectively, this implies that [unless] we can get 100% of all people to be cooperative, trusting and selfless, we will always be doomed to produce broken societies.
-
-A small amount of bad apples [will absolutely] spoil the bunch. Which is why I firmly believe that only governments run by Artificial Intelligence agents can produce better societies than what we have now.
 
 It doesn't usually feel this way in our day-to-day lives. We go to work, say hello to our coworkers. We go to the supermarket, buy some food, say hello to our cashiers. Everything feels normal - until your boss asks you to fill in your time sheets, and the cashier asks to check your ID for your bottle of wine - and our trust of our fellow man is called into question.
+
+Effectively, this implies that [unless] we can get 100% of all people to be cooperative, trusting and selfless, we will always be doomed to produce broken societies. It could even be argued that some of the innate drives toward racism are hardwired in our DNA. Studies show that we tend to be more attracted to people who share similar facial features to our own, but it's still not limited to members of our own race.
+
+Nature doesn't have a will; nature just [is]. Whatever can exist, should exist, in the eyes of mother nature. It's the mightiest and most adaptive who survive, not necessarily a certain race. If Neo-Nazis and white supremacists consider themselves God's chosen ones, they ought to prove it in the battlefield first.
+
+On the 24th of February, 2022, Russia had invaded Ukraine. The supposed 'denazification' of Ukraine was stated as a pretext for the war, disregarding Russia's own plague of actual Nazi far-right groups roaming its own streets, within its own borders. Yet Vladimir Putin wasn't lying about Ukraine having a genuine Neo-nazi problem. Communist Parties and Soviet memorabilia are banned in the Ukraine. Statues of Vladimir Lenin are toppled. Statues of Stepan Bandera (a Ukranian Nazi sympathizer), on the other hand, are erected proudly. Many Ukranians were led to believe that Hitler was the lesser evil compared to Stalin, whose collectivist agrarian policies in the Ukraine led to a humanitarian disaster. Ukraine would have still suffered a second blow, and the Banderistas would have ironically all been executed as traitors, had Hitler and the nazis not been defeated by the Soviets.
+
+So what is it about Neo-Nazism that is seemingly causing it to gain traction all over the Western world? Do human beings just naturally turn into monsters in times of economic crisis? After my own keen research and observation, I have determined that it all stems from hyper-Masculinity. I wouldn't necessarily say that it stems from 'fragile' masculinity, as a lot of fascist recruits tend to be good looking heterosexual men who wouldn't normally have a problem finding a girlfriend.
+
+There's two categories of fascist men we ought to be paying attention to: The 'Football Hooligan', and the 'Peter Pan'. The 'Football Hooligan' tends to be virile and physically fit. They're often covered in tattoos. They might be part of a biker gang. They might have grown up in poverty in an abusive household. They might have played on the streets as children; hanging out with other kids who also parroted their poorly educated parent's anti-semitic sentiments. Their destructiveness often stems from boredom and pent up energy, more than it stems from a sense of masculine fragility. Low socioeconomic status and lack of career prospects reinforce the behavioral pattern.
+
+The Peter Pans, on the other hand, are a completely different breed of fascist. They tend to be quiet, geeky, skinny. They hang out in online message boards such as 4chan, 8chan, Stormfront, etc. They are introverted and middle class. They might be incredibly knowledgeable on subjects of human history, particularly the history of Ancient Rome. Their destructiveness stems from envy and resentment of other men; fragile masculinity, moreso than boredom and pent up energy. They might view ethnic minorities as more sexually successful than they are. The term 'incel' is a slang commonly used to describe these types of men; Involuntary Celibates. Quite literally, men who cannot find girlfriends.
+
+Neo-nazis aren't particularly rational or coherent people. There's a reason why they're called Reactionaries. Some people just want to be hated. Being a Neo-Nazi is often the modern day equivalent of worshipping Satan and having 666 tattooed on your forehead. It is the simplest way of displaying contempt for the society you currently live in, and though it might start out that way, it can evolve into a more sophisticated ideological committment as time goes by. And that basically explains the stupidity of Neo-nazis in Slavic countries.
+
+A small amount of bad apples [will absolutely] spoil the bunch, needless to say. Which is why I firmly believe that only governments run by Artificial Intelligence agents can produce better societies than what we have now.
 
 Why be a perfectionist, why not just accept things the way they are, and harden up to the harsh realities of the world? Because it would defeat the entire purpose of our mission, as well as the human spirit. We can either embrace extinction, or we can fast-track the evolution of man to the next level, by whatever means necessary.
 

@@ -1,5 +1,7 @@
 ## NGnuity: Renaissance - Manifesto for a New Left
 
+by Denise Jaimes, Supreme Leader of New Oceania
+
 <img width="200" alt="ngnuity icon" src="https://github.com/TwinLizzie/Sylvie-2021/blob/master/images/web_photos/cat_space_symbol.png">
 
 ### Table of Contents
@@ -37,7 +39,7 @@ The NGnuity: Renaissance aims to create an ecosystem of open source software and
 
 ### What is Post-scarcity?
 
-Think the Venus Project or the Zeitgeist Movement. Some also like to call it Fully Automated Luxury Communism. Yet Marxist schools of thought tend to be in favour of an exclusively worker-controlled economy. You're a human, not a worker. In a post-scarcity economy, people will be free to choose whether or not they wish to be workers (the bee), or idlers (the cat).
+Think the Venus Project or the Zeitgeist Movement. Some also like to call it Fully Automated Luxury Communism. Yet Marxist schools of thought tend to be in favour of an economy created by the worker, for the worker. You're a human being, not a worker. In a post-scarcity economy, people will be free to choose whether or not they wish to be workers (the bee), or idlers (the cat).
 
 Who controls a post-scarcity economy, if not the workers? The collective does, of course - yet it is extremely important not to rely on the word [Worker], as this would imply that someone living in a post-scarcity economy can be anything but.
 
@@ -45,11 +47,11 @@ A post-scarcity economy is entirely resource-based. The blueprints for the full 
 
 During the Chinese Great Leap Forward (1958-1962), Mao Zedong proposed the idea of the Backyard Steel Furnace. Peasants would build themselves improvised, homemade steel furnaces in their backyards so as to boost steel production for the country. Documentaries on steel-making were distributed to people in order to fill in the gaps in their knowledge.
 
-Why did the Backyard Steel Furnace fail? And why did the Great Leap Forward fail? It failed because it takes years to build the skills and expertise needed to master a particular craft. It was also unscientific, as the Maoist movement tended to be anti-intellectual and peasant-oriented in some aspects; not unlike the way Southern U.S., rust-belt, rural Americans tend to dismiss the voices of the scientific community and experts they deem to be condescending and elitist.
+Why did the Backyard Steel Furnace fail? And why did the Great Leap Forward fail? It failed because it takes years to build the skills and expertise needed to master a particular craft. It was also unscientific, as the Maoist movement was known to be anti-intellectual and peasant-oriented in some aspects; not unlike the way Southern U.S., rust-belt, rural Americans tend to dismiss the voices of the scientific community and experts they deem to be condescending and elitist.
 
-Machines, on the other hand, do not have this problem. If everybody owned a 3d printer, built according to the same set of parts and the same set of instructions, as well as the same .stl files - they would all produce nearly identical items.
+Additive manufacturing machines, on the other hand, provide a workaround to this problem. If everybody owned a 3d printer, built according to the same set of parts and the same set of instructions, as well as the same .stl files, they would all produce nearly identical items.
 
-At the end of the day, we still need raw energy. Unlike data and knowledge, which can be copied ad infinitum - raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink, the iron ore that we mine) will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
+In spite of the inherent brilliance of this technology, we still need raw energy. Unlike data and knowledge, which can be copied ad infinitum - raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink, the iron ore that we mine) will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
 
 ### What is Accelerationism?
 
@@ -57,25 +59,24 @@ Accelerationism is often used interchangably with Terrorism these days; delibera
 
 This isn't what Accelerationism means in literature. Left-wing accelerationism typically seeks to encourage and expedite automation, technological progress and 'ride the wave of Capitalist economic growth' all the way to an egalitarian, technology-fueled Utopia.
 
-Some people view this as irresponsible and destructive. In their view, automation is more likely to bring about a dystopian future and exacerbate inequality, rather than emancipate us from it.
+Some people view this as irresponsible and destructive. In their view, automation is more likely to bring about a dystopian future and exacerbate economic inequality, rather than emancipate us from it. The truth, I believe, lies somewhere in the middle. Automation will only bring about a better world if we actively partake in its development ourselves. As long as [we] write the code. As long as [we] build the machines.
 
-The truth, I believe, lies somewhere in the middle. Automation will only bring about a better world if we actively partake in its development ourselves. As long as [we] write the code. As long as [we] build the machines.
-
-Otherwise, yes - we will end up with a Google, Microsoft, Amazon, Tesla and Facebook one-world-government.
+Only if we let go of the steering wheel, will we end up with a Google, Microsoft, Amazon, Tesla and Facebook one-world-government.
 
 ### A New Philosophy of Automation
 
-- The simplest approach to automation is the best approach. e.g. Which is better: A cat door, or an automatic door opener with a built-in camera and computer vision?
-- Prioritize owning tools that can be used to build as many other tools as possible. e.g. A cordless drill has greater utility than a box full of screw drivers. A 3d printer has more utility than a paper printer. A desktop computer has more utility than a Television. etc. You can't build everything at home, but if you have a good enough metal, glass and fabric 3d printer, you can easily print yourself the tools needed to make almost everything else.  
+- Automation systems must be engineered with simplicity in mind. e.g. Which is better: A cat door, or an automatic door opener with a built-in camera and computer vision?
+- Automated means of production must aim for maximum self-replicating potential and utility. e.g. A cordless drill has greater utility than a box full of screw drivers. A 3d printer has more utility than a paper printer. A desktop computer has more utility than a Television. etc. You can't build everything at home, but if you have a good enough metal, glass and fabric 3d printer, you can easily print yourself the tools needed to make almost everything else.  
 - Automation must never be used to maximize profits, but to reduce working hours and the cost of goods and services for society as a whole.
-- Automation must be encouraged and accelerated in order to bring about a post-scarcity economy and work-free society as soon as possible. Either through government policy, or by taking matters into our own hands through 3d printing, CNC machinery (Computer Numerical Control) and file sharing i.e. Digital Mutual Aid. Every second that isn't spent making your work as efficient as possible is a second wasted.
-- Automation must not come at the cost of human fitness. E.g. Using a mobility scooter instead of walking when you are not disabled. We must build a thriving culture centered around the pursuit of physical fitness and aesthetics, as well as the arts, crafts, scientific innovation and creative endeavours.
+- Automation must be encouraged and accelerated in order to bring about a post-scarcity economy and work-free society as soon as possible. Either through government policy, or by taking matters into our own hands.
+- Automation must not come at the cost of human fitness. E.g. Using a mobility scooter instead of walking when you are not disabled. 
+- + We must build a thriving culture centered around the pursuit of physical fitness and aesthetics, as well as the arts, crafts, scientific innovation and creative endeavours.
 - Automation must be used to regain our humanity, not to dehumanize us. We were hunter-gatherers before we became agricultural drones. We shall use our free time to explore the stars, conquer distant solar systems, find alien life, etc.
-- Our techology tree must evolve away from reliance on centralized means of production. The less we rely on the supply chain, the better.
+- Our techology tree must evolve away from reliance on centralized means of production. The less we rely on supply chains, the better.
 - + We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to. Period.
 - + To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again become Hunter-gatherers.
-- + This is why classical Marxism is incompatible with our movement. Classical Marxists are Agricultural Drones. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
-- Build a new society around the same values and principles as the Linux operating system.
+- + This is why classical Marxism may be incompatible with our movement. Classical Marxist mentality still leans heavily toward the Agricultural Drone lifestyle. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
+- Automation shall enable the creation of a new society built around the same values and principles as the Linux operating system.
 
 ### A Best Case Scenario for a Technological Singularity
 
@@ -97,13 +98,11 @@ Where we go from there, is a choice I leave to you.
 
 The Big Tech motto is: You will own Nothing, and you will be Happy. Our motto is: You will be able to own Everything you can possible imagine, and it'll be up to you to use that power responsibly.
 
-Some people believe that mainstream 3D printing (especially metal 3d printing) is going to become too dangerous if left unregulated, as anybody will be able to print themselves e.g. a firearm, if they wanted to.
-
-We think this is a good thing. That which isn't dangerous, is useless. 3D printing shouldn't be an expensive toy that bored silicon valley hipsters play around with in their spare time. In order for it to truly transform the world, it [absolutely has to] dare to be dangerous.
+Some people believe that mainstream 3D printing (especially metal 3d printing) is going to become too dangerous if left unregulated, as anybody will be able to print themselves e.g. a firearm, if they wanted to. We think this is a good thing. That which isn't dangerous, is useless. 3D printing shouldn't be an expensive toy that bored silicon valley hipsters play around with in their spare time. In order for it to truly transform the world, it [absolutely has to] dare to be dangerous.
 
 It should become so dangerous that anybody could build themselves an ICBM in their garage and shoot down the international space station, if they wanted to. Or land a small rover on the moon and kickstart an era of DIY space exploration.
 
-Big Tech had been dominating the internet as we know it for quite some time, yet it is only very recently that the CEO's of these companies have come out of the closet with some sort of a God complex; making Steve Jobs look like a saint by comparison. Elon Musk has attracted significant attention and notoriety for tweeting like a reactionary 15 year old, going as far as buying Twitter in order to secure even greater political power and influence. Mark Zuckerberg won't stop talking about his Metaverse pet project.
+Big Tech had been steering the evolution of internet culture as we know it for quite some time, yet it is only very recently that the CEO's of these companies have come out of the closet with some sort of a God complex; making Steve Jobs look like a saint by comparison. Elon Musk has attracted significant attention and notoriety for tweeting like a reactionary 15 year old, going as far as buying Twitter in order to secure even greater political power and influence. Mark Zuckerberg won't stop talking about his Metaverse pet project.
 
 It used to be that the CEOs of Big Tech companies stayed at the back of our minds as we went on about our lives, only occasionally making the news headlines with every new product release. Not anymore. Billionaires are now worshipped as Gods on their own platforms where they wield a significant online presence.
 
@@ -111,13 +110,13 @@ Gone are the days of the Tom Andersons, who were maybe known for a couple of awk
 
 ### Creating a viable alternative to Communism and PieInTheSkyism
 
-My own interactions with Marxists (on the internet) haven't been as pleasant as I would have wanted them to be, admittedly. On the other hand, I have never contacted groups such as the Venus Project before. As a teenager, I used to be penpals with British philosopher David Pearce, for some time. The Abolitionist Project and Negative Utilitarianism had a profound influence on me in late high school (2009-2010), though it left a lot to be desired in terms of more immediate concerns such as the growing wealth gap and the rising costs of living. What do I think about the Venus project, anyway?  We pretty much want the same things, and would be happy to work together given the opportunity.
+My own interactions with Marxists (on the internet) haven't been as pleasant as I would have wanted them to be, admittedly. I have never contacted groups such as the Venus Project before. As a teenager, I used to be penpals with British philosopher David Pearce, for some time. The Abolitionist Project and Negative Utilitarianism had a profound influence on me in late high school (2009-2010), though it left a lot to be desired in terms of more immediate concerns such as the growing wealth gap and the rising costs of living. What do I think about the Venus project, anyway?  We pretty much want the same things, and would be happy to work together given the opportunity.
 
 The key difference is that the NGnuity: Renaissance seeks to start work on expediting the Singularity [immediately] and with no excuse. We're more focused on practicality; taking advantage of the tools that we have right now at our disposal in order to lay down the building blocks for a post-scarcity civilization.
 
-I should also point out that the NGnuity: Renaissance is not a pacifist movement. If global wealth inequality ever got to a point where we had God-like, biologically-immortal, space-faring trillionaires walking the Earth and continuing to enrich themselves at the expense of the homeless, jobless, weak and frail, then we will have no choice but to fight and destroy them. This isn't Bernie 2016 or Occupy Wallstreet.
+I should also point out that the NGnuity: Renaissance is not a pacifist movement. If global wealth inequality ever got to a point beyond which the future of market societies were dictated by God-like, biologically-immortal, space-faring trillionaires walking the Earth and continuing to enrich themselves at the expense of the homeless, jobless, weak and frail, then we will have no choice but to fight and destroy them. This isn't Bernie 2016. Nor is it Occupy Wallstreet.
 
-We are not pacifists, and never will be. The time for peaceful revolution is long gone. Period. If the Venus project has a problem with that, then they need to go away.
+We are not pacifists, and never will be. The time for peaceful revolution is over. The time for a major shakeup is long overdue. If the Venus project has a problem with that, then they deserve to become irrelevant.
 
 ### Creating Believable Alternatives to Nihilism
 

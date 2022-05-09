@@ -78,7 +78,7 @@ Only if we let go of the steering wheel, will we end up with a Google, Microsoft
 - Our techology tree must evolve away from reliance on centralized means of production. The less we rely on supply chains, the better.
 - + To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again live the hunter-gatherer lifestyle.
 - + This is why classical Marxism may be incompatible with our movement. Classical Marxist mentality still leans heavily toward that of an Agricultural Drone. We seek to live like technologically savvy hunter-gatherers, and to build socialism on our own terms.
-- Automation systems and their blue prints must be kept entirely open source and easily accessible to the average person, thereby enabling the creation of a new society built around the same values and principles as the Linux operating system.
+- Automation systems, and their blueprints, must be kept entirely open source and easily accessible to the average person, thereby enabling the creation of a new society built around the same values and principles as the Linux operating system.
 
 ### A Best Case Scenario for a Technological Singularity
 

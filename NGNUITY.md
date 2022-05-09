@@ -66,17 +66,19 @@ Only if we let go of the steering wheel, will we end up with a Google, Microsoft
 ### A New Philosophy of Automation
 
 - Automation systems must be engineered with simplicity in mind. e.g. Which is better: A cat door, or an automatic door opener with a built-in camera and computer vision?
-- Automated means of production must aim for maximum self-replicating potential and utility. e.g. A cordless drill has greater utility than a box full of screw drivers. A 3d printer has more utility than a paper printer. A desktop computer has more utility than a Television. etc. You can't build everything at home, but if you have a good enough metal, glass and fabric 3d printer, you can easily print yourself the tools needed to make almost everything else.  
+- Automated means of production must aim for maximum self-replicating potential and utility. e.g. A cordless drill has greater utility than a box full of screw drivers. A 3d printer has more utility than a paper printer. A desktop computer has more utility than a Television. etc.
+- + You cannot manufacture everything at home, but if you have a good enough metal, glass and fabric 3d printer, you should already have the basic building blocks needed to recreate the entire human technology tree.
+- + Online tutorials often provide us with highly creative methods of manufacturing goods in ways we would have never otherwise been able to imagine.     
 - Automation must never be used to maximize profits, but to reduce working hours and the cost of goods and services for society as a whole.
 - Automation must be encouraged and accelerated in order to bring about a post-scarcity economy and work-free society as soon as possible. Either through government policy, or by taking matters into our own hands.
-- Automation must not come at the cost of human fitness. E.g. Using a mobility scooter instead of walking when you are not disabled. 
+- Automation must not come at the cost of human fitness. E.g. Using a mobility scooter instead of walking when you are not disabled.
 - + We must build a thriving culture centered around the pursuit of physical fitness and aesthetics, as well as the arts, crafts, scientific innovation and creative endeavours.
 - Automation must be used to regain our humanity, not to dehumanize us. We were hunter-gatherers before we became agricultural drones. We shall use our free time to explore the stars, conquer distant solar systems, find alien life, etc.
+- + We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to.
 - Our techology tree must evolve away from reliance on centralized means of production. The less we rely on supply chains, the better.
-- + We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to. Period.
-- + To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again become Hunter-gatherers.
-- + This is why classical Marxism may be incompatible with our movement. Classical Marxist mentality still leans heavily toward the Agricultural Drone lifestyle. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
-- Automation shall enable the creation of a new society built around the same values and principles as the Linux operating system.
+- + To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again live the Hunter-gatherer lifestyle.
+- + This is why classical Marxism may be incompatible with our movement. Classical Marxist mentality still leans heavily toward that of an Agricultural Drone. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
+- Automation must enable the creation of a new society built around the same values and principles as the Linux operating system.
 
 ### A Best Case Scenario for a Technological Singularity
 

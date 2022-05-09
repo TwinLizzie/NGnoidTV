@@ -510,7 +510,7 @@ In a morbid twist of irony: the human race, and its essence, are saved and prese
 
 Science-fiction aside, I don't think that freezing the human DNA and creating armies of androids and cyborgs makes for a viable political strategy in our present world. Socialism is losing the male vote, because socialism is afraid of embracing the path of Combat. The Fight for the sake of the Fight. Left-wing politics nowadays is far too tame and domesticated, catering more to women and the LGBT.
 
-The NGnuity: Renaissance should therefore aim to create and cultive a collective Warrior culture; with the goal of enabling each and every one of us to become the mightiest, strongest and most powerful entities in the Universe. Hence, the Maximization of Power as an ethical priority, not just the maximization of happiness and the minimization of suffering. Without a strong Warrior culture, you will not only be defeated by your enemies, but your visions of an environmentally-friendly solarpunk future will come off as emasculating and boring to a male audience, who will then turn to the far-right in order to get their fix.
+The NGnuity: Renaissance should therefore aim to cultivate a collective Warrior culture; with the goal of enabling each and every one of us to become the mightiest, strongest and most powerful entities in the Universe. Hence, the Maximization of Power as an ethical priority, not just the maximization of happiness and the minimization of suffering. Without a strong Warrior culture, you will not only be defeated by your enemies, but your visions of an environmentally-friendly solarpunk future will come off as emasculating and boring to a male audience, who will then turn to the far-right in order to get their fix.
 
 ### Individualism vs Collectivism
 

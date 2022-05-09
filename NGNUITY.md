@@ -76,9 +76,9 @@ Only if we let go of the steering wheel, will we end up with a Google, Microsoft
 - Automation must be used to regain our humanity, not to dehumanize us. We were hunter-gatherers before we became agricultural drones. We shall use our free time to explore the stars, conquer distant solar systems, find alien life, etc.
 - + We define Work as: Any labour which you are forced to perform against your will in order to keep society operating. People shouldn't have to Work if they don't want to.
 - Our techology tree must evolve away from reliance on centralized means of production. The less we rely on supply chains, the better.
-- + To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again live the Hunter-gatherer lifestyle.
-- + This is why classical Marxism may be incompatible with our movement. Classical Marxist mentality still leans heavily toward that of an Agricultural Drone. We seek to live like technologically savvy Hunter Gatherers, and to build socialism on our own terms.
-- Automation must enable the creation of a new society built around the same values and principles as the Linux operating system.
+- + To put it simply: Let machines be the agricultural drones that we were forced to become in order to build early human civilization, so that we can once again live the hunter-gatherer lifestyle.
+- + This is why classical Marxism may be incompatible with our movement. Classical Marxist mentality still leans heavily toward that of an Agricultural Drone. We seek to live like technologically savvy hunter-gatherers, and to build socialism on our own terms.
+- Automation systems and their blue prints must be kept entirely open source and easily accessible to the average person, thereby enabling the creation of a new society built around the same values and principles as the Linux operating system.
 
 ### A Best Case Scenario for a Technological Singularity
 

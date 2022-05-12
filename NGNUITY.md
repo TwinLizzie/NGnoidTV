@@ -34,12 +34,14 @@ by Denise Jaimes, Supreme Leader of New Oceania
   * [How to contribute](#how-to-contribute)
 
 ### Introduction
+(Complete)
 
 The NGnuity: Renaissance aims to create an ecosystem of open source software and blueprints for modular, repairable, patent-free and reverse-engineered technologies that will enable a moneyless and post-scarcity economy to come about.
 
 ### What is Post-scarcity?
+(Complete)
 
-Think the Venus Project or the Zeitgeist Movement. Some also like to call it Fully Automated Luxury Communism. Yet Marxist schools of thought tend to be in favour of an economy created by the worker, for the worker. You're a human being, not a worker. In a post-scarcity economy, people will be free to choose whether or not they wish to be workers (the bee), or idlers (the cat).
+Think the Venus Project or the Zeitgeist Movement. Some also like to call it Fully Automated Luxury Communism. Yet Marxist schools of thought tend to be in favour of an economy created by the worker, for the worker. You're a human being, not a worker. In a post-scarcity economy, people will be free to choose whether or not they wish to be workers (the bee), or idlers (the cat). A third lifestyle such as the warriors (the wolf) may be included. Rather than enforcing a [class] based system, a post-scarcity civilization espouses a non-hierarchical, non-compulsory [lifestyle] selection.
 
 Who controls a post-scarcity economy, if not the workers? The collective does, of course - yet it is extremely important not to rely on the word [Worker], as this would imply that someone living in a post-scarcity economy can be anything but.
 
@@ -54,6 +56,7 @@ Additive manufacturing machines, on the other hand, provide a workaround to this
 In spite of the inherent brilliance of this technology, we still need raw energy. Unlike data and knowledge, which can be copied ad infinitum - raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink, the iron ore that we mine) will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
 
 ### What is Accelerationism?
+(Revision Candidate)
 
 Accelerationism is often used interchangably with Terrorism these days; deliberately causing chaos and destruction, in order to make it easier to fill the void of power and overthrow a government.
 
@@ -64,6 +67,7 @@ Some people view this as irresponsible and destructive. In their view, automatio
 Only if we let go of the steering wheel, will we end up with a Google, Microsoft, Amazon, Tesla and Facebook one-world-government.
 
 ### A New Philosophy of Automation
+(Work in progress)
 
 - Automation systems must be engineered with simplicity in mind. e.g. Which is better: A cat door, or an automatic door opener with a built-in camera and computer vision?
 - Automated means of production must aim for maximum self-replicating potential and utility. e.g. A cordless drill has greater utility than a box full of screw drivers. A 3d printer has more utility than a paper printer. A desktop computer has more utility than a Television. etc.
@@ -82,6 +86,7 @@ Only if we let go of the steering wheel, will we end up with a Google, Microsoft
 - Automation systems, and their blueprints, must be kept entirely open source and easily accessible to the average person, thereby enabling the creation of a new society built around the same values and principles as the Linux operating system.
 
 ### A Best Case Scenario for a Technological Singularity
+(Work in progress)
 
 If you've ever looked up `how to brew your own Beer` or `grow your own food` on YouTube, then you've already had a glimpse of what a post-scarcity economy will be like. Early this year (2022) we've even witnessed the proliferation of new 3d printing techniques such as pellet extrusion as well as 'pultrusion', which is by far my favourite, as it allows one to use a cheap, modified $5 hotend combined with a simple 3d printed gear mechanism and a couple of bearings in order to slice and convert plastic PET bottles into usable 3d printer filament.
 
@@ -98,6 +103,7 @@ Eventually, you'll be able to learn how to Learn using online tutorials. And the
 Where we go from there, is a choice I leave to you.
 
 ### Creating an effective Antidote to Big Tech
+(Work in progress)
 
 The Big Tech motto is: You will own Nothing, and you will be Happy. Our motto is: You will be able to own Everything you can possible imagine, and it'll be up to you to use that power responsibly.
 
@@ -112,6 +118,7 @@ It used to be that the CEOs of Big Tech companies stayed at the back of our mind
 Gone are the days of the Tom Andersons, who were maybe known for a couple of awkward college photos of themselves in front of a classroom whiteboard, before fading into humble obscurity. The people in charge of social media platforms today are powerful enough to buy entire states and command their own private mercenary armies. And they've all gotten wealthy thanks to our laziness and our love for overnight shipping. Not that there's anything wrong with doing things more efficiently, so long as it is the people who benefit from this increase in economic productivity, as opposed to a few select men.
 
 ### Creating a viable alternative to Communism and PieInTheSkyism
+(Release candidate)
 
 My own interactions with Marxists (on the internet) haven't been as pleasant as I would have wanted them to be, admittedly. I have never contacted groups such as the Venus Project before. As a teenager, I used to be penpals with British philosopher David Pearce, for some time. The Abolitionist Project and Negative Utilitarianism had a profound influence on me in late high school (2009-2010), though it left a lot to be desired in terms of more immediate concerns such as the growing wealth gap and the rising costs of living. What do I think about the Venus project, anyway?  We pretty much want the same things, and would be happy to work together given the opportunity.
 
@@ -124,6 +131,7 @@ I should also point out that the NGnuity: Renaissance is not a pacifist movement
 We are not pacifists, and never will be. The time for peaceful revolution is over. The time for a major shakeup is long overdue. If the Venus project has a problem with that, then they deserve to become irrelevant.
 
 ### Creating Believable Alternatives to Nihilism
+(Work in progress)
 
 Meme culture, problematic fandoms, celebrity worship, dogecoin, NFTs, the Metaverse and rampant consumerism are all by-products of the global decline in religious belief. As Nietzsche famously put: "God is Dead".
 
@@ -142,6 +150,7 @@ That's the thing - You don't. You force them to change, or you fight them. The p
 It is the neverending struggle for justice and a better world that gives meaning to our lives. Not the acceptance of what is considered 'Good Enough'. Not the acceptance of what is 'comfortable'.
 
 ### Only a Unifying Moral Framework can Bring the Left Together
+(Work in Progress)
 
 The reason we often see so much division among 'The Left' is because people don't have a clue about what they actually want.
 
@@ -170,6 +179,7 @@ The truth is that we already make utilitarian decisions in our daily lives, all 
 However, the vast majority of people are far from being disciplined utilitarians. A truly determined Utilitarian society would be heavily invested in preventative medicine, education, renewable energy, technological advancement and long-term planning, so as to ensure that we neither end up with a Trolley Problem, Self-driving car muder dilemmas, animal testing nor the 5-Patient-organ-transplant horror story. In upcoming chapters I will also elaborate how Artificial Intelligence can greatly enhance utilitarian decision making and also avoid these common myopic pitfalls, which tend to be problems that pertain to contemporary Capitalist societies more than they do so with our proposed Utilitarian ones.
 
 ### Weaponizing Hustle Culture to the detriment of Capitalism
+(Work in progress)
 
 Our bodies never evolved to sit in front of computers, deprived of Vitamin D, typing out lines of code for hours at a time, leaking Melatonin under the glare of the blue fluorescent light. It is precisely because of this that we ought to view Work as a means to an end, not as a virtue in and of itself. Our true virtue should be to live a happy life free from disease and hardship, and allow everybody else to achieve the same.
 
@@ -198,6 +208,7 @@ Another criticism levied against Doreen was that she is a dog walker who works n
 Doesn't make any sense, right? Well, if you go back and read what I've just explained: 1. that Might Makes Right, 2. that history is written by the Victors, and 3. that nobody respects the Weak and Frail, even the Weak and Frail themselves - you'll begin to understand why she got the criticism that she received.
 
 ### Might makes Right is not a statement of Morality
+(Work in progress)
 
 It's not a statement of Morality. It is a statement of Fact. Before we exercise morality, we first need to accept the reality and work around it, as opposed to working against it.
 
@@ -218,6 +229,7 @@ The world needs strongmen; at least, in order to keep the other strongmen at bay
 Anarchists will always fail. r/WorkReform will fail, too. Thomas Hobbes was right. Machiavelli was right. Read 'The Prince' - it will only make you more effective as a leftist.
 
 ### Technology is not the Enemy. Supply Chains are
+(Work in progress)
 
 Indeed, the less we rely on the supply chain, the better. If I wanted to build myself a chair: I would go for a walk into the woods, chop some wood with a home-made axe, chisel out some clever joints, and build myself a chair. No nails required. If I wanted to grow some food: I could plant a few seeds, keep a pile of compost, keep an eye out for pests and disease, and then harvest the fruits of my labour. If I wanted to build myself just a handful of semiconductors: I would need an entire laboratory full of expensive equipment. See where this is going?
 
@@ -244,6 +256,7 @@ But that's not the fault of technology and civilization per se. The real problem
 Reform has already been tried. Communism has already been tried. It's a dead end. Early 21st century culture seems to have an obsession with nostalgia, revival and 'reboots' - something that seems to permeate not just the entertainment industry, but even politics itself. We need new ideas.
 
 ### Liberal Democracy is beset by an inability to generate Radical Change
+(Work in progress)
 
 It was already hard enough to fight for revolution and reform when half a country consisted of hardened gangsters who built skyscrapers without safety gear and hauled illegal liquor for a living.
 
@@ -270,8 +283,9 @@ Creating a culture rich in family values and with a strong national identity is 
 Take countries like Thailand and Samoa for instance. Transgender and gender-nonconforming individuals have been part of their history for centuries. Yet we don't see them marching the streets half-naked waving rainbow flags, wearing leather straps and g-strings. It is not an 'anything goes' type of LGBT acceptance, but rather, an LGBT acceptance that is tied to their country's cultural roots. LGBT people in Thailand, Samoa, India, etc. are still expected to be part of the greater national family, rather than atomized, lost souls with no sense of belonging or identity aside from brand loyalty, consumerism and online echo chambers. Transwomen are expected to be feminine, transmen are expected to be masculine, etc. Subsidized healthcare and pre-puberty hormone blockers for transgender people are therefore of utmost importance in order to ensure this outcome. Sex work, too, should be banned and abolished.
 
 ### Fake news, Parallel Realities and Social Entropy
+(Work in progress)
 
-As I had explained in previous paragraphs: today's world is marked by extreme political division, social media propaganda. Outlandish beliefs. Bizarre fandoms. Echo chambers. Fake news. Chaos. Randomness. Social entropy.
+Our global, modern day political landscape is marked by extreme political division, social media propaganda. Outlandish beliefs. Bizarre fandoms. Echo chambers. Fake news. Chaos. Randomness. Social entropy.
 
 Is this merely the by-product of the internet age, giving everybody a microphone and a platform to express their biases, views and niches? Quite possibly, but it doesn't paint the whole picture. Liberalism, post-modernism and nihilism are at the root of the problem. People who don't believe in anything, will almost invariably fall for anything. Neo-Nazis thrive in post-modern, liberal, nihilistic environments, after all.
 
@@ -284,6 +298,7 @@ That's not to say that everything on the internet is fake news and garbage - onl
 Had you not ended up a flat-Earther, you may have ended up a New Age mystic selling crystals and herbal supplements online, depending on which set of websites were recommended to you first. Again, this isn't a condemnation of open-mindedness. Only a plea for self-awareness, so that we can break out of the predictable patterns that keep us from becoming the most powerful version of ourselves.
 
 ### Tankies, Trumpers, Celebrity Worship and Simping
+(Work in progress)
 
 What is a Tankie? Tankies are left-leaning people, usually Westerners, whose 'activism' and praxis is almost exclusively limited to: cheering for authoritarian regimes that have very little to do with Socialist movements (e.g. Rodrigo Duterte, Vladimir Putin, Bashar Al Assad, etc.) or showing nostalgic admiration for Soviet-era regimes that have long ceased to exist and are no longer relevant to our modern digital age (e.g. USSR, Maoist China, etc.).
 
@@ -302,6 +317,7 @@ See, none of these things would matter if you just created a new movement from s
 This doesn't just apply to tankies. It apples to everything from problematic fandoms such as furries, bronies and weebs, all the way to Donald Trump and Elon Musk supporters. For God's sakes, stop simping! Stop copying someone else's homework. Stop putting your hopes on rich people to solve your problems for you. Do [You].
 
 ### We Work to pay Rent. Not to purchase Goods and Services
+(Release candidate)
 
 In the first few paragraphs, I had talked about how a post-scarcity economy will provide us an abundance of goods and services so affordable they may as well be considered free of charge. Yet the one major obstable to 'full' post-scarcity is the issue of natural resource allocation.
 
@@ -330,6 +346,7 @@ There has only ever been one solution to the problem of neverending real estate 
 The housing crisis is tearing the West apart. So build more houses. If Landlords prevent that from happening, if the government prevents that from happening, if NIMBYs prevent that from happening, then get rid of the landlords, get rid of the government, install a new government, and silence the NIMBYs. Simple.
 
 ### Real Reason why we Hate to go to Work
+(Release candidate)
 
 Why do we hate Work so much? It used to be that we could work a day job, come home to a husband/wife and kids, save up for a house, live happily ever after, etc. Talk trash and laugh with your co-workers. Catch up with them for a beer on Friday and Saturday nights at the pub. Go to the cinema once in a blue moon. Take the kids to soccer practice. And so on.
 
@@ -348,6 +365,7 @@ I consider them to be ghosts of a bygone era. I've had family members who got si
 We must fight the old world till the bitter end. Fight the reactionaries who get in the way of progress. All reactionaries are a paper tiger; for the soul can tell whether or not it is choosing to fight and die for a just cause.
 
 ### Weaknesses and Strengths of the Antiwork movement
+(Work in progress)
 
 At some point you're going to be ridiculed for adhering to the Anti-work ideology, which is why it is important to build emotional and economic self-reliance. Not [just] economic self-reliance. Long commutes, long working hours and even Work From Home are making political activism and community organizing harder than ever. Having an android companion to compensate for extended periods of solitude and alienation would be an advantage.
 
@@ -360,6 +378,7 @@ We've already seen it with the downfall of the r/Antiwork movement. They seemed 
 The beauty of the NGnuity: Renaissance is that it doesn't need the whole world to be on board in order for it to be successful. If we could just get one person to build themselves a fully automated, economically self-sufficient homestead, then we've won the economic war. Parallel economies and massive boycotts of industries would cause even more layoffs and bankruptcies, accelerating the progression toward the final showdown.
 
 ### A Call to Never Surrender. A Call to Anti-Capitalist Jihad
+(Work in progress)
 
 "It's easier to imagine the end of the world than the end of Capitalism" - according to the Slavoj Zizek and Mark Fisher circles.
 
@@ -378,6 +397,7 @@ The only answer is to never stop fighting. Go out with a bang. Drag your enemy d
 The only answer is anti-capitalist Jihad. Jihad in this case is defined as [struggle]; the intensity of which should be entirely up to your own temperament and gut feeling, provided one sets out to target those who wield the greatest military, economic and political power, as opposed to innocent civilians.
 
 ### 3D Printing allows for Worker cooperatives and Socialist movements to be built entirely online
+(Work in progress)
 
 That's exactly right.
 
@@ -390,6 +410,7 @@ We can't keep handicapping ourselves like this. It took nearly 11 years of Occup
 Embrace technology.
 
 ### On Artificial Intelligence-Run Governments
+(Work in progress)
 
 Should Artificial Intelligence be in charge of all policy-making? Of course, but that depends on who is responsbile for training the neural networks and/or writing the code.
 
@@ -416,6 +437,7 @@ When it comes to Big AI, the rule of thumb should be: It's better to have it and
 Big AI should, for the most part, lay dormant. Just as authoritarianism does in any given democracy; only to be reawakened in a state of emergency. We will always live under the subliminal terror of the Leviathan, and the Leviathan is [us].
 
 ### On Feminism and Family Planning
+(Work in progress)
 
 The date at the time of writing this chapter is the 4th of May, 2022, and a leaked document has revealed that the U.S. Supreme Court has voted to overturn abortion rights (Roe vs. Wade).
 
@@ -432,6 +454,7 @@ U.S. politics in general are riddled by contradiction after contradiction. So ca
 Common sense is dying, but maybe common sense never existed in the first place. Cold hard logic and computation is our only salvation. I have done the math, and have determined that it would be far better for the U.S. to collapse altogether. For it is only from the ashes of Western democracies that truly bold and ambitious political systems can come about.
 
 ### On Animal Rights and Veganism
+(Work in progress)
 
 In previous chapters I'd talked about Post-Scarcity, Accelerationism and Utilitarianism.
 
@@ -466,6 +489,7 @@ The purpose of life is to acquire Power. To become master of the cosmos. To beco
 And if you can't make it, you die trying. Don't go gentle into that good night. Rage against the dying of the light.
 
 ### On Anarchism, Unions and Leaderless Societies
+(Work in progress)
 
 Throughout this book I've extensively put forth my Hobbesian, Machiavellian and Realitst views on government, authority and power, and why I think that the only way for the Left to succeed is for them to be united by a strong authority that holds maximum power.
 
@@ -478,6 +502,7 @@ But if they can make it work in the long term - they've earned the bragging righ
 The NGnuity: Renaissance is anarchist at heart, while still prescribing realist and pragmatic approaches to building the societies of tomorrow. I don't necessarily believe that we absolutely [have to] build autocratic cyberocracies in order to realize any of the ideals of post-scarcity and common prosperity I'd previously written about, only that it may be the last remaining option in the face of a global environmental, economic and political catastrophe that is beyond fixing.
 
 ### On Fascism, Human Nature and Post-Humanism
+(Release candidate)
 
 Is human nature fundamentally evil and doomed to produce corrupted societies? Yes, and I'll explain why. I'll also be engaging in an indepth discussion of the hyper-masculine roots of Fascism, and making a case for a Post-Humanist revolution.
 
@@ -522,6 +547,7 @@ A lot of people on the left frequently cite Native American tribes and ancient h
 Human nature is evil. Native American and Maori tribes committed horrendous attrocities, and to deny that, would be to deny their humanity, ironically enough. At the very foundation of Post-Humanist and Transhumanist thought is the rejection of the Natural State of Humanity as an ideal to uphold, which isn't to say that we can't preserve the best of what it means to be human, while confining the rest to the dustbin of evolutionary history.
 
 ### Individualism vs Collectivism
+(Work in progress)
 
 One could argue of the existence of a so called 'bad' individualism as well as a 'bad' collectivism.
 
@@ -540,6 +566,7 @@ If I wanted to save the life of someone dying of brain cancer, I wouldn't be abl
 The more Power you have, the better. Without Power, you cannot do harm. But you cannot do good, either. We should only strive to maximize our Power for the greater good, [not] at the expense of it.
 
 ### How to contribute
+(Work in progress)
 
 No money is needed. Only data, knowledge and information. Simply give away as much free data and knowledge as possible on any of the sites and repositories that are linked to the NGnuity: Renaissance (such as Ngnoid TV or Ngnoid 3d). Preferably anything that is obscure and hard to find, but of good quality and in good faith nonetheless.
 

@@ -56,7 +56,7 @@ Additive manufacturing machines, on the other hand, provide a workaround to this
 In spite of the inherent brilliance of this technology, we still need raw energy. Unlike data and knowledge, which can be copied ad infinitum - raw energy (e.g. the air that you breathe, the land that you live on, the fresh water you drink, the iron ore that we mine) will always be scarce until the heat death of the Universe - which is why it should be regulated and distributed by a central authority to ensure everyone gets a fair share. Period.
 
 ### What is Accelerationism?
-(Revision Candidate)
+(Release Candidate)
 
 Accelerationism is often used interchangably with Terrorism these days; deliberately causing chaos and destruction, in order to make it easier to fill the void of power and overthrow a government.
 

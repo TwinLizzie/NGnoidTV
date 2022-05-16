@@ -587,6 +587,12 @@ I'd like to also propose a different type of panpsychism known as Energy Panpsyc
 
 When we die, our brains do not cease to be the most complex object in the universe. At least, not until it is fully decomposed. Neurons and electrical signals simply stop firing; they cease to be in motion. They get colder, and consume less energy. So it's clear that complexity alone doesn't produce the 'waking conscious' we are so familiar with, which, again, is nothing more than the byproduct of the Ego; The event-recording algorithm. The 3d modeler. The goal-setter. The philosopher. The lover, and the hater of things.  
 
+A lot of people seem bothered by the philosophy of Panpsychism. That's because the idea that all matter is conscious, is fundamentally the same as the idea that none of it is; that it's all just an illusion. Is the glass half empty, or is it half full? If a tree falls in a forest and nobody is there to hear it, does it make a sound? Even the staunchly materialistic scientist seems be bothered by this notion. That we're just not that special, that the world doesn't revolve around us.   
+
+No matter how many breakthroughs we make in the field of consciousness, there will always be things that we will simply never understand the true nature of. Even if we did manage to escape the Heat Death of the Universe, and transport ourselves to a parallel cosmos, we will still be trapped in an infinitely nested multiverse, of distances far beyond our reach. Unless we make peace with that, we will be forever chasing our own tails, and potentially even missing out on other, more fruitful scientific discoveries.
+
+For one, Panpsychism doesn't prohibit further advancements in neuroscience. All it does is answer the question about the fundamental nature of consciousness (i.e. its non-existence as something separate from matter). It doesn't explain anything about its intricate details. Rather than worrying about the nature of consciousness, we may as well figure out how to enrich it. How psychedelics work, how to generate mystical experiences. How to cure alzheimers, how to eradicate depression and anxiety. There's still a grand adventure that awaits us, aside from worrying about whether or not the cashier at your local supermarket is conscious, or just a philosophical zombie.
+
 "But if you close your eyes, does it almost feel like nothing changed at all?" - Pompeii, Bastille.
 
 ### How to contribute

@@ -31,6 +31,7 @@ by Denise Jaimes, Supreme Leader of New Oceania
   * [On Anarchism, Unions and Leaderless Societies](#on-anarchism-unions-and-leaderless-societies)
   * [On Fascism, Human Nature and Post-Humanism](#on-fascism-human-nature-and-post-humanism)
   * [Invididualism vs Collectivism](#individualism-vs-collectivism)
+  * [On Consciousness, of Human and Machine](#on-consciousness-of-human-and-machine)
   * [How to contribute](#how-to-contribute)
 
 ### Introduction
@@ -560,6 +561,33 @@ Not at all. Without Power: you won't have any capacity to maximize or minimize s
 If I wanted to save the life of someone dying of brain cancer, I wouldn't be able to do it without academic qualifications and medical experience. No matter how good of a person I am.
 
 The more Power you have, the better. Without Power, you cannot do harm. But you cannot do good, either. We should only strive to maximize our Power for the greater good, [not] at the expense of it.
+
+### On Consciousness, of Human and Machine
+(Release candidate)
+
+Consciousness, for lack of a better word, is an illusion. I personally fall into the category of Panpsychist; I believe that all matter in the universe possesses some degree, and some unique form, of consciousness.
+
+The 'waking consciousness' you're currently experiencing as you read these paragraphs is merely the byproduct of your brain logging a sequence of events into your short term memory. You woke up, you had a coffee. You turned on your computer. You're scrolling with your mouse. You saw a moth on your window. It's rainy outside. Your cat is rolling on the carpet. Those are all events being registered by the sense, into the short term memory, and eventually, the long term memory, if a particular event stands out.
+
+We don't always log every single event into the short term memory, however. When you go for a walk outside, you hardly remember how many steps you take. When you breathe, you hardly notice the duration of each breath, unless you consciously choose to pay attention to it. When you drive, you hardly think about how many times you hit the breaks or the exact angle of your steering wheel at each turn.
+
+Likewise, when you fall asleep, and wake up the next morning, you don't always recall the dreams of the previous night. But just because you don't remember a dream, doesn't mean they 'didn't happen'. So there are a lot of things that our brain may be 'experiencing' each and every second, but simply not 'recording'. Which, again, does not diminish the reality of the experience.
+
+This I believe is how (most) computers and 'non-living' things may experience consciousness. There's always something 'there', it simply isn't being recorded as memory. It's not being internalized by an Ego, which brings me to my next point: just because all matter is 'conscious', doesn't mean that it has an Ego. 
+
+A lot of people confuse the Ego with the Conscious, which is fair enough, as only the Ego could be preoccupied with philosophical thoughts about the nature of consciousness to begin with. Your Ego is your personality. Your desires, ambitions, goals, wants and needs. Preferences, love and hate. Your Ego is your collection of memories. That's all what makes you who you are. If your memories disappear, then quite frankly, [you] disappear.   
+
+What are the implications of this model of consciousness? Does this mean that security cameras with computer vision software, have an Ego, and experience the world in the same way that we do? To some extent, yes. However, the human visual field doesn't just perceive a 2D grid of pixels. We also perceive 3-dimensional depth. Our mind creates an internal 3d model of our surroundings, which is particularly detailed in those who are blind. If you were to close your eyes, you could still reasonably navigate your surroundings, even as a non-blind individual. So in order to build AI that perceives the world as we do, it would have to also have an internal 3d model of its surroundings, allowing it to continue operating in the event of visual sensor malfunction. 
+
+A machine with a human-like Ego would also have to record each and every single event, both in visual format, as well as in written language. e.g. So for each 10 second video footage of its surroundings, there must be a neural network that translates what is happening into readable text: "There's a cat lying on the carpet. There's a coffee cup placed on the table. A moth just landed on my computer screen. etc." Using this language model to describe the surrounding environment will also save storage space on hard drives and avoid having to fill everything up with video footage (except for events that stand out) in order for it to perform basic memory recall.        
+
+Great. We now have a machine with a 3d model of its surroundings, a memory-recall algorithm that witnesses events and stores them both as video footage and human-readable text - now we only need to imprint this AI with its own goals, ambitions, desires, tastes, distastes and some personality quirks. It must be capable of quantifying reward (pleasure), and quantifying punishment (pain), in response to desirable, and undesirable actions. Just as current state-of-the-art reinforcement learning algorithms do. Add in some randomization of actions, and you'll have yourself a real human being with an Ego. The rest is raw logic. 
+
+I'd like to also propose a different type of panpsychism known as Energy Panpsychism. I don't necessarily think that all matter in the universe is conscious, but only that which is in motion. Which means practically everything, right? Yes and no. A block of ice has far less motion in it than boiling water. A dead body has far less motion in it than a live body. And so on, and so forth.
+
+When we die, our brains do not cease to be the most complex object in the universe. At least, not until it is fully decomposed. Neurons and electrical signals simply stop firing; they cease to be in motion. They get colder, and consume less energy. So it's clear that complexity alone doesn't produce the 'waking conscious' we are so familiar with, which, again, is nothing more than the byproduct of the Ego; The event-recording algorithm. The 3d modeler. The goal-setter. The philosopher. The lover, and the hater of things.  
+
+"But if you close your eyes, does it almost feel like nothing changed at all?" - Pompeii, Bastille.
 
 ### How to contribute
 (Work in progress)

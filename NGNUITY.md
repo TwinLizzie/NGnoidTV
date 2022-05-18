@@ -379,7 +379,7 @@ The beauty of the NGnuity: Renaissance is that it doesn't need the whole world t
 
 "It's easier to imagine the end of the world than the end of Capitalism" - a quote often attributed to authors such as Slavoj Zizek and Mark Fisher. 
 
-It would, in fact, be better for the world to burn to the ground if Capitalism were to prevail. There's two paths one can take in the face of political hopelessness: either one becomes a Doomsday Prepper, a homesteader, an isolationist - orone simply stops having kids, pouring gasoline all over the flame; letting go of the proverbial steering wheel and allowing civilization to collapse from population decline, riots, rampant crime and climate catastrophe.
+It would, in fact, be better for the world to burn to the ground if Capitalism were to prevail. There's two paths one can take in the face of political hopelessness: either one becomes a Doomsday Prepper, a homesteader, an isolationist - or, one simply stops having kids, pouring gasoline all over the flame; letting go of the proverbial steering wheel and allowing civilization to collapse from population decline, riots, rampant crime and climate catastrophe.
 
 If you're going to go the Doomsday Prepper route, be sure to stock up on a lion's share of computer chips, preferably with AI and deep learning capability. You're not going to repopulate the world without resorting to inbreeding. You need at least 500 people to do so successfully. Otherwise, good luck practicing incest and potentially giving birth to children with genetic disabilities, further putting strain on your tiny bunker colony.
 
